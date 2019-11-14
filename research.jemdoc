@@ -4,11 +4,23 @@
 
 == Recent News
 
-- Our recent paper is a [https://www.iros2019.org/awards Best Cognitive Robotics Paper Finalist] at IROS 2019! We leveraged [http://roboturk.stanford.edu/ RoboTurk] to create the largest physical robot dataset ever collected via human teleoperation.
+- We released our [http://arxiv.org/abs/1911.05321 paper] on offline learning from large-scale robot manipulation datasets and demonstrated that it can learn from our [http://roboturk.stanford.edu/dataset.html crowdsourced RoboTurk dataset] without requiring additional interaction. See our [http://arxiv.org/abs/1911.05321 paper], [https://sites.google.com/stanford.edu/iris/ website], and [https://www.youtube.com/watch?v=H9KZgrI2I7I&feature=emb_title video] for more details! 
 
-- Our [https://arxiv.org/abs/1909.04121 paper] on leveraging an ensemble of partial solutions to guide agent exploration during reinforcement learning will appear at CoRL 2019. 
+- Our recent [https://arxiv.org/abs/1911.04052 paper] is a [https://www.iros2019.org/awards Best Cognitive Robotics Paper Finalist] at IROS 2019! We leveraged [http://roboturk.stanford.edu/ RoboTurk] to create the largest physical robot manipulation dataset ever collected via human teleoperation. See our [https://arxiv.org/abs/1911.04052 paper], [http://ai.stanford.edu/blog/roboturk/ blog post], [http://roboturk.stanford.edu/realrobotdataset website], and [https://www.youtube.com/watch?v=Q5uFlJ6hXx8&feature=youtu.be talk]! Dataset coming soon.
+
+- See our [https://arxiv.org/abs/1909.09674 paper], [http://ai.stanford.edu/blog/assistive-latent-spaces/ blog post], and [https://www.youtube.com/watch?v=wjnhrzugBj4&feature=youtu.be video] on learning latent action spaces for assisted teleoperation! 
+
+- Our [https://arxiv.org/abs/1909.04121 paper] on leveraging an ensemble of partial solutions to guide agent exploration during reinforcement learning appeared at CoRL 2019. Check out our [http://ai.stanford.edu/blog/acteach/ blog post], [https://sites.google.com/view/acteach/ website], and [https://www.youtube.com/watch?v=1QMPpYGrVCo&feature=emb_title talk] for more details!
 
 == Publications
+
+~~~
+{}{img_left}{assets/iris/thumbnail.png}{Thumbnail}{225}{150}{}
+*IRIS: Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data* \n\n
+*Ajay Mandlekar*, Fabio Ramos, Byron Boots, Li Fei-Fei , Animesh Garg, Dieter Fox \n\n
+*ICRA 2020 (in review)* \n\n
+\[[http://arxiv.org/abs/1911.05321 pdf]] \[[https://sites.google.com/stanford.edu/iris/ website]] \[[https://www.youtube.com/watch?v=H9KZgrI2I7I&feature=emb_title video]]
+~~~
 
 ~~~
 {}{img_left}{assets/RoboTurk/mandlekar_iros19.png}{RoboTurk Real Dataset}{225}{150}{}
@@ -16,6 +28,15 @@
 *Ajay Mandlekar*, Jonathan Booher, Max Spero, Albert Tung, Anchit Gupta, Yuke Zhu, Animesh Garg, Silvio Savarese, Li Fei-Fei  \n\n
 *Best Cognitive Robotics Paper Finalist* \n\n
 *IROS 2019* \n\n
+\[[https://arxiv.org/abs/1911.04052 pdf]] \[[http://roboturk.stanford.edu/realrobotdataset website]] \[[http://ai.stanford.edu/blog/roboturk/ blog]] \[[https://www.youtube.com/watch?v=Q5uFlJ6hXx8&feature=youtu.be talk]]
+~~~
+
+~~~
+{}{img_left}{assets/teleop_maps/thumbnail.png}{Thumbnail}{225}{150}{}
+*Controlling Assistive Robots with Learned Latent Actions* \n\n
+Dylan P. Losey, Krishnan Srinivasan, *Ajay Mandlekar*, Animesh Garg, Dorsa Sadigh \n\n
+*RA-L / ICRA 2020 (in review)* \n\n
+\[[https://arxiv.org/abs/1909.09674 pdf]] \[[http://ai.stanford.edu/blog/assistive-latent-spaces/ blog]] \[[https://www.youtube.com/watch?v=wjnhrzugBj4&feature=youtu.be video]]
 ~~~
 
 ~~~
@@ -23,7 +44,7 @@
 *AC-Teach: A Bayesian Actor-Critic Method for Policy Learning with an Ensemble of Suboptimal Teachers* \n\n
 Andrey Kurenkov\*, *Ajay Mandlekar\**, Roberto Martin-Martin, Silvio Savarese, Animesh Garg \n\n
 *CoRL 2019* \n\n
-\[[https://arxiv.org/abs/1909.04121 pdf]] \[[https://sites.google.com/view/acteach/ project]] \[[http://ai.stanford.edu/blog/acteach/ blog]]
+\[[https://arxiv.org/abs/1909.04121 pdf]] \[[https://sites.google.com/view/acteach/ website]] \[[http://ai.stanford.edu/blog/acteach/ blog]] \[[https://www.youtube.com/watch?v=1QMPpYGrVCo&feature=emb_title talk]]
 ~~~
 
 ~~~
@@ -31,7 +52,7 @@ Andrey Kurenkov\*, *Ajay Mandlekar\**, Roberto Martin-Martin, Silvio Savarese, A
 *RoboTurk: A Crowdsourcing Platform for Robotic Skill Learning through Imitation* \n\n
 *Ajay Mandlekar*, Yuke Zhu, Animesh Garg, Jonathan Booher, Max Spero, Albert Tung, Julian Gao, John Emmons, Anchit Gupta, Emre Orbay, Silvio Savarese, Li Fei-Fei \n\n
 *CoRL 2018* \n\n
-\[[https://arxiv.org/abs/1811.02790 pdf]] \[[http://roboturk.stanford.edu/ project]] \[[https://www.youtube.com/watch?v=ugCBLNLWDM8&feature=youtu.be&t=6h46m30s talk]]
+\[[https://arxiv.org/abs/1811.02790 pdf]] \[[http://roboturk.stanford.edu/ website]] \[[https://www.youtube.com/watch?v=ugCBLNLWDM8&feature=youtu.be&t=6h46m30s talk]]
 ~~~
 
 ~~~
@@ -39,7 +60,7 @@ Andrey Kurenkov\*, *Ajay Mandlekar\**, Roberto Martin-Martin, Silvio Savarese, A
 *Adversarially Robust Policy Learning: Active Construction of Physically-Plausible Perturbations* \n\n
 *Ajay Mandlekar\**, Yuke Zhu\*, Animesh Garg\*, Li Fei-Fei, Silvio Savarese \n\n
 *IROS 2017* \n\n
-\[[http://stanfordvl.github.io/ARPL/arpl_mzg_iros17.pdf pdf]] \[[http://stanfordvl.github.io/ARPL/ project]] \[[https://www.youtube.com/watch?v=yZ-gSsbbzh0 video]]
+\[[http://stanfordvl.github.io/ARPL/arpl_mzg_iros17.pdf pdf]] \[[http://stanfordvl.github.io/ARPL/ website]] \[[https://www.youtube.com/watch?v=yZ-gSsbbzh0 video]]
 ~~~
 
 ~~~

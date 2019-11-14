@@ -17,13 +17,17 @@ Email: [amandlek@stanford.edu]
 
 == Recent News
 
-- Our recent paper is a [https://www.iros2019.org/awards Best Cognitive Robotics Paper Finalist] at IROS 2019! We leveraged [http://roboturk.stanford.edu/ RoboTurk] to create the largest physical robot dataset ever collected via human teleoperation.
+- We released our [http://arxiv.org/abs/1911.05321 paper] on offline learning from large-scale robot manipulation datasets and demonstrated that it can learn from our [http://roboturk.stanford.edu/dataset.html crowdsourced RoboTurk dataset] without requiring additional interaction. See our [http://arxiv.org/abs/1911.05321 paper], [https://sites.google.com/stanford.edu/iris/ website], and [https://www.youtube.com/watch?v=H9KZgrI2I7I&feature=emb_title video] for more details! 
 
-- Our [https://arxiv.org/abs/1909.04121 paper] on leveraging an ensemble of partial solutions to guide agent exploration during reinforcement learning will appear at CoRL 2019. 
+- Our recent [https://arxiv.org/abs/1911.04052 paper] is a [https://www.iros2019.org/awards Best Cognitive Robotics Paper Finalist] at IROS 2019! We leveraged [http://roboturk.stanford.edu/ RoboTurk] to create the largest physical robot manipulation dataset ever collected via human teleoperation. See our [https://arxiv.org/abs/1911.04052 paper], [http://ai.stanford.edu/blog/roboturk/ blog post], [http://roboturk.stanford.edu/realrobotdataset website], and [https://www.youtube.com/watch?v=Q5uFlJ6hXx8&feature=youtu.be talk]! Dataset coming soon.
+
+- See our [https://arxiv.org/abs/1909.09674 paper], [http://ai.stanford.edu/blog/assistive-latent-spaces/ blog post], and [https://www.youtube.com/watch?v=wjnhrzugBj4&feature=youtu.be video] on learning latent action spaces for assisted teleoperation! 
+
+- Our [https://arxiv.org/abs/1909.04121 paper] on leveraging an ensemble of partial solutions to guide agent exploration during reinforcement learning appeared at CoRL 2019. Check out our [http://ai.stanford.edu/blog/acteach/ blog post], [https://sites.google.com/view/acteach/ website], and [https://www.youtube.com/watch?v=1QMPpYGrVCo&feature=emb_title talk] for more details!
 
 == About Me
 
-I am a PhD student in the [http://svl.stanford.edu/ Stanford Vision and Learning Lab] advised by [http://cvgl.stanford.edu/silvio/ Silvio Savarese] and [http://vision.stanford.edu/feifeili/ Fei-Fei Li]. I work on applying Reinforcement Learning and Imitation Learning to Robotics. In particular, I'm interested in building systems and algorithms to allow robots to leverage human insight for manipulation. 
+I am a PhD candidate in the [http://svl.stanford.edu/ Stanford Vision and Learning Lab] advised by [http://cvgl.stanford.edu/silvio/ Silvio Savarese] and [http://vision.stanford.edu/feifeili/ Fei-Fei Li]. I work on applying Reinforcement Learning and Imitation Learning to Robotics. In particular, I'm interested in building systems and algorithms to allow robots to leverage human insight for manipulation. 
 
 Currently, I am developing a [http://roboturk.stanford.edu/ data collection system] for robotic manipulation tasks. The core goal of our system is to enable large-scale human supervision for robots. 
 
