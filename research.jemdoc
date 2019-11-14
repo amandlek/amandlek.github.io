@@ -1,0 +1,52 @@
+# jemdoc: menu{MENU}{research.html}
+= Ajay U. Mandlekar -- Research
+[https://ee.stanford.edu Department of Electrical Engineering], [https://stanford.edu Stanford University]
+
+== Recent News
+
+- Our recent paper is a [https://www.iros2019.org/awards Best Cognitive Robotics Paper Finalist] at IROS 2019! We leveraged [http://roboturk.stanford.edu/ RoboTurk] to create the largest physical robot dataset ever collected via human teleoperation.
+
+- Our [https://arxiv.org/abs/1909.04121 paper] on leveraging an ensemble of partial solutions to guide agent exploration during reinforcement learning will appear at CoRL 2019. 
+
+== Publications
+
+~~~
+{}{img_left}{assets/RoboTurk/mandlekar_iros19.png}{RoboTurk Real Dataset}{225}{150}{}
+*Scaling Robot Supervision to Hundreds of Hours with RoboTurk: Robotic Manipulation Dataset through Human Reasoning and Dexterity * \n\n
+*Ajay Mandlekar*, Jonathan Booher, Max Spero, Albert Tung, Anchit Gupta, Yuke Zhu, Animesh Garg, Silvio Savarese, Li Fei-Fei  \n\n
+*Best Cognitive Robotics Paper Finalist* \n\n
+*IROS 2019* \n\n
+~~~
+
+~~~
+{}{img_left}{assets/AC-Teach/fig.png}{AC-Teach Figure}{225}{150}{}
+*AC-Teach: A Bayesian Actor-Critic Method for Policy Learning with an Ensemble of Suboptimal Teachers* \n\n
+Andrey Kurenkov\*, *Ajay Mandlekar\**, Roberto Martin-Martin, Silvio Savarese, Animesh Garg \n\n
+*CoRL 2019* \n\n
+\[[https://arxiv.org/abs/1909.04121 pdf]] \[[https://sites.google.com/view/acteach/ project]] \[[http://ai.stanford.edu/blog/acteach/ blog]]
+~~~
+
+~~~
+{}{img_left}{assets/RoboTurk/demos.png}{RoboTurk Figure}{225}{150}{}
+*RoboTurk: A Crowdsourcing Platform for Robotic Skill Learning through Imitation* \n\n
+*Ajay Mandlekar*, Yuke Zhu, Animesh Garg, Jonathan Booher, Max Spero, Albert Tung, Julian Gao, John Emmons, Anchit Gupta, Emre Orbay, Silvio Savarese, Li Fei-Fei \n\n
+*CoRL 2018* \n\n
+\[[https://arxiv.org/abs/1811.02790 pdf]] \[[http://roboturk.stanford.edu/ project]] \[[https://www.youtube.com/watch?v=ugCBLNLWDM8&feature=youtu.be&t=6h46m30s talk]]
+~~~
+
+~~~
+{}{img_left}{assets/ARPL/robust.png}{ARPL Figure}{225}{150}{}
+*Adversarially Robust Policy Learning: Active Construction of Physically-Plausible Perturbations* \n\n
+*Ajay Mandlekar\**, Yuke Zhu\*, Animesh Garg\*, Li Fei-Fei, Silvio Savarese \n\n
+*IROS 2017* \n\n
+\[[http://stanfordvl.github.io/ARPL/arpl_mzg_iros17.pdf pdf]] \[[http://stanfordvl.github.io/ARPL/ project]] \[[https://www.youtube.com/watch?v=yZ-gSsbbzh0 video]]
+~~~
+
+~~~
+{}{img_left}{assets/RSIRL/fig.png}{RSIRL Figure}{225}{150}{}
+*Risk-sensitive Inverse Reinforcement Learning via Coherent Risk Models* \n\n
+Anirudha Majumdar, Sumeet Singh, *Ajay Mandlekar*, Marco Pavone \n\n
+*RSS 2017* \n\n
+\[[http://rss2017.lids.mit.edu/static/papers/62.pdf pdf]] 
+~~~
+

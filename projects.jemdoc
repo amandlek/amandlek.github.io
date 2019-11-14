@@ -1,0 +1,101 @@
+# jemdoc: menu{MENU}{projects.html}
+= Ajay U. Mandlekar -- Projects
+[https://ee.stanford.edu Department of Electrical Engineering], [https://stanford.edu Stanford University]
+
+== Current Projects
+
+~~~
+{}{img_left}{assets/robosuite/robosuite.png}{robosuite}{300}{100}{}
+*Robosuite* \n\n
+
+I helped develop and currently maintain [https://github.com/StanfordVL/robosuite robosuite], a robot simulation benchmark powered by the [http://mujoco.org/ MuJoCo physics engine].
+~~~
+
+# raw html since jemdoc doesn't naturally support videos
+#~~~
+#{}{raw}
+#<table class="imgtable"><tr><td>
+#<video width="320" height="240" controls>
+#  <source src="assets/CRIMSON/real_robot_demo.mp4" type="video/mp4">
+#Your browser does not support the video tag.
+#</video>&nbsp;</td>
+#<td align="left">
+#<p>
+#<b>Large Scale Remote Teleoperation for Physical Robots</b><br /><br />
+#I am currently working on extending <a href="https://crowdncloud.ai">CRIMSON</a> for the simultaneous remote teleoperation of several physical robots.<br />
+#</p>
+#</td></tr></table>
+#~~~
+
+== Undergraduate Research and Work Experience
+
+~~~
+{}{img_left}{assets/Apple/logo2.png}{Apple Logo}{250}{250}{}
+*Apple iOS Location and Motion SWE Intern* \n\n
+Summer 2015 \n\n
+
+I spent a summer working at Apple. It was my first experience working with deep learning models like CNNs. I was very fortunate to have [https://research.fb.com/people/gauci-jason/ Jason Gauci] as my mentor - I learned a great deal from him. I also had the opportunity to present my work to [https://www.apple.com/leadership/craig-federighi/ Craig Federighi], which was awesome. 
+~~~
+
+~~~
+{}{img_left}{assets/CHIC/logo.png}{CHIC logo}{250}{250}{}
+*Caltech High-Speed Integrated Circuits* \n\n
+Summer 2014 \n\n
+
+I spent a summer working in the [https://chic.caltech.edu/ Caltech High-Speed Integrated Circuits] lab under [https://chic.caltech.edu/hajimiri/ Professor Ali Hajimiri]. I implemented a feedback loop consisting of both hardware and software interfaces, allowing for a wireless power transfer prototype. You can find a video about some of the latest developments on the project below. 
+
+\[[https://www.youtube.com/watch?v=d1_2CkUdnT4 video]] 
+~~~
+
+~~~
+{}{img_left}{assets/SLAC/logo.png}{SLAC logo}{250}{250}{}
+*SLAC National Accelerator Laboratory* \n\n
+Summer 2013 \n\n
+
+I spent a summer working at the [https://www6.slac.stanford.edu/ SLAC National Accelerator Laboratory] under [https://web.stanford.edu/dept/app-physics/cgi-bin/person/tor-o-raubenheimer/ Professor Tor O. Raubenheimer] and [https://profiles.stanford.edu/juhao-wu Dr. Juhao Wu]. I investigated whether harmonic lasing could be used to make the shift towards higher energy radiation. This was my first research experience - I was very fortunate to have [https://web.stanford.edu/dept/app-physics/cgi-bin/person/tor-o-raubenheimer/ Professor Tor O. Raubenheimer] and [https://profiles.stanford.edu/juhao-wu Dr. Juhao Wu] as mentors who took time to teach me how to approach difficult scientific problems. 
+
+\[[assets/SLAC/Final_draft.pdf report]] \[[https://www.sciencedirect.com/science/article/pii/S0168900216311901 publication]] 
+~~~
+
+== Undergraduate Projects
+
+~~~
+{}{img_left}{assets/EE52/fig.png}{MP3 Player Figure}{250}{250}{}
+*Blackfin MP3 Player* \n\n
+Winter and Spring 2014
+
+I built an MP3 player over 2 quarters in sophomore year for our embedded systems project class. By far the most difficult thing I have ever had to do. It even almost worked. You can find an extensive report (aka the longest thing I've ever written) below. Thanks [https://directory.caltech.edu/personnel/gleng Glen]!
+
+\[[assets/EE52/documentation.pdf report]]
+~~~
+
+~~~
+{}{img_left}{assets/CS156b/fig.jpg}{Netflix Figure}{250}{250}{}
+*Netflix Challenge* \n\n
+Spring 2015 \n\n
+
+A couple of my friends and I competed took a project class where we had to essentially participate in the Netflix Challenge. We leveraged a Netflix dataset of user-movie ratings to build a recommender system. This was a great experience in implementing models from papers and working with large datasets. We placed 3rd in our class. 
+
+\[[assets/CS156b/presentation.pdf presentation]]
+~~~
+
+~~~
+{}{img_left}{assets/EE91/fig.png}{Function Generator Figure}{250}{250}{}
+*Analog Function Generator* \n\n
+Winter 2016 \n\n
+
+I built an analog function generator from scratch for a project in senior year! It can generate a square wave, a triangle wave, and a sine wave with different voltage amplitudes and frequencies.
+
+\[[assets/EE91/report.pdf report]]
+~~~
+
+~~~
+{}{img_left}{assets/EE90/fig.png}{Smart Dog Bowl Figure}{250}{250}{}
+*Smart Dog Bowl* \n\n
+Spring 2015 \n\n
+
+I built a dog bowl that can open automatically when a special IR tag (worn by a dog) comes close enough.
+
+\[[assets/EE90/report.pdf report]]
+~~~
+

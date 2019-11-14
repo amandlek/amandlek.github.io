@@ -1,0 +1,39 @@
+# jemdoc: menu{MENU}{index.html}
+= Ajay U. Mandlekar
+
+~~~
+{}{img_left}{assets/self.jpg}{Picture of Ajay.}{150}{184}{}
+[https://www.web.stanford.edu/~amandlek Ajay Mandlekar]\n
+Ph.D. Candidate \n
+[https://www.svl.stanford.edu/ Stanford Vision and Learning Lab] \n
+[https://ee.stanford.edu Department of Electrical Engineering] \n
+[https://stanford.edu Stanford University] \n
+\n
+Advisors: [http://cvgl.stanford.edu/silvio/ Silvio Savarese] and [http://vision.stanford.edu/feifeili/ Fei-Fei Li]
+~~~
+
+== Contact
+Email: [amandlek@stanford.edu]
+
+== Recent News
+
+- Our recent paper is a [https://www.iros2019.org/awards Best Cognitive Robotics Paper Finalist] at IROS 2019! We leveraged [http://roboturk.stanford.edu/ RoboTurk] to create the largest physical robot dataset ever collected via human teleoperation.
+
+- Our [https://arxiv.org/abs/1909.04121 paper] on leveraging an ensemble of partial solutions to guide agent exploration during reinforcement learning will appear at CoRL 2019. 
+
+== About Me
+
+I am a PhD student in the [http://svl.stanford.edu/ Stanford Vision and Learning Lab] advised by [http://cvgl.stanford.edu/silvio/ Silvio Savarese] and [http://vision.stanford.edu/feifeili/ Fei-Fei Li]. I work on applying Reinforcement Learning and Imitation Learning to Robotics. In particular, I'm interested in building systems and algorithms to allow robots to leverage human insight for manipulation. 
+
+Currently, I am developing a [http://roboturk.stanford.edu/ data collection system] for robotic manipulation tasks. The core goal of our system is to enable large-scale human supervision for robots. 
+
+This data can be used in algorithms that combine Imitation and Reinforcement Learning to both speed up policy learning and also enable learning on tasks that could not be solved with Reinforcement Learning alone.  
+
+== Education
+- Ph.D. (in progress), Electrical Engineering, [https://stanford.edu Stanford University], September 2016 - Present
+- M.S., Computer Science, [https://stanford.edu Stanford University], June 2018
+- B.S., Electrical Engineering, [https://www.caltech.edu/ California Institute of Technology], June 2016
+- B.S., Computer Science, [https://www.caltech.edu/ California Institute of Technology], June 2016
+- [https://mvhs.fuhsd.org/ Monta Vista High School], Class of 2012
+
+
