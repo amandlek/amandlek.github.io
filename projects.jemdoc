@@ -5,10 +5,10 @@
 == Current Projects
 
 ~~~
-{}{img_left}{assets/robosuite/robosuite.png}{robosuite}{300}{100}{}
+{}{img_left}{assets/robosuite/thumbnail.png}{robosuite}{225}{150}{}
 *Robosuite* \n\n
 
-I helped develop and currently maintain [https://github.com/StanfordVL/robosuite robosuite], a robot simulation benchmark powered by the [http://mujoco.org/ MuJoCo physics engine].
+I helped develop and currently maintain [http://robosuite.ai/ robosuite], a robot simulation benchmark powered by the [http://mujoco.org/ MuJoCo physics engine].
 ~~~
 
 # raw html since jemdoc doesn't naturally support videos

@@ -4,19 +4,55 @@
 
 == Recent News
 
+- \[December 2020\] We recently extended [https://roboturk.stanford.edu/ RoboTurk] to enable [https://arxiv.org/abs/2012.06733 human-in-the-loop teleoperation] and developed Intervention Weighted Regression, a simple and effective algorithm to learn from such interventions. We showcase results on two challenging contact-rich manipulation tasks requiring precision to solve.
+
+- \[December 2020\] We recently extended [https://roboturk.stanford.edu/ RoboTurk] to enable [https://arxiv.org/abs/2012.06738 multi-user collaborative teleoperation] on challenging multi-arm tasks. We collected datasets on novel two-arm and three-arm tasks and developed a residual policy framework to address the problem of learning from multi-user demonstration data.
+
+- \[December 2020\] Check out our new preprint on [https://arxiv.org/abs/2011.08424 Deep Affordance Foresight], a new model that extends the classical definition of affordance to enable long-horizon planning.
+
+- \[September 2020\] We released [https://robosuite.ai robosuite] v1.0, a modular simulation framework and benchmark for robot learning.
+
 - \[July 2020\] We are organizing the [https://sites.google.com/utexas.edu/rss-2020-imitation-learning/home?authuser=0 Advances and Challenges in Imitation Learning for Robotics] workshop at [https://roboticsconference.org/ RSS 2020].
 
-- \[July 2020\] Our new algorithm, Generalization Through Imitation (GTI), will appear at [https://roboticsconference.org/ RSS 2020]. It enables learning visuomotor control from human demonstrations and generalizing to new long-horizon tasks by leveraging latent compositional structures. See our [https://arxiv.org/abs/2003.06085 paper], [https://sites.google.com/view/gti2020/ website], and [https://www.youtube.com/watch?v=hlvRmLlYHZ0 video] for more details.
-
-- \[May 2020\] Our [http://arxiv.org/abs/1911.05321 paper] on offline learning from large-scale robot manipulation datasets appeared at [http://icra2020.org/ ICRA 2020]. We demonstrated that our algorithm can learn from our [http://roboturk.stanford.edu/dataset.html crowdsourced RoboTurk dataset] without requiring additional interaction. See our [http://arxiv.org/abs/1911.05321 paper], [https://sites.google.com/stanford.edu/iris/ website], and [https://www.youtube.com/watch?v=_7P41XHVHtM&feature=emb_title talk] for more details!
-
 == Publications
+
+~~~
+{}{img_left}{assets/iwr/thumbnail.png}{Thumbnail}{225}{150}{}
+*Human-in-the-Loop Imitation Learning using Remote Teleoperation* \n\n
+*Ajay Mandlekar*, Danfei Xu\*, Roberto Martin-Martin\*, Yuke Zhu, Li Fei-Fei, Silvio Savarese \n\n
+*Under Review* \n\n
+\[[https://arxiv.org/abs/2012.06733 pdf]] \[[https://sites.google.com/stanford.edu/iwr website]] \[[https://www.youtube.com/watch?v=J7yE_UqerDI video]]
+~~~
+
+~~~
+{}{img_left}{assets/mart/thumbnail.png}{Thumbnail}{225}{150}{}
+*Learning Multi-Arm Manipulation Through Collaborative Teleoperation* \n\n
+Albert Tung\*, Josiah Wong\*, *Ajay Mandlekar*, Roberto Martin-Martin, Yuke Zhu, Li Fei-Fei, Silvio Savarese \n\n
+*Under Review* \n\n
+\[[https://arxiv.org/abs/2012.06738 pdf]] \[[https://roboturk.stanford.edu/multiarm website]] \[[https://www.youtube.com/watch?v=5odO4_bh00U&feature=emb_title video]]
+~~~
+
+~~~
+{}{img_left}{assets/daf/thumbnail.png}{Thumbnail}{225}{150}{}
+*Deep Affordance Foresight: Planning Through What Can Be Done in the Future* \n\n
+Danfei Xu, *Ajay Mandlekar*, Roberto Martin-Martin, Yuke Zhu, Silvio Savarese, Li Fei-Fei \n\n
+*Under Review* \n\n
+\[[https://arxiv.org/abs/2011.08424 pdf]] \[[https://sites.google.com/stanford.edu/daf website]] \[[https://www.youtube.com/watch?v=3VD-YoF8jHk video]] \[[https://orlrworkshop.github.io/program/orlr_20.html talk]]
+~~~
+
+~~~
+{}{img_left}{assets/robosuite/thumbnail.png}{Thumbnail}{225}{150}{}
+*robosuite: A Modular Simulation Framework and Benchmark for Robot Learning* \n\n
+Yuke Zhu, Josiah Wong, *Ajay Mandlekar*, Roberto Martin-Martin\n\n
+*Technical Report* \n\n
+\[[https://arxiv.org/abs/2009.12293 pdf]] \[[https://robosuite.ai/ website]]
+~~~
 
 ~~~
 {}{img_left}{assets/gti/thumbnail.png}{Thumbnail}{225}{150}{}
 *Learning to Generalize Across Long-Horizon Tasks from Human Demonstrations* \n\n
 *Ajay Mandlekar\**, Danfei Xu\*, Roberto Martin-Martin, Silvio Savarese, Li Fei-Fei \n\n
-*In Review* \n\n
+*RSS 2020* \n\n
 \[[https://arxiv.org/abs/2003.06085 pdf]] \[[https://sites.google.com/view/gti2020/ website]] \[[https://www.youtube.com/watch?v=hlvRmLlYHZ0 video]]
 ~~~
 
