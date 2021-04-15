@@ -117,7 +117,11 @@ strong {
 
 
 h1, h2, h3 {
+	color: #001c5c;
+	/*
+	note: old shade of blue;
 	color: #527bbd;
+	*/
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -140,6 +144,7 @@ h2 + h3 {
 }
 
 h3 {
+	color: #527bbd;
 	font-size: 110%;
 	border-bottom: none;
 }

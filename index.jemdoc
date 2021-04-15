@@ -14,15 +14,18 @@ Advisors: [http://cvgl.stanford.edu/silvio/ Silvio Savarese] and [http://vision.
 
 == Contact
 Email: [amandlek@stanford.edu] \n
-Twitter: [https://twitter.com/AjayMandlekar @AjayMandlekar]
+Twitter: [https://twitter.com/AjayMandlekar @AjayMandlekar] \n
+Google Scholar: [https://scholar.google.com/citations?user=Wde2GwcAAAAJ&hl=en Ajay Mandlekar] \n
+Github: [https://github.com/amandlek amandlek] \n
+CV: [assets/resume/Resume.pdf link]
 
 == Recent News
 
+- \[March 2021\] Two papers accepted at [http://www.icra2021.org/ ICRA 2021]! Check out our work on [https://arxiv.org/abs/2012.06738 Multi-Arm RoboTurk] and [https://arxiv.org/abs/2011.08424 Deep Affordance Foresight].
+
+- \[March 2021\] New [https://arxiv.org/abs/2103.00375 preprint] on enabling spatial generalization in visuomotor control from human demonstrations using a structured hand-eye action space.
+
 - \[December 2020\] We recently extended [https://roboturk.stanford.edu/ RoboTurk] to enable [https://arxiv.org/abs/2012.06733 human-in-the-loop teleoperation] and developed Intervention Weighted Regression, a simple and effective algorithm to learn from such interventions.
-
-- \[December 2020\] We recently extended [https://roboturk.stanford.edu/ RoboTurk] to enable [https://arxiv.org/abs/2012.06738 multi-user collaborative teleoperation] on challenging multi-arm tasks. We collected datasets on novel two-arm and three-arm tasks and developed a residual policy framework to address the problem of learning from multi-user demonstration data.
-
-- \[December 2020\] Check out our preprint on [https://arxiv.org/abs/2011.08424 Deep Affordance Foresight], a new model that extends the classical definition of affordance to enable long-horizon planning.
 
 - \[September 2020\] We released [https://robosuite.ai robosuite] v1.0, a modular simulation framework and benchmark for robot learning.
 
@@ -30,7 +33,7 @@ Twitter: [https://twitter.com/AjayMandlekar @AjayMandlekar]
 
 == About Me
 
-I am a PhD candidate in the [http://svl.stanford.edu/ Stanford Vision and Learning Lab] advised by [http://cvgl.stanford.edu/silvio/ Silvio Savarese] and [http://vision.stanford.edu/feifeili/ Fei-Fei Li]. I work on applying Reinforcement Learning and Imitation Learning to Robotics. In particular, I'm interested in building systems and algorithms to allow robots to leverage human insight for manipulation. 
+I am a PhD candidate in the [http://svl.stanford.edu/ Stanford Vision and Learning Lab] advised by [http://cvgl.stanford.edu/silvio/ Silvio Savarese] and [http://vision.stanford.edu/feifeili/ Fei-Fei Li]. I work on building systems and algorithms to allow robots to leverage human insight for manipulation. 
 
 == Education
 - Ph.D. (in progress), Electrical Engineering, [https://stanford.edu Stanford University], September 2016 - Present

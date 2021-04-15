@@ -2,114 +2,100 @@
 = Ajay U. Mandlekar -- Research
 [https://ee.stanford.edu Department of Electrical Engineering], [https://stanford.edu Stanford University]
 
-== Recent News
+== Research Demos and Highlights
 
-- \[December 2020\] We recently extended [https://roboturk.stanford.edu/ RoboTurk] to enable [https://arxiv.org/abs/2012.06733 human-in-the-loop teleoperation] and developed Intervention Weighted Regression, a simple and effective algorithm to learn from such interventions. We showcase results on two challenging contact-rich manipulation tasks requiring precision to solve.
+=== RoboTurk
 
-- \[December 2020\] We recently extended [https://roboturk.stanford.edu/ RoboTurk] to enable [https://arxiv.org/abs/2012.06738 multi-user collaborative teleoperation] on challenging multi-arm tasks. We collected datasets on novel two-arm and three-arm tasks and developed a residual policy framework to address the problem of learning from multi-user demonstration data.
+Developing this platform has been a significant part of my PhD. The video below showcases some highlights of what we've been able to accomplish using the platform.
 
-- \[December 2020\] Check out our new preprint on [https://arxiv.org/abs/2011.08424 Deep Affordance Foresight], a new model that extends the classical definition of affordance to enable long-horizon planning.
-
-- \[September 2020\] We released [https://robosuite.ai robosuite] v1.0, a modular simulation framework and benchmark for robot learning.
-
-- \[July 2020\] We are organizing the [https://sites.google.com/utexas.edu/rss-2020-imitation-learning/home?authuser=0 Advances and Challenges in Imitation Learning for Robotics] workshop at [https://roboticsconference.org/ RSS 2020].
-
-== Publications
-
+# raw html since jemdoc doesn't naturally support videos
+# note: the "muted" tag is necessary for autoplay to work
 ~~~
-{}{img_left}{assets/iwr/thumbnail.png}{Thumbnail}{225}{150}{}
-*Human-in-the-Loop Imitation Learning using Remote Teleoperation* \n\n
-*Ajay Mandlekar*, Danfei Xu\*, Roberto Martin-Martin\*, Yuke Zhu, Li Fei-Fei, Silvio Savarese \n\n
-*Under Review* \n\n
-\[[https://arxiv.org/abs/2012.06733 pdf]] \[[https://sites.google.com/stanford.edu/iwr website]] \[[https://www.youtube.com/watch?v=J7yE_UqerDI video]]
+{}{raw}
+<video autoplay muted loop controls id="roboturk" width="auto" height="320">
+ <source src="assets/demos/roboturk.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+ Your browser does not support the video tag.
+</video>
 ~~~
 
+=== Visuomotor Policy Learning on Real Robots
+
+This is a closed-loop visuomotor policy operating at 20 hz using an action space consisting of an operational space controller. It was trained using a handful of human demonstrations collected with RoboTurk. See our work on [https://sites.google.com/view/gti2020/ Generalization Through Imitation] for more information.
+
+# raw html since jemdoc doesn't naturally support videos
+# note: the "muted" tag is necessary for autoplay to work
 ~~~
-{}{img_left}{assets/mart/thumbnail.png}{Thumbnail}{225}{150}{}
-*Learning Multi-Arm Manipulation Through Collaborative Teleoperation* \n\n
-Albert Tung\*, Josiah Wong\*, *Ajay Mandlekar*, Roberto Martin-Martin, Yuke Zhu, Li Fei-Fei, Silvio Savarese \n\n
-*Under Review* \n\n
-\[[https://arxiv.org/abs/2012.06738 pdf]] \[[https://roboturk.stanford.edu/multiarm website]] \[[https://www.youtube.com/watch?v=5odO4_bh00U&feature=emb_title video]]
+{}{raw}
+<video autoplay muted loop controls id="gti" width="auto" height="320">
+ <source src="assets/demos/gti.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+ Your browser does not support the video tag.
+</video>
 ~~~
 
+
+=== Robosuite
+
+Simulation framework for robotic manipulation. Features include several robot models, controllers, and benchmark tasks, procedural generation of tasks, multi-modal sensors, and support for human demonstrations. See the [http://robosuite.ai/ website] for more information or try the [https://github.com/ARISE-Initiative/robosuite code] out yourself.
+
+# raw html since jemdoc doesn't naturally support videos
+# note: the "muted" tag is necessary for autoplay to work
 ~~~
-{}{img_left}{assets/daf/thumbnail.png}{Thumbnail}{225}{150}{}
-*Deep Affordance Foresight: Planning Through What Can Be Done in the Future* \n\n
-Danfei Xu, *Ajay Mandlekar*, Roberto Martin-Martin, Yuke Zhu, Silvio Savarese, Li Fei-Fei \n\n
-*Under Review* \n\n
-\[[https://arxiv.org/abs/2011.08424 pdf]] \[[https://sites.google.com/stanford.edu/daf website]] \[[https://www.youtube.com/watch?v=3VD-YoF8jHk video]] \[[https://orlrworkshop.github.io/program/orlr_20.html talk]]
+{}{raw}
+<video autoplay muted loop controls id="robosuite" width="auto" height="320">
+ <source src="assets/demos/robosuite.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+ Your browser does not support the video tag.
+</video>
 ~~~
 
+
+== Selected Talks
+
+=== Large-Scale Human Supervision for Learning Robot Manipulation
+
+- \[April 2021\] Talk on RoboTurk presented at NVIDIA GTC 2021.
+
+# raw html since jemdoc doesn't naturally support videos
+# note: the "muted" tag is necessary for autoplay to work
 ~~~
-{}{img_left}{assets/robosuite/thumbnail.png}{Thumbnail}{225}{150}{}
-*robosuite: A Modular Simulation Framework and Benchmark for Robot Learning* \n\n
-Yuke Zhu, Josiah Wong, *Ajay Mandlekar*, Roberto Martin-Martin\n\n
-*Technical Report* \n\n
-\[[https://arxiv.org/abs/2009.12293 pdf]] \[[https://robosuite.ai/ website]]
+{}{raw}
+<video controls id="gtc" width="auto" height="320">
+ <source src="assets/talks/gtc_2021.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+ Your browser does not support the video tag.
+</video>
 ~~~
 
+=== Algorithms for Learning Robot Manipulation through Human Imitation
+
+- \[January 2021\] Talk that covers recent imitation learning algorithms for learning from robot manipulation datasets collected by humans.
+
+# raw html since jemdoc doesn't naturally support videos
+# note: the "muted" tag is necessary for autoplay to work
 ~~~
-{}{img_left}{assets/gti/thumbnail.png}{Thumbnail}{225}{150}{}
-*Learning to Generalize Across Long-Horizon Tasks from Human Demonstrations* \n\n
-*Ajay Mandlekar\**, Danfei Xu\*, Roberto Martin-Martin, Silvio Savarese, Li Fei-Fei \n\n
-*RSS 2020* \n\n
-\[[https://arxiv.org/abs/2003.06085 pdf]] \[[https://sites.google.com/view/gti2020/ website]] \[[https://www.youtube.com/watch?v=hlvRmLlYHZ0 video]]
+{}{raw}
+<video controls id="gtc" width="auto" height="320">
+ <source src="assets/talks/reading_group_presentation_jan_29_2021.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+ Your browser does not support the video tag.
+</video>
 ~~~
 
-~~~
-{}{img_left}{assets/iris/thumbnail.png}{Thumbnail}{225}{150}{}
-*IRIS: Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data* \n\n
-*Ajay Mandlekar*, Fabio Ramos, Byron Boots, Silvio Savarese, Li Fei-Fei , Animesh Garg, Dieter Fox \n\n
-*ICRA 2020* \n\n
-\[[http://arxiv.org/abs/1911.05321 pdf]] \[[https://sites.google.com/stanford.edu/iris/ website]] \[[https://www.youtube.com/watch?v=_7P41XHVHtM&feature=emb_title video]]
-~~~
+
+== Media Coverage
 
 ~~~
-{}{img_left}{assets/teleop_maps/thumbnail.png}{Thumbnail}{225}{150}{}
-*Controlling Assistive Robots with Learned Latent Actions* \n\n
-Dylan P. Losey, Krishnan Srinivasan, *Ajay Mandlekar*, Animesh Garg, Dorsa Sadigh \n\n
-*ICRA 2020* \n\n
-\[[https://arxiv.org/abs/1909.09674 pdf]] \[[http://ai.stanford.edu/blog/assistive-latent-spaces/ blog]] \[[https://www.youtube.com/watch?v=wjnhrzugBj4&feature=youtu.be video]]
-~~~
-
-~~~
-{}{img_left}{assets/RoboTurk/mandlekar_iros19.png}{RoboTurk Real Dataset}{225}{150}{}
-*Scaling Robot Supervision to Hundreds of Hours with RoboTurk: Robotic Manipulation Dataset through Human Reasoning and Dexterity * \n\n
-*Ajay Mandlekar*, Jonathan Booher, Max Spero, Albert Tung, Anchit Gupta, Yuke Zhu, Animesh Garg, Silvio Savarese, Li Fei-Fei  \n\n
-*Best Cognitive Robotics Paper Finalist* \n\n
-*IROS 2019* \n\n
-\[[https://arxiv.org/abs/1911.04052 pdf]] \[[http://roboturk.stanford.edu/realrobotdataset website]] \[[http://ai.stanford.edu/blog/roboturk/ blog]] \[[https://www.youtube.com/watch?v=Q5uFlJ6hXx8&feature=youtu.be talk]]
-~~~
-
-~~~
-{}{img_left}{assets/AC-Teach/fig.png}{AC-Teach Figure}{225}{150}{}
-*AC-Teach: A Bayesian Actor-Critic Method for Policy Learning with an Ensemble of Suboptimal Teachers* \n\n
-Andrey Kurenkov\*, *Ajay Mandlekar\**, Roberto Martin-Martin, Silvio Savarese, Animesh Garg \n\n
-*CoRL 2019* \n\n
-\[[https://arxiv.org/abs/1909.04121 pdf]] \[[https://sites.google.com/view/acteach/ website]] \[[http://ai.stanford.edu/blog/acteach/ blog]] \[[https://www.youtube.com/watch?v=1QMPpYGrVCo&feature=emb_title talk]]
-~~~
-
-~~~
-{}{img_left}{assets/RoboTurk/demos.png}{RoboTurk Figure}{225}{150}{}
-*RoboTurk: A Crowdsourcing Platform for Robotic Skill Learning through Imitation* \n\n
-*Ajay Mandlekar*, Yuke Zhu, Animesh Garg, Jonathan Booher, Max Spero, Albert Tung, Julian Gao, John Emmons, Anchit Gupta, Emre Orbay, Silvio Savarese, Li Fei-Fei \n\n
-*CoRL 2018* \n\n
-\[[https://arxiv.org/abs/1811.02790 pdf]] \[[http://roboturk.stanford.edu/ website]] \[[https://www.youtube.com/watch?v=ugCBLNLWDM8&feature=youtu.be&t=6h46m30s talk]]
+{}{img_left}{assets/media_coverage/techxplore.png}{Thumbnail}{225}{62}{}
+=== [https://techxplore.com/news/2018-11-roboturk-crowdsourcing-platform-imitation-robotics.html RoboTurk: A Crowdsourcing Platform for Imitation Learning in Robotics] \n
+/Tech Xplore, November 21, 2018/ \n\n
+"In the future, RoboTurk could become a key resource in the field of robotics, aiding the development of more advanced and better performing robots."
 ~~~
 
 ~~~
-{}{img_left}{assets/ARPL/robust.png}{ARPL Figure}{225}{150}{}
-*Adversarially Robust Policy Learning: Active Construction of Physically-Plausible Perturbations* \n\n
-*Ajay Mandlekar\**, Yuke Zhu\*, Animesh Garg\*, Li Fei-Fei, Silvio Savarese \n\n
-*IROS 2017* \n\n
-\[[http://stanfordvl.github.io/ARPL/arpl_mzg_iros17.pdf pdf]] \[[http://stanfordvl.github.io/ARPL/ website]] \[[https://www.youtube.com/watch?v=yZ-gSsbbzh0 video]]
+{}{img_left}{assets/media_coverage/stanfordnews.png}{Thumbnail}{225}{47}{}
+=== [https://news.stanford.edu/2018/10/26/robots-learn-tasks-people/ Robots Learn Tasks from People with Framework Developed by Stanford Researchers] \n
+/Stanford News, October 26, 2018/ \n\n
+"With a smartphone and a browser, people worldwide will be able to interact with a robot to speed the process of teaching robots how to do basic tasks."
 ~~~
 
-~~~
-{}{img_left}{assets/RSIRL/fig.png}{RSIRL Figure}{225}{150}{}
-*Risk-sensitive Inverse Reinforcement Learning via Coherent Risk Models* \n\n
-Anirudha Majumdar, Sumeet Singh, *Ajay Mandlekar*, Marco Pavone \n\n
-*RSS 2017* \n\n
-\[[http://rss2017.lids.mit.edu/static/papers/62.pdf pdf]] 
-~~~
 
+== Peer Review
+
+I have served as a reviewer for NeurIPS, ICML, RSS, CORL, IROS, CVPR, IEEE T-RO.

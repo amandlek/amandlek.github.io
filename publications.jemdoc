@@ -1,0 +1,116 @@
+# jemdoc: menu{MENU}{publications.html}
+= Ajay U. Mandlekar -- Publications
+[https://ee.stanford.edu Department of Electrical Engineering], [https://stanford.edu Stanford University]
+
+For a complete list please see [https://scholar.google.com/citations?user=Wde2GwcAAAAJ&hl=en Google Scholar].
+
+== Preprints
+
+~~~
+{}{img_left}{assets/iwr/thumbnail.png}{Thumbnail}{225}{150}{}
+*Human-in-the-Loop Imitation Learning using Remote Teleoperation* \n\n
+*Ajay Mandlekar*, Danfei Xu\*, Roberto Martin-Martin\*, Yuke Zhu, Li Fei-Fei, Silvio Savarese \n\n
+*Under Review* \n\n
+\[[https://arxiv.org/abs/2012.06733 pdf]] \[[https://sites.google.com/stanford.edu/iwr website]] \[[https://www.youtube.com/watch?v=J7yE_UqerDI video]]
+~~~
+
+~~~
+{}{img_left}{assets/han/thumbnail.png}{Thumbnail}{225}{150}{}
+*Generalization through Hand-Eye Coordination: An Action Space for Learning Spatially-Invariant Visuomotor Control* \n\n
+Chen Wang\*, Rui Wang\*, *Ajay Mandlekar*, Li Fei-Fei, Silvio Savarese, Danfei Xu \n\n
+*Under Review* \n\n
+\[[https://arxiv.org/abs/2103.00375 pdf]] \[[https://sites.google.com/stanford.edu/han website]]
+~~~
+
+== Technical Reports
+
+~~~
+{}{img_left}{assets/robosuite/thumbnail.png}{Thumbnail}{225}{150}{}
+*robosuite: A Modular Simulation Framework and Benchmark for Robot Learning* \n\n
+Yuke Zhu, Josiah Wong, *Ajay Mandlekar*, Roberto Martin-Martin\n\n
+*Technical Report* \n\n
+\[[https://arxiv.org/abs/2009.12293 pdf]] \[[https://robosuite.ai/ website]]
+~~~
+
+== Publications
+
+~~~
+{}{img_left}{assets/mart/thumbnail.png}{Thumbnail}{225}{150}{}
+*Learning Multi-Arm Manipulation Through Collaborative Teleoperation* \n\n
+Albert Tung\*, Josiah Wong\*, *Ajay Mandlekar*, Roberto Martin-Martin, Yuke Zhu, Li Fei-Fei, Silvio Savarese \n\n
+*ICRA 2021* \n\n
+\[[https://arxiv.org/abs/2012.06738 pdf]] \[[https://roboturk.stanford.edu/multiarm website]] \[[https://www.youtube.com/watch?v=5odO4_bh00U&feature=emb_title video]]
+~~~
+
+~~~
+{}{img_left}{assets/daf/thumbnail.png}{Thumbnail}{225}{150}{}
+*Deep Affordance Foresight: Planning Through What Can Be Done in the Future* \n\n
+Danfei Xu, *Ajay Mandlekar*, Roberto Martin-Martin, Yuke Zhu, Silvio Savarese, Li Fei-Fei \n\n
+*ICRA 2021* \n\n
+\[[https://arxiv.org/abs/2011.08424 pdf]] \[[https://sites.google.com/stanford.edu/daf website]] \[[https://www.youtube.com/watch?v=3VD-YoF8jHk video]] \[[https://orlrworkshop.github.io/program/orlr_20.html talk]]
+~~~
+
+~~~
+{}{img_left}{assets/gti/thumbnail.png}{Thumbnail}{225}{150}{}
+*Learning to Generalize Across Long-Horizon Tasks from Human Demonstrations* \n\n
+*Ajay Mandlekar\**, Danfei Xu\*, Roberto Martin-Martin, Silvio Savarese, Li Fei-Fei \n\n
+*RSS 2020* \n\n
+\[[https://arxiv.org/abs/2003.06085 pdf]] \[[https://sites.google.com/view/gti2020/ website]] \[[https://www.youtube.com/watch?v=hlvRmLlYHZ0 video]]
+~~~
+
+~~~
+{}{img_left}{assets/iris/thumbnail.png}{Thumbnail}{225}{150}{}
+*IRIS: Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data* \n\n
+*Ajay Mandlekar*, Fabio Ramos, Byron Boots, Silvio Savarese, Li Fei-Fei, Animesh Garg, Dieter Fox \n\n
+*ICRA 2020* \n\n
+\[[http://arxiv.org/abs/1911.05321 pdf]] \[[https://sites.google.com/stanford.edu/iris/ website]] \[[https://www.youtube.com/watch?v=_7P41XHVHtM&feature=emb_title video]]
+~~~
+
+~~~
+{}{img_left}{assets/teleop_maps/thumbnail.png}{Thumbnail}{225}{150}{}
+*Controlling Assistive Robots with Learned Latent Actions* \n\n
+Dylan P. Losey, Krishnan Srinivasan, *Ajay Mandlekar*, Animesh Garg, Dorsa Sadigh \n\n
+*ICRA 2020* \n\n
+\[[https://arxiv.org/abs/1909.09674 pdf]] \[[http://ai.stanford.edu/blog/assistive-latent-spaces/ blog]] \[[https://www.youtube.com/watch?v=wjnhrzugBj4&feature=youtu.be video]]
+~~~
+
+~~~
+{}{img_left}{assets/RoboTurk/mandlekar_iros19.png}{RoboTurk Real Dataset}{225}{150}{}
+*Scaling Robot Supervision to Hundreds of Hours with RoboTurk: Robotic Manipulation Dataset through Human Reasoning and Dexterity* \n\n
+*Ajay Mandlekar*, Jonathan Booher, Max Spero, Albert Tung, Anchit Gupta, Yuke Zhu, Animesh Garg, Silvio Savarese, Li Fei-Fei \n\n
+*Best Cognitive Robotics Paper Finalist* \n\n
+*IROS 2019* \n\n
+\[[https://arxiv.org/abs/1911.04052 pdf]] \[[http://roboturk.stanford.edu/realrobotdataset website]] \[[http://ai.stanford.edu/blog/roboturk/ blog]] \[[https://www.youtube.com/watch?v=Q5uFlJ6hXx8&feature=youtu.be talk]]
+~~~
+
+~~~
+{}{img_left}{assets/AC-Teach/fig.png}{AC-Teach Figure}{225}{150}{}
+*AC-Teach: A Bayesian Actor-Critic Method for Policy Learning with an Ensemble of Suboptimal Teachers* \n\n
+Andrey Kurenkov\*, *Ajay Mandlekar\**, Roberto Martin-Martin, Silvio Savarese, Animesh Garg \n\n
+*CoRL 2019* \n\n
+\[[https://arxiv.org/abs/1909.04121 pdf]] \[[https://sites.google.com/view/acteach/ website]] \[[http://ai.stanford.edu/blog/acteach/ blog]] \[[https://www.youtube.com/watch?v=1QMPpYGrVCo&feature=emb_title talk]]
+~~~
+
+~~~
+{}{img_left}{assets/RoboTurk/demos.png}{RoboTurk Figure}{225}{150}{}
+*RoboTurk: A Crowdsourcing Platform for Robotic Skill Learning through Imitation* \n\n
+*Ajay Mandlekar*, Yuke Zhu, Animesh Garg, Jonathan Booher, Max Spero, Albert Tung, Julian Gao, John Emmons, Anchit Gupta, Emre Orbay, Silvio Savarese, Li Fei-Fei \n\n
+*CoRL 2018* \n\n
+\[[https://arxiv.org/abs/1811.02790 pdf]] \[[http://roboturk.stanford.edu/ website]] \[[https://www.youtube.com/watch?v=ugCBLNLWDM8&feature=youtu.be&t=6h46m30s talk]]
+~~~
+
+~~~
+{}{img_left}{assets/ARPL/robust.png}{ARPL Figure}{225}{150}{}
+*Adversarially Robust Policy Learning: Active Construction of Physically-Plausible Perturbations* \n\n
+*Ajay Mandlekar\**, Yuke Zhu\*, Animesh Garg\*, Li Fei-Fei, Silvio Savarese \n\n
+*IROS 2017* \n\n
+\[[http://stanfordvl.github.io/ARPL/arpl_mzg_iros17.pdf pdf]] \[[http://stanfordvl.github.io/ARPL/ website]] \[[https://www.youtube.com/watch?v=yZ-gSsbbzh0 video]]
+~~~
+
+~~~
+{}{img_left}{assets/RSIRL/fig.png}{RSIRL Figure}{225}{150}{}
+*Risk-sensitive Inverse Reinforcement Learning via Coherent Risk Models* \n\n
+Anirudha Majumdar, Sumeet Singh, *Ajay Mandlekar*, Marco Pavone \n\n
+*RSS 2017* \n\n
+\[[http://rss2017.lids.mit.edu/static/papers/62.pdf pdf]] 
+~~~
