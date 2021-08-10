@@ -21,19 +21,17 @@ CV: [assets/resume/Resume.pdf link]
 
 == Recent News
 
-- \[March 2021\] Two papers accepted at [http://www.icra2021.org/ ICRA 2021]! Check out our work on [https://arxiv.org/abs/2012.06738 Multi-Arm RoboTurk] and [https://arxiv.org/abs/2011.08424 Deep Affordance Foresight].
+- \[August 2021\] We released [https://arise-initiative.github.io/robomimic-web/ robomimic], a framework for robot learning from demonstration. It offers a broad set of demonstration datasets collected on robot manipulation domains, and learning algorithms to learn from these datasets.
 
-- \[March 2021\] New [https://arxiv.org/abs/2103.00375 preprint] on enabling spatial generalization in visuomotor control from human demonstrations using a structured hand-eye action space.
+- \[August 2021\] New [https://arxiv.org/abs/2108.03298 preprint] on a [https://arise-initiative.github.io/robomimic-web/study/ large-scale study] conducted with [https://arise-initiative.github.io/robomimic-web/ robomimic] for learning from offline human demonstrations.
 
-- \[December 2020\] We recently extended [https://roboturk.stanford.edu/ RoboTurk] to enable [https://arxiv.org/abs/2012.06733 human-in-the-loop teleoperation] and developed Intervention Weighted Regression, a simple and effective algorithm to learn from such interventions.
+- \[June 2021\] Our [https://arxiv.org/abs/2103.00375 work] on enabling spatial generalization in visuomotor control from human demonstrations using a structured hand-eye action space was accepted to [https://www.iros2021.org/ IROS 2021].
 
-- \[September 2020\] We released [https://robosuite.ai robosuite] v1.0, a modular simulation framework and benchmark for robot learning.
-
-- \[July 2020\] We are organizing the [https://sites.google.com/utexas.edu/rss-2020-imitation-learning/home?authuser=0 Advances and Challenges in Imitation Learning for Robotics] workshop at [https://roboticsconference.org/ RSS 2020].
+- \[May 2021\] Our work on collaborative teleoperation with [https://arxiv.org/abs/2012.06738 Multi-Arm RoboTurk] was nominated as a best multi-robot systems paper finalist at [http://www.icra2021.org/ ICRA 2021]!
 
 == About Me
 
-I am a PhD candidate in the [http://svl.stanford.edu/ Stanford Vision and Learning Lab] advised by [http://cvgl.stanford.edu/silvio/ Silvio Savarese] and [http://vision.stanford.edu/feifeili/ Fei-Fei Li]. I work on building systems and algorithms to allow robots to leverage human insight for manipulation. 
+I am a PhD candidate in the [http://svl.stanford.edu/ Stanford Vision and Learning Lab], jointly advised by [http://cvgl.stanford.edu/silvio/ Silvio Savarese] and [http://vision.stanford.edu/feifeili/ Fei-Fei Li]. My work focuses on developing systems and algorithms to allow robots to leverage human insight for manipulation tasks. 
 
 == Education
 - Ph.D. (in progress), Electrical Engineering, [https://stanford.edu Stanford University], September 2016 - Present

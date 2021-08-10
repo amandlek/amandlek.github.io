@@ -5,8 +5,15 @@
 == Open-Source Software
 
 ~~~
+{}{img_left}{assets/robomimic/thumbnail.png}{robomimic}{225}{150}{}
+*robomimic* \n\n
+
+I led the development of [https://arise-initiative.github.io/robomimic-web/ robomimic], a framework for robot learning from demonstrations.
+~~~
+
+~~~
 {}{img_left}{assets/robosuite/thumbnail.png}{robosuite}{225}{150}{}
-*Robosuite* \n\n
+*robosuite* \n\n
 
 I helped develop and currently maintain [http://robosuite.ai/ robosuite], a robot simulation benchmark powered by the [http://mujoco.org/ MuJoCo physics engine].
 ~~~
