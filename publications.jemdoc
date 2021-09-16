@@ -7,31 +7,38 @@ For a complete list please see [https://scholar.google.com/citations?user=Wde2Gw
 == Preprints
 
 ~~~
-{}{img_left}{assets/robomimic/thumbnail.png}{Thumbnail}{225}{150}{}
-*What Matters in Learning from Offline Human Demonstrations for Robot Manipulation* \n\n
-*Ajay Mandlekar*, Danfei Xu, Josiah Wong, Soroush Nasiriany, Chen Wang, Rohun Kulkarni, Li Fei-Fei, Silvio Savarese, Yuke Zhu, Roberto Martin-Martin\n\n
-*Under Review* \n\n
-\[[https://arxiv.org/abs/2108.03298 pdf]] \[[https://arise-initiative.github.io/robomimic-web/ website]] \[[https://www.youtube.com/watch?v=qg_IVo4rB8k&ab_channel=AnonymousAnonymous video]] \[[https://arise-initiative.github.io/robomimic-web/ code]] \[[https://ai.stanford.edu/blog/robomimic/ blog]]
-~~~
-
-~~~
 {}{img_left}{assets/iwr/thumbnail.png}{Thumbnail}{225}{150}{}
 *Human-in-the-Loop Imitation Learning using Remote Teleoperation* \n\n
 *Ajay Mandlekar*, Danfei Xu\*, Roberto Martin-Martin\*, Yuke Zhu, Li Fei-Fei, Silvio Savarese \n\n
 \[[https://arxiv.org/abs/2012.06733 pdf]] \[[https://sites.google.com/stanford.edu/iwr website]] \[[https://www.youtube.com/watch?v=J7yE_UqerDI video]]
 ~~~
 
-== Technical Reports
-
-~~~
-{}{img_left}{assets/robosuite/thumbnail.png}{Thumbnail}{225}{150}{}
-*robosuite: A Modular Simulation Framework and Benchmark for Robot Learning* \n\n
-Yuke Zhu, Josiah Wong, *Ajay Mandlekar*, Roberto Martin-Martin\n\n
-*Technical Report* \n\n
-\[[https://arxiv.org/abs/2009.12293 pdf]] \[[https://robosuite.ai/ website]]
-~~~
-
 == Publications
+
+~~~
+{}{img_left}{assets/robomimic/thumbnail.png}{Thumbnail}{225}{150}{}
+*What Matters in Learning from Offline Human Demonstrations for Robot Manipulation* \n\n
+*Ajay Mandlekar*, Danfei Xu, Josiah Wong, Soroush Nasiriany, Chen Wang, Rohun Kulkarni, Li Fei-Fei, Silvio Savarese, Yuke Zhu, Roberto Martín-Martín\n\n
+*CoRL 2021*
+{{<p style="color:red;">Oral (6.5% acceptance)</p>}}
+\[[https://arxiv.org/abs/2108.03298 pdf]] \[[https://arise-initiative.github.io/robomimic-web/ website]] \[[https://www.youtube.com/watch?v=qg_IVo4rB8k&ab_channel=AnonymousAnonymous video]] \[[https://arise-initiative.github.io/robomimic-web/ code]] \[[https://ai.stanford.edu/blog/robomimic/ blog]]
+~~~
+
+~~~
+{}{img_left}{assets/momart/thumbnail.png}{Thumbnail}{225}{150}{}
+*Error-Aware Imitation Learning from Teleoperation Data for Mobile Manipulation* \n\n
+Josiah Wong, Albert Tung, Andrey Kurenkov, *Ajay Mandlekar*, Li Fei-Fei, Silvio Savarese, Roberto Martín-Martín\n\n
+*CoRL 2021* \n\n
+\[[https://openreview.net/forum?id=XEY7ZeEZEjI pdf]] \[[https://sites.google.com/view/il-for-mm/home website]] \[[https://youtu.be/Nlwj6FGypq8 video]]
+~~~
+
+~~~
+{}{img_left}{assets/s4rl/thumbnail.png}{Thumbnail}{225}{150}{}
+*S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning* \n\n
+Samarth Sinha, *Ajay Mandlekar*, Animesh Garg\n\n
+*CoRL 2021* \n\n
+\[[https://arxiv.org/abs/2103.06326 pdf]]
+~~~
 
 ~~~
 {}{img_left}{assets/han/thumbnail.png}{Thumbnail}{225}{150}{}
@@ -44,16 +51,16 @@ Chen Wang\*, Rui Wang\*, *Ajay Mandlekar*, Li Fei-Fei, Silvio Savarese, Danfei X
 ~~~
 {}{img_left}{assets/mart/thumbnail.png}{Thumbnail}{225}{150}{}
 *Learning Multi-Arm Manipulation Through Collaborative Teleoperation* \n\n
-Albert Tung\*, Josiah Wong\*, *Ajay Mandlekar*, Roberto Martin-Martin, Yuke Zhu, Li Fei-Fei, Silvio Savarese \n\n
-*Best Multi-Robotic Systems Paper Finalist* \n\n
-*ICRA 2021* \n\n
+Albert Tung\*, Josiah Wong\*, *Ajay Mandlekar*, Roberto Martín-Martín, Yuke Zhu, Li Fei-Fei, Silvio Savarese \n\n
+*ICRA 2021*
+{{<p style="color:red;">Best Multi-Robotic Systems Paper Finalist</p>}}
 \[[https://arxiv.org/abs/2012.06738 pdf]] \[[https://roboturk.stanford.edu/multiarm website]] \[[https://www.youtube.com/watch?v=5odO4_bh00U&feature=emb_title video]]
 ~~~
 
 ~~~
 {}{img_left}{assets/daf/thumbnail.png}{Thumbnail}{225}{150}{}
 *Deep Affordance Foresight: Planning Through What Can Be Done in the Future* \n\n
-Danfei Xu, *Ajay Mandlekar*, Roberto Martin-Martin, Yuke Zhu, Silvio Savarese, Li Fei-Fei \n\n
+Danfei Xu, *Ajay Mandlekar*, Roberto Martín-Martín, Yuke Zhu, Silvio Savarese, Li Fei-Fei \n\n
 *ICRA 2021* \n\n
 \[[https://arxiv.org/abs/2011.08424 pdf]] \[[https://sites.google.com/stanford.edu/daf website]] \[[https://www.youtube.com/watch?v=3VD-YoF8jHk video]] \[[https://orlrworkshop.github.io/program/orlr_20.html talk]]
 ~~~
@@ -61,7 +68,7 @@ Danfei Xu, *Ajay Mandlekar*, Roberto Martin-Martin, Yuke Zhu, Silvio Savarese, L
 ~~~
 {}{img_left}{assets/gti/thumbnail.png}{Thumbnail}{225}{150}{}
 *Learning to Generalize Across Long-Horizon Tasks from Human Demonstrations* \n\n
-*Ajay Mandlekar\**, Danfei Xu\*, Roberto Martin-Martin, Silvio Savarese, Li Fei-Fei \n\n
+*Ajay Mandlekar\**, Danfei Xu\*, Roberto Martín-Martín, Silvio Savarese, Li Fei-Fei \n\n
 *RSS 2020* \n\n
 \[[https://arxiv.org/abs/2003.06085 pdf]] \[[https://sites.google.com/view/gti2020/ website]] \[[https://www.youtube.com/watch?v=hlvRmLlYHZ0 video]]
 ~~~
@@ -86,15 +93,15 @@ Dylan P. Losey, Krishnan Srinivasan, *Ajay Mandlekar*, Animesh Garg, Dorsa Sadig
 {}{img_left}{assets/RoboTurk/mandlekar_iros19.png}{RoboTurk Real Dataset}{225}{150}{}
 *Scaling Robot Supervision to Hundreds of Hours with RoboTurk: Robotic Manipulation Dataset through Human Reasoning and Dexterity* \n\n
 *Ajay Mandlekar*, Jonathan Booher, Max Spero, Albert Tung, Anchit Gupta, Yuke Zhu, Animesh Garg, Silvio Savarese, Li Fei-Fei \n\n
-*Best Cognitive Robotics Paper Finalist* \n\n
-*IROS 2019* \n\n
+*IROS 2019*
+{{<p style="color:red;">Best Cognitive Robotics Paper Finalist </p>}}
 \[[https://arxiv.org/abs/1911.04052 pdf]] \[[http://roboturk.stanford.edu/realrobotdataset website]] \[[http://ai.stanford.edu/blog/roboturk/ blog]] \[[https://www.youtube.com/watch?v=Q5uFlJ6hXx8&feature=youtu.be talk]]
 ~~~
 
 ~~~
 {}{img_left}{assets/AC-Teach/fig.png}{AC-Teach Figure}{225}{150}{}
 *AC-Teach: A Bayesian Actor-Critic Method for Policy Learning with an Ensemble of Suboptimal Teachers* \n\n
-Andrey Kurenkov\*, *Ajay Mandlekar\**, Roberto Martin-Martin, Silvio Savarese, Animesh Garg \n\n
+Andrey Kurenkov\*, *Ajay Mandlekar\**, Roberto Martín-Martín, Silvio Savarese, Animesh Garg \n\n
 *CoRL 2019* \n\n
 \[[https://arxiv.org/abs/1909.04121 pdf]] \[[https://sites.google.com/view/acteach/ website]] \[[http://ai.stanford.edu/blog/acteach/ blog]] \[[https://www.youtube.com/watch?v=1QMPpYGrVCo&feature=emb_title talk]]
 ~~~
@@ -121,4 +128,15 @@ Andrey Kurenkov\*, *Ajay Mandlekar\**, Roberto Martin-Martin, Silvio Savarese, A
 Anirudha Majumdar, Sumeet Singh, *Ajay Mandlekar*, Marco Pavone \n\n
 *RSS 2017* \n\n
 \[[http://rss2017.lids.mit.edu/static/papers/62.pdf pdf]] 
+~~~
+
+
+== Technical Reports
+
+~~~
+{}{img_left}{assets/robosuite/thumbnail.png}{Thumbnail}{225}{150}{}
+*robosuite: A Modular Simulation Framework and Benchmark for Robot Learning* \n\n
+Yuke Zhu, Josiah Wong, *Ajay Mandlekar*, Roberto Martin-Martin\n\n
+*Technical Report* \n\n
+\[[https://arxiv.org/abs/2009.12293 pdf]] \[[https://robosuite.ai/ website]]
 ~~~
