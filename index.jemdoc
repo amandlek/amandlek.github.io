@@ -21,7 +21,7 @@ CV: [assets/resume/Resume.pdf link]
 
 == Recent News
 
-- \[September 2021\] Our [https://arise-initiative.github.io/robomimic-web/study/ large-scale study] for learning from offline human demonstrations was *accepted as an oral (6.5% acceptance)* at [https://www.robot-learning.org/ CoRL 2021]!
+- \[November 2021\] Our [https://arise-initiative.github.io/robomimic-web/study/ large-scale study] for learning from offline human demonstrations was *presented as an oral (6.5% acceptance)* at [https://www.robot-learning.org/ CoRL 2021]! See the talk [https://www.youtube.com/watch?v=zXYKvQs46iQ&list=PL2oxSfYMr6hVCDAIpe1IxAl02qUJyJ3Qc&index=2&ab_channel=ConferenceonRobotLearning here].
 
 - \[September 2021\] Our work on [https://sites.google.com/view/il-for-mm/home MOMART], a system for collecting and learning from mobile manipulation demonstrations, and our paper on [https://arxiv.org/abs/2103.06326 S4RL], a data augmentation method for offline policy learning, were accepted at [https://www.robot-learning.org/ CoRL 2021]. 
 
