@@ -1,6 +1,5 @@
 # jemdoc: menu{MENU}{publications.html}
 = Ajay U. Mandlekar -- Publications
-[https://ee.stanford.edu Department of Electrical Engineering], [https://stanford.edu Stanford University]
 
 For a complete list please see [https://scholar.google.com/citations?user=Wde2GwcAAAAJ&hl=en Google Scholar].
 
@@ -17,10 +16,35 @@ For a complete list please see [https://scholar.google.com/citations?user=Wde2Gw
 {}{img_left}{assets/iwr/thumbnail.png}{Thumbnail}{225}{150}{}
 *Human-in-the-Loop Imitation Learning using Remote Teleoperation* \n\n
 *Ajay Mandlekar*, Danfei Xu\*, Roberto Martin-Martin\*, Yuke Zhu, Li Fei-Fei, Silvio Savarese \n\n
+*2020* \n\n
 \[[https://arxiv.org/abs/2012.06733 pdf]] \[[https://sites.google.com/stanford.edu/iwr website]] \[[https://www.youtube.com/watch?v=Wvh-uixQrGI video]]
 ~~~
 
 == Publications
+
+~~~
+{}{img_left}{assets/sailor/thumbnail.png}{Thumbnail}{225}{150}{}
+*Learning and Retrieval from Prior Data for Skill-based Imitation Learning* \n\n
+Soroush Nasiriany, Tian Gao, *Ajay Mandlekar*, Yuke Zhu\n\n
+*CoRL 2022* \n\n
+\[[https://arxiv.org/abs/2210.11435 pdf]] \[[https://ut-austin-rpl.github.io/sailor/ website]]
+~~~
+
+~~~
+{}{img_left}{assets/mocoda/thumbnail.jpeg}{Thumbnail}{225}{150}{}
+*MoCoDA: Model-based Counterfactual Data Augmentation* \n\n
+Silviu Pitis, Elliot Creager, *Ajay Mandlekar*, Animesh Garg\n\n
+*NeurIPS 2022* \n\n
+\[[https://arxiv.org/abs/2210.11287 pdf]] \[[https://sites.google.com/view/mocoda-neurips-22/ website]] \[[https://github.com/spitis/mocoda code]]
+~~~
+
+~~~
+{}{img_left}{assets/minedojo/thumbnail.png}{Thumbnail}{225}{150}{}
+*MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge* \n\n
+Linxi Fan, Guanzhi Wang\*, Yunfan Jiang\*, *Ajay Mandlekar*, Yuncong Yang, Haoyi Zhu, Andrew Tang, De-An Huang, Yuke Zhu, Anima Anandkumar\n\n
+*NeurIPS 2022 Datasets and Benchmarks Track* \n\n
+\[[https://arxiv.org/abs/2206.08853 pdf]] \[[https://minedojo.org/ website]] \[[https://github.com/MineDojo/MineDojo code]] \[[https://developer.nvidia.com/blog/building-generally-capable-ai-agents-with-minedojo/ blog]]
+~~~
 
 ~~~
 {}{img_left}{assets/robomimic/thumbnail.png}{Thumbnail}{225}{150}{}
@@ -36,7 +60,7 @@ For a complete list please see [https://scholar.google.com/citations?user=Wde2Gw
 *Error-Aware Imitation Learning from Teleoperation Data for Mobile Manipulation* \n\n
 Josiah Wong, Albert Tung, Andrey Kurenkov, *Ajay Mandlekar*, Li Fei-Fei, Silvio Savarese, Roberto Martín-Martín\n\n
 *CoRL 2021* \n\n
-\[[https://openreview.net/forum?id=XEY7ZeEZEjI pdf]] \[[https://sites.google.com/view/il-for-mm/home website]] \[[https://youtu.be/Nlwj6FGypq8 video]]
+\[[https://arxiv.org/abs/2112.05251 pdf]] \[[https://sites.google.com/view/il-for-mm/home website]] \[[https://youtu.be/Nlwj6FGypq8 video]]
 ~~~
 
 ~~~

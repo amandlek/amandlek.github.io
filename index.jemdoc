@@ -3,13 +3,9 @@
 
 ~~~
 {}{img_left}{assets/self.jpg}{Picture of Ajay.}{150}{184}{}
-[https://www.web.stanford.edu/~amandlek Ajay Mandlekar]\n
-Ph.D. Candidate \n
-[https://www.svl.stanford.edu/ Stanford Vision and Learning Lab] \n
-[https://ee.stanford.edu Department of Electrical Engineering] \n
-[https://stanford.edu Stanford University] \n
-\n
-Advisors: [http://cvgl.stanford.edu/silvio/ Silvio Savarese] and [http://vision.stanford.edu/feifeili/ Fei-Fei Li]
+[https://ai.stanford.edu/~amandlek Ajay Mandlekar]\n
+Research Scientist at NVIDIA AI with [https://research.nvidia.com/person/dieter-fox Dieter Fox]\n
+[https://nvidia_srl.gitlab.io/ NVIDIA Seattle Robotics Lab]\n
 ~~~
 
 == Contact
@@ -21,18 +17,18 @@ CV: [assets/resume/Resume.pdf link]
 
 == Recent News
 
-- \[April 2022\] We are hosting a workshop at RSS 2022 called [https://sites.google.com/nvidia.com/rss2022overlookedinil/home Overlooked Aspects of Imitation Learning: Systems, Data, Tasks, and Beyond]. 
+- \[December 2022\] Our [https://ut-austin-rpl.github.io/sailor/ work] on using prior datasets to accelerate imitation learning for new tasks will be presented at [https://corl2022.org/ CoRL 2022].
 
-- \[November 2021\] Our [https://arise-initiative.github.io/robomimic-web/study/ large-scale study] for learning from offline human demonstrations was *presented as an oral (6.5% acceptance)* at [https://www.robot-learning.org/ CoRL 2021]! See the talk [https://www.youtube.com/watch?v=zXYKvQs46iQ&list=PL2oxSfYMr6hVCDAIpe1IxAl02qUJyJ3Qc&index=2&ab_channel=ConferenceonRobotLearning here].
+- \[December 2022\] Our work on [https://arxiv.org/abs/2210.11287 model-based counterfactual data augmentation] will be presented at [https://neurips.cc/ NeurIPS 2022].
 
-- \[August 2021\] We released [https://arise-initiative.github.io/robomimic-web/ robomimic], a framework for robot learning from demonstration. It offers a broad set of demonstration datasets collected on robot manipulation domains, and learning algorithms to learn from these datasets.
+- \[December 2022\] We released a new framework called [https://minedojo.org/ MineDojo] for building generalist agents that can solve open-ended tasks with internet scale knowledge in MineCraft. MineDojo will be presented at [https://neurips.cc/ NeurIPS 2022].
 
 == About Me
 
-I am a PhD candidate in the [http://svl.stanford.edu/ Stanford Vision and Learning Lab], jointly advised by [http://cvgl.stanford.edu/silvio/ Silvio Savarese] and [http://vision.stanford.edu/feifeili/ Fei-Fei Li]. My work focuses on developing systems and algorithms to allow robots to leverage human insight for manipulation tasks. 
+I am a research scientist at NVIDIA AI working with [https://research.nvidia.com/person/dieter-fox Dieter Fox] in the [https://nvidia_srl.gitlab.io/ Seattle Robotics Lab]. I obtained my PhD degree from Stanford University, co-advised by [http://cvgl.stanford.edu/silvio/ Silvio Savarese] and [http://vision.stanford.edu/feifeili/ Fei-Fei Li]. My research focuses on developing systems and algorithms to enable robots to learn useful manipulation tasks.
 
 == Education
-- Ph.D., Electrical Engineering, [https://stanford.edu Stanford University], September 2016 - January 2022
+- Ph.D., Electrical Engineering, [https://stanford.edu Stanford University] co-advised by [http://cvgl.stanford.edu/silvio/ Silvio Savarese] and [http://vision.stanford.edu/feifeili/ Fei-Fei Li], September 2016 - January 2022
 - M.S., Computer Science, [https://stanford.edu Stanford University], June 2018
 - B.S., Electrical Engineering, [https://www.caltech.edu/ California Institute of Technology], June 2016
 - B.S., Computer Science, [https://www.caltech.edu/ California Institute of Technology], June 2016
