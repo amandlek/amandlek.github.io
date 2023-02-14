@@ -13,11 +13,19 @@ For a complete list please see [https://scholar.google.com/citations?user=Wde2Gw
 == Preprints
 
 ~~~
-{}{img_left}{assets/iwr/thumbnail.png}{Thumbnail}{225}{150}{}
-*Human-in-the-Loop Imitation Learning using Remote Teleoperation* \n\n
-*Ajay Mandlekar*, Danfei Xu\*, Roberto Martin-Martin\*, Yuke Zhu, Li Fei-Fei, Silvio Savarese \n\n
-*2020* \n\n
-\[[https://arxiv.org/abs/2012.06733 pdf]] \[[https://sites.google.com/stanford.edu/iwr website]] \[[https://www.youtube.com/watch?v=Wvh-uixQrGI video]]
+{}{img_left}{assets/orbit/thumbnail.gif}{Thumbnail}{225}{150}{}
+*ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments* \n\n
+Mayank Mittal, Calvin Yu, Qinxi Yu, Jingzhou Liu, Nikita Rudin, David Hoeller, Jia Lin Yuan, Pooria Poorsarvi Tehrani, Ritvik Singh, Yunrong Guo, Hammad Mazhar, *Ajay Mandlekar*, Buck Babich, Gavriel State, Marco Hutter, Animesh Garg \n\n
+*2023* \n\n
+\[[https://arxiv.org/pdf/2301.04195.pdf pdf]] \[[https://isaac-orbit.github.io/ website]] \[[https://github.com/NVIDIA-Omniverse/orbit code]]
+~~~
+
+~~~
+{}{img_left}{assets/atr/thumbnail.gif}{Thumbnail}{225}{150}{}
+*Active Task Randomization: Learning Visuomotor Skills for Sequential Manipulation by Proposing Feasible and Novel Tasks* \n\n
+Kuan Fang\*, Toki Migimatsu\*, *Ajay Mandlekar*, Li Fei-Fei, Jeannette Bohg \n\n
+*2022* \n\n
+\[[https://arxiv.org/pdf/2211.06134.pdf pdf]] \[[https://sites.google.com/view/active-task-randomization website]]
 ~~~
 
 == Publications
@@ -42,7 +50,8 @@ Silviu Pitis, Elliot Creager, *Ajay Mandlekar*, Animesh Garg\n\n
 {}{img_left}{assets/minedojo/thumbnail.png}{Thumbnail}{225}{150}{}
 *MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge* \n\n
 Linxi Fan, Guanzhi Wang\*, Yunfan Jiang\*, *Ajay Mandlekar*, Yuncong Yang, Haoyi Zhu, Andrew Tang, De-An Huang, Yuke Zhu, Anima Anandkumar\n\n
-*NeurIPS 2022 Datasets and Benchmarks Track* \n\n
+*NeurIPS 2022 Datasets and Benchmarks Track*
+{{<p style="color:red;">Outstanding Paper Award</p>}}
 \[[https://arxiv.org/abs/2206.08853 pdf]] \[[https://minedojo.org/ website]] \[[https://github.com/MineDojo/MineDojo code]] \[[https://developer.nvidia.com/blog/building-generally-capable-ai-agents-with-minedojo/ blog]]
 ~~~
 
@@ -94,6 +103,14 @@ Albert Tung\*, Josiah Wong\*, *Ajay Mandlekar*, Roberto Martín-Martín, Yuke Zh
 Danfei Xu, *Ajay Mandlekar*, Roberto Martín-Martín, Yuke Zhu, Silvio Savarese, Li Fei-Fei \n\n
 *ICRA 2021* \n\n
 \[[https://arxiv.org/abs/2011.08424 pdf]] \[[https://sites.google.com/stanford.edu/daf website]] \[[https://www.youtube.com/watch?v=3VD-YoF8jHk video]] \[[https://orlrworkshop.github.io/program/orlr_20.html talk]]
+~~~
+
+~~~
+{}{img_left}{assets/iwr/thumbnail.png}{Thumbnail}{225}{150}{}
+*Human-in-the-Loop Imitation Learning using Remote Teleoperation* \n\n
+*Ajay Mandlekar*, Danfei Xu\*, Roberto Martin-Martin\*, Yuke Zhu, Li Fei-Fei, Silvio Savarese \n\n
+*Technical Report 2020* \n\n
+\[[https://arxiv.org/abs/2012.06733 pdf]] \[[https://sites.google.com/stanford.edu/iwr website]] \[[https://www.youtube.com/watch?v=Wvh-uixQrGI video]]
 ~~~
 
 ~~~
