@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{publications.html}
 = Ajay U. Mandlekar -- Publications
 
-For a complete list please see [https://scholar.google.com/citations?user=Wde2GwcAAAAJ&hl=en Google Scholar].
+For a complete list please see [https://scholar.google.com/citations?user=MEz23joAAAAJ&hl=en Google Scholar].
 
 == PhD Thesis
 
@@ -13,22 +13,56 @@ For a complete list please see [https://scholar.google.com/citations?user=Wde2Gw
 == Preprints
 
 ~~~
-{}{img_left}{assets/orbit/thumbnail.gif}{Thumbnail}{225}{150}{}
-*ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments* \n\n
-Mayank Mittal, Calvin Yu, Qinxi Yu, Jingzhou Liu, Nikita Rudin, David Hoeller, Jia Lin Yuan, Pooria Poorsarvi Tehrani, Ritvik Singh, Yunrong Guo, Hammad Mazhar, *Ajay Mandlekar*, Buck Babich, Gavriel State, Marco Hutter, Animesh Garg \n\n
+{}{img_left}{assets/voyager/thumbnail.png}{Thumbnail}{225}{150}{}
+*Voyager: An Open-Ended Embodied Agent with Large Language Models* \n\n
+Guanzhi Wang, Yuqi Xie, Yunfan Jiang\*, Ajay Mandlekar\*, Chaowei Xiao, Yuke Zhu, Linxi Fan†, Anima Anandkumar† \n\n
 *2023* \n\n
-\[[https://arxiv.org/pdf/2301.04195.pdf pdf]] \[[https://isaac-orbit.github.io/ website]] \[[https://github.com/NVIDIA-Omniverse/orbit code]]
+\[[https://arxiv.org/abs/2305.16291 pdf]] \[[https://voyager.minedojo.org/ website]] \[[https://github.com/MineDojo/Voyager code]]
+~~~
+
+== Publications
+
+~~~
+{}{img_left}{assets/mimicgen/thumbnail.gif}{Thumbnail}{225}{150}{}
+*MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations* \n\n
+Ajay Mandlekar, Soroush Nasiriany\*, Bowen Wen\*, Iretiayo Akinola, Yashraj Narang, Linxi Fan, Yuke Zhu, Dieter Fox\n\n
+*CoRL 2023* \n\n
+{{<p style="color:red;">Oral at <a href="https://generalist-robots.github.io/">CoRL 2023 Towards Generalist Robots Workshop</a> </p>}}
+\[[https://arxiv.org/abs/2310.17596 pdf]] \[[https://mimicgen.github.io/ website]] \[[https://github.com/NVlabs/mimicgen_environments code]]
+~~~
+
+~~~
+{}{img_left}{assets/hitl_tamp/thumbnail.gif}{Thumbnail}{225}{150}{}
+*Human-in-the-Loop Task and Motion Planning for Imitation Learning* \n\n
+Ajay Mandlekar\*, Caelan Garrett\*, Danfei Xu, Dieter Fox \n\n
+*CoRL 2023* \n\n
+{{<p style="color:red;">Oral at <a href="https://corl2023deployable.github.io/">CoRL 2023 Deployable Workshop</a> </p>}}
+\[[https://arxiv.org/abs/2310.16014 pdf]] \[[https://hitltamp.github.io/ website]]
+~~~
+
+~~~
+{}{img_left}{assets/optimus/thumbnail.gif}{Thumbnail}{225}{150}{}
+*Imitating Task and Motion Planning with Visuomotor Transformers* \n\n
+Murtaza Dalal, Ajay Mandlekar\*, Caelan Garrett\*, Ankur Handa, Ruslan Salakhutdinov, Dieter Fox \n\n
+*CoRL 2023* \n\n
+\[[https://arxiv.org/abs/2305.16309 pdf]] \[[https://mihdalal.github.io/optimus/ website]]
 ~~~
 
 ~~~
 {}{img_left}{assets/atr/thumbnail.gif}{Thumbnail}{225}{150}{}
 *Active Task Randomization: Learning Visuomotor Skills for Sequential Manipulation by Proposing Feasible and Novel Tasks* \n\n
 Kuan Fang\*, Toki Migimatsu\*, *Ajay Mandlekar*, Li Fei-Fei, Jeannette Bohg \n\n
-*2022* \n\n
-\[[https://arxiv.org/pdf/2211.06134.pdf pdf]] \[[https://sites.google.com/view/active-task-randomization website]]
+*IROS 2023* \n\n
+\[[https://arxiv.org/abs/2211.06134 pdf]] \[[https://sites.google.com/view/active-task-randomization website]]
 ~~~
 
-== Publications
+~~~
+{}{img_left}{assets/orbit/thumbnail.gif}{Thumbnail}{225}{150}{}
+*ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments* \n\n
+Mayank Mittal, Calvin Yu, Qinxi Yu, Jingzhou Liu, Nikita Rudin, David Hoeller, Jia Lin Yuan, Pooria Poorsarvi Tehrani, Ritvik Singh, Yunrong Guo, Hammad Mazhar, *Ajay Mandlekar*, Buck Babich, Gavriel State, Marco Hutter, Animesh Garg \n\n
+*IEEE Robotics and Automation Letters (RA-L) and ICRA 2023* \n\n
+\[[https://arxiv.org/abs/2301.04195 pdf]] \[[https://isaac-orbit.github.io/ website]] \[[https://github.com/NVIDIA-Omniverse/orbit code]]
+~~~
 
 ~~~
 {}{img_left}{assets/sailor/thumbnail.png}{Thumbnail}{225}{150}{}

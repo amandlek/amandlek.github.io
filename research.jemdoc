@@ -3,9 +3,40 @@
 
 == Research Demos and Highlights
 
+
+=== Human-in-the-Loop Task and Motion Planning
+
+[https://hitltamp.github.io/ Human-in-the-Loop Task and Motion Planning] (HITL-TAMP) is a novel system that selectively gives and takes control to and from a human teleoperator. HITL-TAMP combines the benefits of imitation learning and TAMP to solve contact-rich and long-horizon manipulation.
+
+# raw html since jemdoc doesn't naturally support videos
+# note: the "muted" tag is necessary for autoplay to work
+~~~
+{}{raw}
+<video autoplay muted loop controls id="hitl_tamp" width="auto" height="320">
+ <source src="assets/demos/hitl_tamp.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+ Your browser does not support the video tag.
+</video>
+~~~
+
+
+=== MimicGen
+
+[https://mimicgen.github.io/ MimicGen] is a system for automatically synthesizing large-scale datasets from a small number of human demonstrations by adapting them to new scene configurations, object instances, and robot arms. This enables scalable imitation learning with minimal human effort.
+
+# raw html since jemdoc doesn't naturally support videos
+# note: the "muted" tag is necessary for autoplay to work
+~~~
+{}{raw}
+<video autoplay muted loop controls id="mimicgen" width="auto" height="320">
+ <source src="assets/demos/mimicgen.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+ Your browser does not support the video tag.
+</video>
+~~~
+
+
 === RoboTurk
 
-Developing this platform has been a significant part of my PhD. The video below showcases some highlights of what we've been able to accomplish using the platform.
+The development of the [https://roboturk.stanford.edu/ RoboTurk platform] was a significant part of my PhD. The video below showcases some highlights of what we've been able to accomplish using the platform.
 
 # raw html since jemdoc doesn't naturally support videos
 # note: the "muted" tag is necessary for autoplay to work
@@ -20,7 +51,7 @@ Developing this platform has been a significant part of my PhD. The video below 
 
 === robomimic
 
-I led development on this framework for robot learning from demonstrations. It offers a broad set of demonstration datasets collected on robot manipulation domains, and learning algorithms to learn from these datasets, in the hopes of facilitating progress in this important field. See the [https://arise-initiative.github.io/robomimic-web/ project website] for more information.
+I led development on this framework for robot learning from demonstrations. It offers a broad set of demonstration datasets collected on robot manipulation domains, and learning algorithms to learn from these datasets, in the hopes of facilitating progress in this important field. See the [https://robomimic.github.io/ project website] for more information.
 
 # raw html since jemdoc doesn't naturally support videos
 # note: the "muted" tag is necessary for autoplay to work

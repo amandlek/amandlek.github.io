@@ -11,17 +11,17 @@ Research Scientist at NVIDIA AI with [https://research.nvidia.com/person/dieter-
 == Contact
 Email: [amandlek@cs.stanford.edu] \n
 Twitter: [https://twitter.com/AjayMandlekar @AjayMandlekar] \n
-Google Scholar: [https://scholar.google.com/citations?user=Wde2GwcAAAAJ&hl=en Ajay Mandlekar] \n
+Google Scholar: [https://scholar.google.com/citations?user=MEz23joAAAAJ&hl=en Ajay Mandlekar] \n
 Github: [https://github.com/amandlek amandlek] \n
 CV: [assets/resume/Resume.pdf link]
 
 == Recent News
 
-- \[December 2022\] Our [https://ut-austin-rpl.github.io/sailor/ work] on using prior datasets to accelerate imitation learning for new tasks was presented at [https://corl2022.org/ CoRL 2022].
+- \[November 2023\] We released our [https://github.com/NVlabs/mimicgen_environments MimicGen datasets and simulation environments]! The release includes over 48,000 task demonstrations across 12 tasks generated from just 120 human demos, and integrates directly with [https://robomimic.github.io/docs/datasets/mimicgen.html robomimic].
 
-- \[December 2022\] Our work on [https://arxiv.org/abs/2210.11287 model-based counterfactual data augmentation] was presented at [https://neurips.cc/ NeurIPS 2022].
+- \[November 2023\] 3 papers ([https://mimicgen.github.io/ MimicGen], [https://hitltamp.github.io/ HITL-TAMP], [https://mihdalal.github.io/optimus/ OPTIMUS]) presented at [https://www.corl2023.org/ CoRL 2023]. [https://mimicgen.github.io/ MimicGen] is an oral at the [https://generalist-robots.github.io/ CoRL 2023 Towards Generalist Robots Workshop] and [https://hitltamp.github.io/ HITL-TAMP] is an oral at the [https://corl2023deployable.github.io/ CoRL 2023 Deployable Workshop].
 
-- \[December 2022\] We released a new framework called [https://minedojo.org/ MineDojo] for building generalist agents that can solve open-ended tasks with internet scale knowledge in MineCraft. MineDojo was presented at [https://neurips.cc/ NeurIPS 2022].
+- \[May 2023\] We introduced [https://voyager.minedojo.org/ Voyager], the first LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention.
 
 == About Me
 
