@@ -13,6 +13,14 @@ For a complete list please see [https://scholar.google.com/citations?user=MEz23j
 == Preprints
 
 ~~~
+{}{img_left}{assets/intervengen/thumbnail.gif}{Thumbnail}{225}{150}{}
+*IntervenGen: Interventional Data Generation for Robust and Data-Efficient Robot Imitation Learning* \n\n
+Ryan Hoque, Ajay Mandlekar\*, Caelan Garrett\*, Ken Goldberg, Dieter Fox\n\n
+*2024* \n\n
+\[[https://arxiv.org/abs/2405.01472 pdf]] \[[https://sites.google.com/view/intervengen2024 website]] 
+~~~
+
+~~~
 {}{img_left}{assets/voyager/thumbnail.png}{Thumbnail}{225}{150}{}
 *Voyager: An Open-Ended Embodied Agent with Large Language Models* \n\n
 Guanzhi Wang, Yuqi Xie, Yunfan Jiang\*, Ajay Mandlekar\*, Chaowei Xiao, Yuke Zhu, Linxi Fan†, Anima Anandkumar† \n\n

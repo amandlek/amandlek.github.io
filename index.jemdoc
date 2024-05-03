@@ -18,15 +18,13 @@ CV: [assets/resume/Resume.pdf link]
 
 == Recent News
 
+- \[May 2024\] Check out [https://sites.google.com/view/intervengen2024 IntervenGen], our new data generation system that extends [https://mimicgen.github.io/ MimicGen] to the interactive imitation learning setting!
+
 - \[November 2023\] [https://hitltamp.github.io/ HITL-TAMP] was selected as a best paper runner-up at the [https://corl2023deployable.github.io/schedule/ CoRL2023 Deployable Workshop].
 
 - \[November 2023\] We released our [https://github.com/NVlabs/mimicgen_environments MimicGen datasets and simulation environments]! The release includes over 48,000 task demonstrations across 12 tasks generated from just 120 human demos, and integrates directly with [https://robomimic.github.io/docs/datasets/mimicgen.html robomimic].
 
 - \[November 2023\] [https://github.com/NVlabs/Optimus Code and datasets] for OPTIMUS have been released! Try training visuomotor transformers on our TAMP-collected datasets, or on your own datasets today. Integrates directly with [https://robomimic.github.io/docs/datasets/mimicgen.html robomimic].
-
-- \[November 2023\] 3 papers ([https://mimicgen.github.io/ MimicGen], [https://hitltamp.github.io/ HITL-TAMP], [https://mihdalal.github.io/optimus/ OPTIMUS]) presented at [https://www.corl2023.org/ CoRL 2023]. [https://mimicgen.github.io/ MimicGen] is an oral at the [https://generalist-robots.github.io/ CoRL 2023 Towards Generalist Robots Workshop] and [https://hitltamp.github.io/ HITL-TAMP] is an oral at the [https://corl2023deployable.github.io/ CoRL 2023 Deployable Workshop].
-
-- \[May 2023\] We introduced [https://voyager.minedojo.org/ Voyager], the first LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention.
 
 == About Me
 
