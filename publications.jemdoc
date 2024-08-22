@@ -13,9 +13,17 @@ For a complete list please see [https://scholar.google.com/citations?user=MEz23j
 == Preprints
 
 ~~~
+{}{img_left}{assets/gen_survey/thumbnail.png}{Thumbnail}{225}{150}{}
+*Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations* \n\n
+Julen Urain, *Ajay Mandlekar*, Yilun Du, Mahi Shafiullah, Danfei Xu, Katerina Fragkiadaki, Georgia Chalvatzaki, Jan Petersn\n
+*2024* \n\n
+\[[https://arxiv.org/abs/2408.04380v1 pdf]]
+~~~
+
+~~~
 {}{img_left}{assets/nod_tamp/thumbnail.png}{Thumbnail}{225}{150}{}
 *NOD-TAMP: Generalizable Long-Horizon Planning with Neural Object Descriptors* \n\n
-Shuo Cheng, Caelan Garrett\*, Ajay Mandlekar\*, Danfei Xu\n\n
+Shuo Cheng, Caelan Garrett\*, *Ajay Mandlekar\**, Danfei Xu\n\n
 *2024* \n\n
 \[[https://arxiv.org/abs/2311.01530 pdf]] \[[https://sites.google.com/view/nod-tamp/ website]] 
 ~~~
@@ -25,7 +33,7 @@ Shuo Cheng, Caelan Garrett\*, Ajay Mandlekar\*, Danfei Xu\n\n
 ~~~
 {}{img_left}{assets/robocasa/thumbnail.jpg}{Thumbnail}{225}{150}{}
 *RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots* \n\n
-Soroush Nasiriany, Abhiram Maddukuri, Lance Zhang, Adeet Parikh, Aaron Lo, Abhishek Joshi, Ajay Mandlekar, Yuke Zhu\n\n
+Soroush Nasiriany, Abhiram Maddukuri, Lance Zhang, Adeet Parikh, Aaron Lo, Abhishek Joshi, *Ajay Mandlekar*, Yuke Zhu\n\n
 *RSS 2024* \n\n
 \[[https://arxiv.org/abs/2406.02523 pdf]] \[[https://robocasa.ai/ website]] \[[https://github.com/robocasa/robocasa code]]
 ~~~
@@ -33,7 +41,7 @@ Soroush Nasiriany, Abhiram Maddukuri, Lance Zhang, Adeet Parikh, Aaron Lo, Abhis
 ~~~
 {}{img_left}{assets/signature_dp/thumbnail.png}{Thumbnail}{225}{150}{}
 *Signatures Meet Dynamic Programming: Generalizing Bellman Equations for Trajectory Following* \n\n
-Motoya Ohnishi, Iretiayo Akinola, Jie Xu, Ajay Mandlekar, Fabio Ramos\n\n
+Motoya Ohnishi, Iretiayo Akinola, Jie Xu, *Ajay Mandlekar*, Fabio Ramos\n\n
 *L4DC 2024* \n\n
 \[[https://arxiv.org/abs/2312.05547 pdf]] \[[https://sites.google.com/view/sigctrl/ website]] 
 ~~~
@@ -41,7 +49,7 @@ Motoya Ohnishi, Iretiayo Akinola, Jie Xu, Ajay Mandlekar, Fabio Ramos\n\n
 ~~~
 {}{img_left}{assets/intervengen/thumbnail.gif}{Thumbnail}{225}{150}{}
 *IntervenGen: Interventional Data Generation for Robust and Data-Efficient Robot Imitation Learning* \n\n
-Ryan Hoque, Ajay Mandlekar\*, Caelan Garrett\*, Ken Goldberg, Dieter Fox\n\n
+Ryan Hoque, *Ajay Mandlekar\**, Caelan Garrett\*, Ken Goldberg, Dieter Fox\n\n
 *IROS 2024* \n\n
 \[[https://arxiv.org/abs/2405.01472 pdf]] \[[https://sites.google.com/view/intervengen2024 website]] 
 ~~~
@@ -49,7 +57,7 @@ Ryan Hoque, Ajay Mandlekar\*, Caelan Garrett\*, Ken Goldberg, Dieter Fox\n\n
 ~~~
 {}{img_left}{assets/voyager/thumbnail.png}{Thumbnail}{225}{150}{}
 *Voyager: An Open-Ended Embodied Agent with Large Language Models* \n\n
-Guanzhi Wang, Yuqi Xie, Yunfan Jiang\*, Ajay Mandlekar\*, Chaowei Xiao, Yuke Zhu, Linxi Fan†, Anima Anandkumar† \n\n
+Guanzhi Wang, Yuqi Xie, Yunfan Jiang\*, *Ajay Mandlekar\**, Chaowei Xiao, Yuke Zhu, Linxi Fan†, Anima Anandkumar† \n\n
 *TMLR 2024* \n\n
 \[[https://arxiv.org/abs/2305.16291 pdf]] \[[https://voyager.minedojo.org/ website]] \[[https://github.com/MineDojo/Voyager code]]
 ~~~
@@ -57,7 +65,7 @@ Guanzhi Wang, Yuqi Xie, Yunfan Jiang\*, Ajay Mandlekar\*, Chaowei Xiao, Yuke Zhu
 ~~~
 {}{img_left}{assets/mimicgen/thumbnail.gif}{Thumbnail}{225}{150}{}
 *MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations* \n\n
-Ajay Mandlekar, Soroush Nasiriany\*, Bowen Wen\*, Iretiayo Akinola, Yashraj Narang, Linxi Fan, Yuke Zhu, Dieter Fox\n\n
+*Ajay Mandlekar*, Soroush Nasiriany\*, Bowen Wen\*, Iretiayo Akinola, Yashraj Narang, Linxi Fan, Yuke Zhu, Dieter Fox\n\n
 *CoRL 2023* \n\n
 {{<p style="color:red;">Oral at <a href="https://generalist-robots.github.io/">CoRL 2023 Towards Generalist Robots Workshop</a> </p>}}
 \[[https://arxiv.org/abs/2310.17596 pdf]] \[[https://mimicgen.github.io/ website]] \[[https://github.com/NVlabs/mimicgen code]]
@@ -66,7 +74,7 @@ Ajay Mandlekar, Soroush Nasiriany\*, Bowen Wen\*, Iretiayo Akinola, Yashraj Nara
 ~~~
 {}{img_left}{assets/hitl_tamp/thumbnail.gif}{Thumbnail}{225}{150}{}
 *Human-in-the-Loop Task and Motion Planning for Imitation Learning* \n\n
-Ajay Mandlekar\*, Caelan Garrett\*, Danfei Xu, Dieter Fox \n\n
+*Ajay Mandlekar\**, Caelan Garrett\*, Danfei Xu, Dieter Fox \n\n
 *CoRL 2023* \n\n
 {{<p style="color:red;">Best Paper Runner-Up and Oral at <a href="https://corl2023deployable.github.io/">CoRL 2023 Deployable Workshop</a> </p>}}
 \[[https://arxiv.org/abs/2310.16014 pdf]] \[[https://hitltamp.github.io/ website]]
@@ -75,7 +83,7 @@ Ajay Mandlekar\*, Caelan Garrett\*, Danfei Xu, Dieter Fox \n\n
 ~~~
 {}{img_left}{assets/optimus/thumbnail.gif}{Thumbnail}{225}{150}{}
 *Imitating Task and Motion Planning with Visuomotor Transformers* \n\n
-Murtaza Dalal, Ajay Mandlekar\*, Caelan Garrett\*, Ankur Handa, Ruslan Salakhutdinov, Dieter Fox \n\n
+Murtaza Dalal, *Ajay Mandlekar\**, Caelan Garrett\*, Ankur Handa, Ruslan Salakhutdinov, Dieter Fox \n\n
 *CoRL 2023* \n\n
 \[[https://arxiv.org/abs/2305.16309 pdf]] \[[https://mihdalal.github.io/optimus/ website]] \[[https://github.com/NVlabs/Optimus code]]
 ~~~
