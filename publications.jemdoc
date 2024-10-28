@@ -13,6 +13,22 @@ For a complete list please see [https://scholar.google.com/citations?user=MEz23j
 == Preprints
 
 ~~~
+{}{img_left}{assets/AHA/thumbnail.png}{Thumbnail}{225}{150}{}
+*AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation* \n\n
+Jiafei Duan, Wilbert Pumacay, Nishanth Kumar, Yi Ru Wang, Shulin Tian, Wentao Yuan, Ranjay Krishna, Dieter Fox, *Ajay Mandlekar\**, Yijie Guo\*\n\n
+*Under Review* \n\n
+\[[https://arxiv.org/abs/2410.00371 pdf]] \[[https://aha-vlm.github.io/ website]]
+~~~
+
+~~~
+{}{img_left}{assets/LAPA/thumbnail.png}{Thumbnail}{225}{150}{}
+*Latent Action Pretraining from Videos* \n\n
+Seonghyeon Ye\*, Joel Jang\*, Byeongguk Jeon, Sejune Joo, Jianwei Yang, Baolin Peng, *Ajay Mandlekar*, Reuben Tan, Yu-Wei Chao, Bill Yuchen Lin, Lars Liden, Kimin Lee\*, Jianfeng Gao\*, Luke Zettlemoyer\*, Dieter Fox\*, Minjoon Seo\*\n\n
+*Under Review* \n\n
+\[[https://arxiv.org/abs/2410.11758v1 pdf]] \[[https://latentactionpretraining.github.io/ website]] \[[https://github.com/LatentActionPretraining/LAPA code]]
+~~~
+
+~~~
 {}{img_left}{assets/gen_survey/thumbnail.png}{Thumbnail}{225}{150}{}
 *Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations* \n\n
 Julen Urain, *Ajay Mandlekar*, Yilun Du, Mahi Shafiullah, Danfei Xu, Katerina Fragkiadaki, Georgia Chalvatzaki, Jan Petersn\n
@@ -20,15 +36,31 @@ Julen Urain, *Ajay Mandlekar*, Yilun Du, Mahi Shafiullah, Danfei Xu, Katerina Fr
 \[[https://arxiv.org/abs/2408.04380v1 pdf]]
 ~~~
 
+== Publications
+
+~~~
+{}{img_left}{assets/skillgen/thumbnail.gif}{Thumbnail}{225}{150}{}
+*SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment* \n\n
+Caelan Garrett\*, *Ajay Mandlekar\**, Bowen Wen, Dieter Fox\n\n
+*CoRL 2024* \n\n
+\[[https://arxiv.org/abs/2410.18907 pdf]] \[[https://skillgen.github.io/ website]] 
+~~~
+
+~~~
+{}{img_left}{assets/SPIRE/thumbnail.png}{Thumbnail}{225}{150}{}
+*SPIRE: Synergistic Planning, Imitation, and Reinforcement Learning for Long-Horizon Manipulation* \n\n
+Zihan Zhou, Animesh Garg, Dieter Fox, Caelan Garrett\*, *Ajay Mandlekar\**\n\n
+*CoRL 2024* \n\n
+\[[https://arxiv.org/abs/2410.18065 pdf]] \[[https://sites.google.com/view/spire-corl-2024 website]] 
+~~~
+
 ~~~
 {}{img_left}{assets/nod_tamp/thumbnail.png}{Thumbnail}{225}{150}{}
 *NOD-TAMP: Generalizable Long-Horizon Planning with Neural Object Descriptors* \n\n
 Shuo Cheng, Caelan Garrett\*, *Ajay Mandlekar\**, Danfei Xu\n\n
-*2024* \n\n
+*CoRL 2024* \n\n
 \[[https://arxiv.org/abs/2311.01530 pdf]] \[[https://sites.google.com/view/nod-tamp/ website]] 
 ~~~
-
-== Publications
 
 ~~~
 {}{img_left}{assets/robocasa/thumbnail.jpg}{Thumbnail}{225}{150}{}

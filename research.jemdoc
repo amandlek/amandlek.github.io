@@ -4,6 +4,21 @@
 == Research Demos and Highlights
 
 
+=== SkillMimicGen
+
+[https://skillgen.github.io/ SkillMimicGen] (SkillGen) is a novel data generation system that automatically scales robot imitation learning by synthesizing demos through integrating motion planning and demo adaptation.
+
+# raw html since jemdoc doesn't naturally support videos
+# note: the "muted" tag is necessary for autoplay to work
+~~~
+{}{raw}
+<video autoplay muted loop controls id="hitl_tamp" width="auto" height="320">
+ <source src="assets/demos/skillgen.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+ Your browser does not support the video tag.
+</video>
+~~~
+
+
 === Human-in-the-Loop Task and Motion Planning
 
 [https://hitltamp.github.io/ Human-in-the-Loop Task and Motion Planning] (HITL-TAMP) is a novel system that selectively gives and takes control to and from a human teleoperator. HITL-TAMP combines the benefits of imitation learning and TAMP to solve contact-rich and long-horizon manipulation.
@@ -161,4 +176,4 @@ Inventors: Ajay U. Mandlekar, Yuke Zhu, Animesh Garg, Silvio Savarese, Fei-Fei L
 
 === Peer Review
 
-- Reviewer for NeurIPS, ICML, RSS, CoRL, IROS, CVPR, IEEE T-RO.
+- Reviewer for NeurIPS, ICML, RSS, CoRL, ICRA, IROS, CVPR, IEEE T-RO.
