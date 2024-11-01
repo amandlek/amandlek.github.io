@@ -13,6 +13,14 @@ For a complete list please see [https://scholar.google.com/citations?user=MEz23j
 == Preprints
 
 ~~~
+{}{img_left}{assets/dexmimicgen/thumbnail.gif}{Thumbnail}{225}{150}{}
+*DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning* \n\n
+Zhenyu Jiang\*, Yuqi Xie\*, Kevin Lin\*, Zhenjia Xu, Weikang Wan, *Ajay Mandlekar\**, Linxi Fan\*, Yuke Zhu\*\n\n
+*Under Review* \n\n
+\[[https://arxiv.org/abs/2410.24185 pdf]] \[[https://dexmimicgen.github.io/ website]]
+~~~
+
+~~~
 {}{img_left}{assets/AHA/thumbnail.png}{Thumbnail}{225}{150}{}
 *AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation* \n\n
 Jiafei Duan, Wilbert Pumacay, Nishanth Kumar, Yi Ru Wang, Shulin Tian, Wentao Yuan, Ranjay Krishna, Dieter Fox, *Ajay Mandlekar\**, Yijie Guo\*\n\n

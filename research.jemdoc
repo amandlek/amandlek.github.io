@@ -3,6 +3,19 @@
 
 == Research Demos and Highlights
 
+=== DexMimicGen
+
+[https://dexmimicgen.github.io/ DexMimicGen] is a novel data generation system for bimanual dexterous manipulation. It generates demonstrations automatically for challenging humanoid manipulation tasks.
+
+# raw html since jemdoc doesn't naturally support videos
+# note: the "muted" tag is necessary for autoplay to work
+~~~
+{}{raw}
+<video autoplay muted loop controls id="hitl_tamp" width="auto" height="320">
+ <source src="assets/demos/dexmimicgen.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+ Your browser does not support the video tag.
+</video>
+~~~
 
 === SkillMimicGen
 
