@@ -33,7 +33,16 @@ Jiafei Duan, Wilbert Pumacay, Nishanth Kumar, Yi Ru Wang, Shulin Tian, Wentao Yu
 *Latent Action Pretraining from Videos* \n\n
 Seonghyeon Ye\*, Joel Jang\*, Byeongguk Jeon, Sejune Joo, Jianwei Yang, Baolin Peng, *Ajay Mandlekar*, Reuben Tan, Yu-Wei Chao, Bill Yuchen Lin, Lars Liden, Kimin Lee\*, Jianfeng Gao\*, Luke Zettlemoyer\*, Dieter Fox\*, Minjoon Seo\*\n\n
 *Under Review* \n\n
+{{<p style="color:red;">Best Paper Award at <a href="https://sites.google.com/view/langrob-corl24/">CoRL 2024 LangRob Workshop</a> </p>}}
 \[[https://arxiv.org/abs/2410.11758v1 pdf]] \[[https://latentactionpretraining.github.io/ website]] \[[https://github.com/LatentActionPretraining/LAPA code]]
+~~~
+
+~~~
+{}{img_left}{assets/onedp/thumbnail.png}{Thumbnail}{225}{150}{}
+*One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation* \n\n
+Zhendong Wang, Zhaoshuo Li, *Ajay Mandlekar*, Zhenjia Xu, Jiaojiao Fan, Yashraj Narang, Linxi Fan, Yuke Zhu, Yogesh Balaji, Mingyuan Zhou, Ming-Yu Liu, Yu Zeng\n\n
+*Under Review* \n\n
+\[[https://arxiv.org/abs/2410.21257 pdf]] \[[https://research.nvidia.com/labs/dir/onedp/ website]]
 ~~~
 
 ~~~
