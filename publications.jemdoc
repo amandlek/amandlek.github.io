@@ -13,35 +13,61 @@ For a complete list please see [https://scholar.google.com/citations?user=MEz23j
 == Preprints
 
 ~~~
-{}{img_left}{assets/dexmimicgen/thumbnail.gif}{Thumbnail}{225}{150}{}
-*DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning* \n\n
-Zhenyu Jiang\*, Yuqi Xie\*, Kevin Lin\*, Zhenjia Xu, Weikang Wan, *Ajay Mandlekar\**, Linxi Fan\*, Yuke Zhu\*\n\n
+{}{img_left}{assets/cotraining/thumbnail.png}{Thumbnail}{225}{150}{}
+*Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation* \n\n
+Abhiram Maddukuri\*, Zhenyu Jiang\*, Lawrence Yunliang Chen\*, Soroush Nasiriany\*, Yuqi Xie, Yu Fang, Wenqi Huang, Zu Wang, Zhenjia Xu, Nikita Chernyadev, Scott Reed, Ken Goldberg, *Ajay Mandlekar\**, Linxi Fan\*, Yuke Zhu\*\n\n
 *Under Review* \n\n
-\[[https://arxiv.org/abs/2410.24185 pdf]] \[[https://dexmimicgen.github.io/ website]]
+\[[https://arxiv.org/abs/2503.24361 pdf]] \[[https://co-training.github.io/ website]]
+~~~
+
+~~~
+{}{img_left}{assets/groot_n1/thumbnail.jpg}{Thumbnail}{225}{150}{}
+*GR00T N1: An Open Foundation Model for Generalist Humanoid Robots* \n\n
+NVIDIA\n\n
+*2025* \n\n
+\[[https://arxiv.org/abs/2503.14734 pdf]] \[[https://developer.nvidia.com/isaac/gr00t website]] \[[https://github.com/NVIDIA/Isaac-GR00T code]]
+~~~
+
+== Publications
+
+~~~
+{}{img_left}{assets/mimiclabs/thumbnail.png}{Thumbnail}{225}{150}{}
+*What Matters in Learning from Large-Scale Datasets for Robot Manipulation* \n\n
+Vaibhav Saxena, Matthew Bronars\*, Nadun Ranawaka Arachchige\*, Kuancheng Wang, Woo Chul Shin, Soroush Nasiriany, *Ajay Mandlekar\**, Danfei Xu\*\n\n
+*ICLR 2025* \n\n
+\[[https://openreview.net/forum?id=LqhorpRLIm&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions) pdf]]
 ~~~
 
 ~~~
 {}{img_left}{assets/AHA/thumbnail.png}{Thumbnail}{225}{150}{}
 *AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation* \n\n
 Jiafei Duan, Wilbert Pumacay, Nishanth Kumar, Yi Ru Wang, Shulin Tian, Wentao Yuan, Ranjay Krishna, Dieter Fox, *Ajay Mandlekar\**, Yijie Guo\*\n\n
-*Under Review* \n\n
-\[[https://arxiv.org/abs/2410.00371 pdf]] \[[https://aha-vlm.github.io/ website]]
+*ICLR 2025* \n\n
+\[[https://arxiv.org/abs/2410.00371 pdf]] \[[https://aha-vlm.github.io/ website]] \[[https://github.com/NVlabs/AHA/ code]]
 ~~~
 
 ~~~
 {}{img_left}{assets/LAPA/thumbnail.png}{Thumbnail}{225}{150}{}
 *Latent Action Pretraining from Videos* \n\n
 Seonghyeon Ye\*, Joel Jang\*, Byeongguk Jeon, Sejune Joo, Jianwei Yang, Baolin Peng, *Ajay Mandlekar*, Reuben Tan, Yu-Wei Chao, Bill Yuchen Lin, Lars Liden, Kimin Lee\*, Jianfeng Gao\*, Luke Zettlemoyer\*, Dieter Fox\*, Minjoon Seo\*\n\n
-*Under Review* \n\n
+*ICLR 2025* \n\n
 {{<p style="color:red;">Best Paper Award at <a href="https://sites.google.com/view/langrob-corl24/">CoRL 2024 LangRob Workshop</a> </p>}}
 \[[https://arxiv.org/abs/2410.11758v1 pdf]] \[[https://latentactionpretraining.github.io/ website]] \[[https://github.com/LatentActionPretraining/LAPA code]]
+~~~
+
+~~~
+{}{img_left}{assets/dexmimicgen/thumbnail.gif}{Thumbnail}{225}{150}{}
+*DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning* \n\n
+Zhenyu Jiang\*, Yuqi Xie\*, Kevin Lin\*, Zhenjia Xu, Weikang Wan, *Ajay Mandlekar\**, Linxi Fan\*, Yuke Zhu\*\n\n
+*ICRA 2025* \n\n
+\[[https://arxiv.org/abs/2410.24185 pdf]] \[[https://dexmimicgen.github.io/ website]] \[[https://github.com/NVlabs/dexmimicgen/ code]]
 ~~~
 
 ~~~
 {}{img_left}{assets/onedp/thumbnail.png}{Thumbnail}{225}{150}{}
 *One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation* \n\n
 Zhendong Wang, Zhaoshuo Li, *Ajay Mandlekar*, Zhenjia Xu, Jiaojiao Fan, Yashraj Narang, Linxi Fan, Yuke Zhu, Yogesh Balaji, Mingyuan Zhou, Ming-Yu Liu, Yu Zeng\n\n
-*Under Review* \n\n
+*ICML 2025* \n\n
 \[[https://arxiv.org/abs/2410.21257 pdf]] \[[https://research.nvidia.com/labs/dir/onedp/ website]]
 ~~~
 
@@ -49,11 +75,9 @@ Zhendong Wang, Zhaoshuo Li, *Ajay Mandlekar*, Zhenjia Xu, Jiaojiao Fan, Yashraj 
 {}{img_left}{assets/gen_survey/thumbnail.png}{Thumbnail}{225}{150}{}
 *Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations* \n\n
 Julen Urain, *Ajay Mandlekar*, Yilun Du, Mahi Shafiullah, Danfei Xu, Katerina Fragkiadaki, Georgia Chalvatzaki, Jan Petersn\n
-*2024* \n\n
+*IEEE T-RO* \n\n
 \[[https://arxiv.org/abs/2408.04380v1 pdf]]
 ~~~
-
-== Publications
 
 ~~~
 {}{img_left}{assets/skillgen/thumbnail.gif}{Thumbnail}{225}{150}{}

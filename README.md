@@ -6,6 +6,10 @@ Note: to update the website at `https://ai.stanford.edu/~amandlek/` (especially 
 
 scp -r * xenon.stanford.edu:/afs/cs.stanford.edu/u/amandlek/www/
 
+Note: can also try rsync to avoid transferring everything, e.g.:
+
+rsync -azvP --exclude='.git' * xenon.stanford.edu:/afs/cs.stanford.edu/u/amandlek/www/
+
 Note: for password, check LastPass (xenon).
 
 (See [this link](https://cs.stanford.edu/computing-guide/web-pages) for more information)
