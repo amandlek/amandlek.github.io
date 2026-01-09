@@ -13,19 +13,19 @@ For a complete list please see [https://scholar.google.com/citations?user=MEz23j
 == Preprints
 
 ~~~
-{}{img_left}{assets/cotraining/thumbnail.png}{Thumbnail}{225}{150}{}
-*Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation* \n\n
-Abhiram Maddukuri\*, Zhenyu Jiang\*, Lawrence Yunliang Chen\*, Soroush Nasiriany\*, Yuqi Xie, Yu Fang, Wenqi Huang, Zu Wang, Zhenjia Xu, Nikita Chernyadev, Scott Reed, Ken Goldberg, *Ajay Mandlekar\**, Linxi Fan\*, Yuke Zhu\*\n\n
+{}{img_left}{assets/dexmachina/thumbnail.png}{Thumbnail}{225}{150}{}
+*DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation* \n\n
+Mandi Zhao, Yifan Hou, Dieter Fox, Yashraj Narang, *Ajay Mandlekar\**, Shuran Song\*\n\n
 *Under Review* \n\n
-\[[https://arxiv.org/abs/2503.24361 pdf]] \[[https://co-training.github.io/ website]]
+\[[https://arxiv.org/abs/2505.24853 pdf]] \[[https://project-dexmachina.github.io/ website]] \[[https://github.com/MandiZhao/dexmachina code]]
 ~~~
 
 ~~~
-{}{img_left}{assets/groot_n1/thumbnail.jpg}{Thumbnail}{225}{150}{}
-*GR00T N1: An Open Foundation Model for Generalist Humanoid Robots* \n\n
-NVIDIA\n\n
-*2025* \n\n
-\[[https://arxiv.org/abs/2503.14734 pdf]] \[[https://developer.nvidia.com/isaac/gr00t website]] \[[https://github.com/NVIDIA/Isaac-GR00T code]]
+{}{img_left}{assets/dreamgen/thumbnail.png}{Thumbnail}{225}{150}{}
+*DreamGen: Unlocking Generalization in Robot Learning through Video World Models* \n\n
+Joel Jang\*, Seonghyeon Ye\*, Zongyu Lin\*, Jiannan Xiang\*, Johan Bjorck, Yu Fang, Fengyuan Hu, Spencer Huang, Kaushil Kundalia, Yen-Chen Lin, Loic Magne, *Ajay Mandlekar*, Avnish Narayan, You Liang Tan, Guanzhi Wang, Jing Wang, Qi Wang, Yinzhen Xu, Xiaohui Zeng, Kaiyuan Zheng, Ruijie Zheng, Ming-Yu Liu, Luke Zettlemoyer, Dieter Fox, Jan Kautz, Scott Reed\*, Yuke Zhu\*, Linxi Fan\*\n\n
+*Under Review* \n\n
+\[[https://arxiv.org/abs/2505.12705 pdf]] \[[https://research.nvidia.com/labs/gear/dreamgen/ website] [https://github.com/NVIDIA/GR00T-Dreams code]]
 ~~~
 
 == Publications
@@ -35,7 +35,23 @@ NVIDIA\n\n
 *What Matters in Learning from Large-Scale Datasets for Robot Manipulation* \n\n
 Vaibhav Saxena, Matthew Bronars\*, Nadun Ranawaka Arachchige\*, Kuancheng Wang, Woo Chul Shin, Soroush Nasiriany, *Ajay Mandlekar\**, Danfei Xu\*\n\n
 *ICLR 2025* \n\n
-\[[https://openreview.net/forum?id=LqhorpRLIm&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions) pdf]]
+\[[https://arxiv.org/abs/2506.13536 pdf] \[[https://robo-mimiclabs.github.io/ website]] \[[https://github.com/Gatech-RL2/mimiclabs code]]
+~~~
+
+~~~
+{}{img_left}{assets/cotraining/thumbnail.png}{Thumbnail}{225}{150}{}
+*Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation* \n\n
+Abhiram Maddukuri\*, Zhenyu Jiang\*, Lawrence Yunliang Chen\*, Soroush Nasiriany\*, Yuqi Xie, Yu Fang, Wenqi Huang, Zu Wang, Zhenjia Xu, Nikita Chernyadev, Scott Reed, Ken Goldberg, *Ajay Mandlekar\**, Linxi Fan\*, Yuke Zhu\*\n\n
+*RSS 2025* \n\n
+\[[https://arxiv.org/abs/2503.24361 pdf]] \[[https://co-training.github.io/ website]]
+~~~
+
+~~~
+{}{img_left}{assets/groot_n1/thumbnail.jpg}{Thumbnail}{225}{150}{}
+*GR00T N1: An Open Foundation Model for Generalist Humanoid Robots* \n\n
+NVIDIA\n\n
+*Technical Report 2025* \n\n
+\[[https://arxiv.org/abs/2503.14734 pdf]] \[[https://developer.nvidia.com/isaac/gr00t website]] \[[https://github.com/NVIDIA/Isaac-GR00T code]]
 ~~~
 
 ~~~
@@ -261,6 +277,14 @@ Danfei Xu, *Ajay Mandlekar*, Roberto Martín-Martín, Yuke Zhu, Silvio Savarese,
 ~~~
 
 ~~~
+{}{img_left}{assets/robosuite/thumbnail.png}{Thumbnail}{225}{150}{}
+*robosuite: A Modular Simulation Framework and Benchmark for Robot Learning* \n\n
+Yuke Zhu, Josiah Wong, *Ajay Mandlekar*, Roberto Martin-Martin\n\n
+*Technical Report* \n\n
+\[[https://arxiv.org/abs/2009.12293 pdf]] \[[https://robosuite.ai/ website]]
+~~~
+
+~~~
 {}{img_left}{assets/gti/thumbnail.png}{Thumbnail}{225}{150}{}
 *Learning to Generalize Across Long-Horizon Tasks from Human Demonstrations* \n\n
 *Ajay Mandlekar\**, Danfei Xu\*, Roberto Martín-Martín, Silvio Savarese, Li Fei-Fei \n\n
@@ -323,15 +347,4 @@ Andrey Kurenkov\*, *Ajay Mandlekar\**, Roberto Martín-Martín, Silvio Savarese,
 Anirudha Majumdar, Sumeet Singh, *Ajay Mandlekar*, Marco Pavone \n\n
 *RSS 2017* \n\n
 \[[http://rss2017.lids.mit.edu/static/papers/62.pdf pdf]] 
-~~~
-
-
-== Technical Reports
-
-~~~
-{}{img_left}{assets/robosuite/thumbnail.png}{Thumbnail}{225}{150}{}
-*robosuite: A Modular Simulation Framework and Benchmark for Robot Learning* \n\n
-Yuke Zhu, Josiah Wong, *Ajay Mandlekar*, Roberto Martin-Martin\n\n
-*Technical Report* \n\n
-\[[https://arxiv.org/abs/2009.12293 pdf]] \[[https://robosuite.ai/ website]]
 ~~~

@@ -4,8 +4,8 @@
 ~~~
 {}{img_left}{assets/self.jpg}{Picture of Ajay.}{150}{184}{}
 [https://ai.stanford.edu/~amandlek Ajay Mandlekar]\n
-Research Scientist at NVIDIA AI with [https://research.nvidia.com/person/dieter-fox Dieter Fox]\n
-[https://nvidia_srl.gitlab.io/ NVIDIA Seattle Robotics Lab]\n
+Research Scientist at NVIDIA AI \n
+[https://research.nvidia.com/labs/gear/ NVIDIA GEAR Lab]\n
 ~~~
 
 == Contact
@@ -18,17 +18,19 @@ CV: [assets/resume/Resume.pdf link]
 
 == Recent News
 
+- \[July 2025\] Check out [https://robo-mimiclabs.github.io/ MimicLabs], a careful study in collecting and using large-scale manipulation datasets, conducted through the power of simulation and synthetic data generation. We release the [https://github.com/Gatech-RL2/mimiclabs full framework], consisting of data generation code, simulation environments, and datasets.
+
+- \[June 2025\] Check out [https://project-dexmachina.github.io/ DexMachina], a novel curriculum-based algorithm for functional retargeting, enabling learning bimanual dexterous manipulation across several different robotic hands.
+
 - \[April 2025\] We have released the [https://github.com/NVlabs/dexmimicgen/ DexMimicGen simulation environments and datasets] and the [https://github.com/NVlabs/AHA/ AHA codebase].
-
-- \[April 2025\] 3 papers presented at ICLR 2025: [https://openreview.net/forum?id=LqhorpRLIm&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions) MimicLabs] (a study in collecting and using large-scale manipulation datasets), [https://aha-vlm.github.io/ AHA] (novel failure data generation and failure reasoning framework for robotic manipulation), and [https://latentactionpretraining.github.io/ LAPA] (unsupervised latent action based pretraining for robotic manipulation).
-
-- \[March 2025\] Check out [https://co-training.github.io/ Sim-and-Real Co-Training], a simple recipe that utilizes synthetic data generation tools (such as [https://mimicgen.github.io/ MimicGen]) for efficient real-world robotic manipulation. This recipe was used to train the [https://developer.nvidia.com/isaac/gr00t GR00T-N1] humanoid foundation model as well.
 
 == About Me
 
 I am a research scientist at NVIDIA AI. I obtained my PhD degree from Stanford University, co-advised by [http://cvgl.stanford.edu/silvio/ Silvio Savarese] and [http://vision.stanford.edu/feifeili/ Fei-Fei Li]. My research focuses on developing systems and algorithms to enable robots to learn useful manipulation tasks.
 
-== Education
+== History
+- Research Scientist, [https://research.nvidia.com/labs/gear/ NVIDIA GEAR Lab], July 2025 - Present
+- Research Scientist, [https://nvidia_srl.gitlab.io/ NVIDIA Seattle Robotics Lab], January 2022 - June 2025
 - Ph.D., Electrical Engineering, [https://stanford.edu Stanford University] co-advised by [http://cvgl.stanford.edu/silvio/ Silvio Savarese] and [http://vision.stanford.edu/feifeili/ Fei-Fei Li], September 2016 - January 2022
 - M.S., Computer Science, [https://stanford.edu Stanford University], June 2018
 - B.S., Electrical Engineering, [https://www.caltech.edu/ California Institute of Technology], June 2016
