@@ -1,0 +1,817 @@
+{
+    "settings": {
+        "self_name": "Ajay Mandlekar"
+    },
+    "papers": [
+        {
+            "id": "point-bridge",
+            "title": "Point Bridge: 3D Representations for Cross Domain Policy Learning",
+            "title_url": "",
+            "authors": "Siddhant Haldar, Lars Johannsmeier, Lerrel Pinto, Abhishek Gupta, Dieter Fox, Yashraj Narang, Ajay Mandlekar",
+            "venue": "Under Review",
+            "year": null,
+            "thumbnail": "assets/point-bridge/thumbnail.png",
+            "highlighted": true,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2601.16212",
+                "website": "https://pointbridge3d.github.io/",
+                "code": "https://github.com/NVlabs/pointbridge"
+            },
+            "section": "preprint"
+        },
+        {
+            "id": "reinforcegen",
+            "title": "ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning",
+            "title_url": "",
+            "authors": "Zihan Zhou, Animesh Garg, Ajay Mandlekar†, Caelan Garrett†",
+            "venue": "Under Review",
+            "year": null,
+            "thumbnail": "assets/reinforcegen/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2512.16861",
+                "website": "https://reinforcegen.github.io/"
+            },
+            "section": "preprint"
+        },
+        {
+            "id": "DexMachina",
+            "title": "DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation",
+            "title_url": "https://mandizhao.github.io/dexmachina/",
+            "authors": "Mandi Zhao, Yifan Hou, Dieter Fox, Yashraj Narang, **Ajay Mandlekar†**, Shuran Song†",
+            "venue": "Under Review",
+            "year": null,
+            "thumbnail": "assets/dexmachina/thumbnail.png",
+            "highlighted": true,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2505.24853",
+                "website": "https://mandizhao.github.io/dexmachina/",
+                "code": "https://github.com/MandiZhao/dexmachina"
+            },
+            "section": "preprint"
+        },
+        {
+            "id": "grasp-mpc",
+            "title": "Grasp-MPC: Closed-Loop Visual Grasping via Value-Guided Model Predictive Control",
+            "title_url": "https://grasp-mpc.github.io/",
+            "authors": "Jun Yamada, Adithyavairavan Murali, Ajay Mandlekar, Clemens Eppner, Ingmar Posner, Balakumar Sundaralingam",
+            "venue": "ICRA",
+            "year": 2026,
+            "thumbnail": "assets/grasp-mpc/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2509.06201",
+                "website": "https://grasp-mpc.github.io/"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "generalizable-domain-adaptation",
+            "title": "Generalizable Domain Adaptation for Sim-and-Real Policy Co-Training",
+            "title_url": "",
+            "authors": "Shuo Cheng*, Liqian Ma*, Zhenyang Chen, Ajay Mandlekar†, Caelan Garrett†, Danfei Xu",
+            "venue": "NeurIPS",
+            "year": 2025,
+            "thumbnail": "assets/generalizable-domain-adaptation/thumbnail.png",
+            "highlighted": true,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2509.18631",
+                "website": "https://ot-sim2real.github.io/",
+                "code": "https://github.com/GaTech-RL2/ot-sim2real"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "isaac-lab",
+            "title": "Isaac Lab: A GPU-Accelerated Simulation Framework for Multi-Modal Robot Learning",
+            "title_url": "",
+            "authors": "NVIDIA",
+            "venue": "Technical Report",
+            "year": 2025,
+            "thumbnail": "assets/isaac-lab/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2511.04831",
+                "website": "https://isaac-sim.github.io/IsaacLab/main/index.html",
+                "code": "https://github.com/isaac-sim/IsaacLab"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "teleoplab",
+            "title": "TeleopLab: Accessible and Intuitive Teleoperation of a Robotic Manipulator for Remote Labs",
+            "title_url": "",
+            "authors": "Ziling Chen, Yeo Jung Yoon, Rolando Bautista-Montesano, Zhen Zhao, Ajay Mandlekar, John Liu",
+            "venue": "Technical Report",
+            "year": 2025,
+            "thumbnail": "assets/teleoplab/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2509.05547"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "DreamGen",
+            "title": "DreamGen: Unlocking Generalization in Robot Learning through Video World Models",
+            "title_url": "https://research.nvidia.com/labs/gear/dreamgen/",
+            "authors": "Joel Jang*, Seonghyeon Ye*, Zongyu Lin*, Jiannan Xiang*, Johan Bjorck, Yu Fang, Fengyuan Hu, Spencer Huang, Kaushil Kundalia, Yen-Chen Lin, Loic Magne, **Ajay Mandlekar**, Avnish Narayan, You Liang Tan, Guanzhi Wang, Jing Wang, Qi Wang, Yinzhen Xu, Xiaohui Zeng, Kaiyuan Zheng, Ruijie Zheng, Ming-Yu Liu, Luke Zettlemoyer, Dieter Fox, Jan Kautz, Scott Reed†, Yuke Zhu†, Linxi Fan†",
+            "venue": "CoRL",
+            "year": 2025,
+            "thumbnail": "assets/dreamgen/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2505.12705",
+                "website": "https://research.nvidia.com/labs/gear/dreamgen/",
+                "code": "https://github.com/NVIDIA/GR00T-Dreams"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "MimicLabs",
+            "title": "What Matters in Learning from Large-Scale Datasets for Robot Manipulation",
+            "title_url": "https://robo-mimiclabs.github.io/",
+            "authors": "Vaibhav Saxena, Matthew Bronars*, Nadun Ranawaka Arachchige*, Kuancheng Wang, Woo Chul Shin, Soroush Nasiriany, **Ajay Mandlekar†**, Danfei Xu†",
+            "venue": "ICLR",
+            "year": 2025,
+            "thumbnail": "assets/mimiclabs/thumbnail.png",
+            "highlighted": true,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2506.13536",
+                "website": "https://robo-mimiclabs.github.io/",
+                "code": "https://github.com/Gatech-RL2/mimiclabs"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "Sim-and-Real Co-Training",
+            "title": "Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation",
+            "title_url": "https://co-training.github.io/",
+            "authors": "Abhiram Maddukuri*, Zhenyu Jiang*, Lawrence Yunliang Chen*, Soroush Nasiriany*, Yuqi Xie, Yu Fang, Wenqi Huang, Zu Wang, Zhenjia Xu, Nikita Chernyadev, Scott Reed, Ken Goldberg, **Ajay Mandlekar†**, Linxi Fan†, Yuke Zhu†",
+            "venue": "RSS",
+            "year": 2025,
+            "thumbnail": "assets/cotraining/thumbnail.png",
+            "highlighted": true,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2503.24361",
+                "website": "https://co-training.github.io/"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "GR00T N1",
+            "title": "GR00T N1: An Open Foundation Model for Generalist Humanoid Robots",
+            "title_url": "https://developer.nvidia.com/isaac/gr00t",
+            "authors": "NVIDIA",
+            "venue": "Technical Report",
+            "year": 2025,
+            "thumbnail": "assets/groot_n1/thumbnail.jpg",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2503.14734",
+                "website": "https://developer.nvidia.com/isaac/gr00t",
+                "code": "https://github.com/NVIDIA/Isaac-GR00T"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "AHA",
+            "title": "AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation",
+            "title_url": "https://aha-vlm.github.io/",
+            "authors": "Jiafei Duan, Wilbert Pumacay, Nishanth Kumar, Yi Ru Wang, Shulin Tian, Wentao Yuan, Ranjay Krishna, Dieter Fox, **Ajay Mandlekar†**, Yijie Guo†",
+            "venue": "ICLR",
+            "year": 2025,
+            "thumbnail": "assets/AHA/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2410.00371",
+                "website": "https://aha-vlm.github.io/",
+                "code": "https://github.com/NVlabs/AHA/"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "LAPA",
+            "title": "Latent Action Pretraining from Videos",
+            "title_url": "https://latentactionpretraining.github.io/",
+            "authors": "Seonghyeon Ye*, Joel Jang*, Byeongguk Jeon, Sejune Joo, Jianwei Yang, Baolin Peng, **Ajay Mandlekar**, Reuben Tan, Yu-Wei Chao, Bill Yuchen Lin, Lars Liden, Kimin Lee†, Jianfeng Gao†, Luke Zettlemoyer†, Dieter Fox†, Minjoon Seo†",
+            "venue": "ICLR",
+            "year": 2025,
+            "thumbnail": "assets/LAPA/thumbnail.png",
+            "highlighted": false,
+            "awards": [
+                {
+                    "text": "Best Paper Award at [CoRL 2024 LangRob Workshop](https://sites.google.com/view/langrob-corl24/)"
+                }
+            ],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2410.11758v1",
+                "website": "https://latentactionpretraining.github.io/",
+                "code": "https://github.com/LatentActionPretraining/LAPA"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "DexMimicGen",
+            "title": "DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning",
+            "title_url": "https://dexmimicgen.github.io/",
+            "authors": "Zhenyu Jiang*, Yuqi Xie*, Kevin Lin*, Zhenjia Xu, Weikang Wan, **Ajay Mandlekar†**, Linxi Fan†, Yuke Zhu†",
+            "venue": "ICRA",
+            "year": 2025,
+            "thumbnail": "assets/dexmimicgen/thumbnail.gif",
+            "highlighted": true,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2410.24185",
+                "website": "https://dexmimicgen.github.io/",
+                "code": "https://github.com/NVlabs/dexmimicgen/"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "One-Step Diffusion Policy",
+            "title": "One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation",
+            "title_url": "https://research.nvidia.com/labs/dir/onedp/",
+            "authors": "Zhendong Wang, Zhaoshuo Li, **Ajay Mandlekar**, Zhenjia Xu, Jiaojiao Fan, Yashraj Narang, Linxi Fan, Yuke Zhu, Yogesh Balaji, Mingyuan Zhou, Ming-Yu Liu, Yu Zeng",
+            "venue": "ICML",
+            "year": 2025,
+            "thumbnail": "assets/onedp/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2410.21257",
+                "website": "https://research.nvidia.com/labs/dir/onedp/"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "Gen Survey",
+            "title": "Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations",
+            "title_url": "https://arxiv.org/abs/2408.04380v1",
+            "authors": "Julen Urain, **Ajay Mandlekar**, Yilun Du, Mahi Shafiullah, Danfei Xu, Katerina Fragkiadaki, Georgia Chalvatzaki, Jan Peters",
+            "venue": "IEEE T-RO",
+            "year": null,
+            "thumbnail": "assets/gen_survey/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2408.04380v1"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "SkillMimicGen",
+            "title": "SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment",
+            "title_url": "https://skillgen.github.io/",
+            "authors": "Caelan Garrett*, **Ajay Mandlekar***, Bowen Wen, Dieter Fox",
+            "venue": "CoRL",
+            "year": 2024,
+            "thumbnail": "assets/skillgen/thumbnail.gif",
+            "highlighted": true,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2410.18907",
+                "website": "https://skillgen.github.io/"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "SPIRE",
+            "title": "SPIRE: Synergistic Planning, Imitation, and Reinforcement Learning for Long-Horizon Manipulation",
+            "title_url": "https://sites.google.com/view/spire-corl-2024",
+            "authors": "Zihan Zhou, Animesh Garg, Dieter Fox, Caelan Garrett†, **Ajay Mandlekar†**",
+            "venue": "CoRL",
+            "year": 2024,
+            "thumbnail": "assets/SPIRE/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2410.18065",
+                "website": "https://sites.google.com/view/spire-corl-2024"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "NOD-TAMP",
+            "title": "NOD-TAMP: Generalizable Long-Horizon Planning with Neural Object Descriptors",
+            "title_url": "https://nodtamp.github.io/",
+            "authors": "Shuo Cheng, Caelan Garrett*, **Ajay Mandlekar***, Danfei Xu",
+            "venue": "CoRL",
+            "year": 2024,
+            "thumbnail": "assets/nod_tamp/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2311.01530",
+                "website": "https://nodtamp.github.io/"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "RoboCasa",
+            "title": "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots",
+            "title_url": "https://robocasa.ai/",
+            "authors": "Soroush Nasiriany, Abhiram Maddukuri, Lance Zhang, Adeet Parikh, Aaron Lo, Abhishek Joshi, **Ajay Mandlekar**, Yuke Zhu",
+            "venue": "RSS",
+            "year": 2024,
+            "thumbnail": "assets/robocasa/thumbnail.jpg",
+            "highlighted": true,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2406.02523",
+                "website": "https://robocasa.ai/",
+                "code": "https://github.com/robocasa/robocasa"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "Signature DP",
+            "title": "Signatures Meet Dynamic Programming: Generalizing Bellman Equations for Trajectory Following",
+            "title_url": "https://sites.google.com/view/sigctrl/",
+            "authors": "Motoya Ohnishi, Iretiayo Akinola, Jie Xu, **Ajay Mandlekar**, Fabio Ramos",
+            "venue": "L4DC",
+            "year": 2024,
+            "thumbnail": "assets/signature_dp/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2312.05547",
+                "website": "https://sites.google.com/view/sigctrl/"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "IntervenGen",
+            "title": "IntervenGen: Interventional Data Generation for Robust and Data-Efficient Robot Imitation Learning",
+            "title_url": "https://sites.google.com/view/intervengen2024",
+            "authors": "Ryan Hoque, **Ajay Mandlekar***, Caelan Garrett*, Ken Goldberg, Dieter Fox",
+            "venue": "IROS",
+            "year": 2024,
+            "thumbnail": "assets/intervengen/thumbnail.gif",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2405.01472",
+                "website": "https://sites.google.com/view/intervengen2024"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "Voyager",
+            "title": "Voyager: An Open-Ended Embodied Agent with Large Language Models",
+            "title_url": "https://voyager.minedojo.org/",
+            "authors": "Guanzhi Wang, Yuqi Xie, Yunfan Jiang*, **Ajay Mandlekar***, Chaowei Xiao, Yuke Zhu, Linxi Fan†, Anima Anandkumar†",
+            "venue": "TMLR",
+            "year": 2024,
+            "thumbnail": "assets/voyager/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2305.16291",
+                "website": "https://voyager.minedojo.org/",
+                "code": "https://github.com/MineDojo/Voyager"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "MimicGen",
+            "title": "MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations",
+            "title_url": "https://mimicgen.github.io/",
+            "authors": "**Ajay Mandlekar**, Soroush Nasiriany*, Bowen Wen*, Iretiayo Akinola, Yashraj Narang, Linxi Fan, Yuke Zhu, Dieter Fox",
+            "venue": "CoRL",
+            "year": 2023,
+            "thumbnail": "assets/mimicgen/thumbnail.gif",
+            "highlighted": true,
+            "awards": [
+                {
+                    "text": "Oral at [CoRL 2023 Towards Generalist Robots Workshop](https://generalist-robots.github.io/)"
+                }
+            ],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2310.17596",
+                "website": "https://mimicgen.github.io/",
+                "code": "https://github.com/NVlabs/mimicgen"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "HITL-TAMP",
+            "title": "Human-in-the-Loop Task and Motion Planning for Imitation Learning",
+            "title_url": "https://hitltamp.github.io/",
+            "authors": "**Ajay Mandlekar***, Caelan Garrett*, Danfei Xu, Dieter Fox",
+            "venue": "CoRL",
+            "year": 2023,
+            "thumbnail": "assets/hitl_tamp/thumbnail.gif",
+            "highlighted": true,
+            "awards": [
+                {
+                    "text": "Best Paper Runner-Up and Oral at [CoRL 2023 Deployable Workshop](https://corl2023deployable.github.io/)"
+                }
+            ],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2310.16014",
+                "website": "https://hitltamp.github.io/"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "Optimus",
+            "title": "Imitating Task and Motion Planning with Visuomotor Transformers",
+            "title_url": "https://mihdalal.github.io/optimus/",
+            "authors": "Murtaza Dalal, **Ajay Mandlekar***, Caelan Garrett*, Ankur Handa, Ruslan Salakhutdinov, Dieter Fox",
+            "venue": "CoRL",
+            "year": 2023,
+            "thumbnail": "assets/optimus/thumbnail.gif",
+            "highlighted": true,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2305.16309",
+                "website": "https://mihdalal.github.io/optimus/",
+                "code": "https://github.com/NVlabs/Optimus"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "Active Task Randomization",
+            "title": "Active Task Randomization: Learning Visuomotor Skills for Sequential Manipulation by Proposing Feasible and Novel Tasks",
+            "title_url": "https://sites.google.com/view/active-task-randomization",
+            "authors": "Kuan Fang*, Toki Migimatsu*, **Ajay Mandlekar**, Li Fei-Fei, Jeannette Bohg",
+            "venue": "IROS",
+            "year": 2023,
+            "thumbnail": "assets/atr/thumbnail.gif",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2211.06134",
+                "website": "https://sites.google.com/view/active-task-randomization"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "ORBIT",
+            "title": "ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments",
+            "title_url": "https://isaac-orbit.github.io/",
+            "authors": "Mayank Mittal, Calvin Yu, Qinxi Yu, Jingzhou Liu, Nikita Rudin, David Hoeller, Jia Lin Yuan, Pooria Poorsarvi Tehrani, Ritvik Singh, Yunrong Guo, Hammad Mazhar, **Ajay Mandlekar**, Buck Babich, Gavriel State, Marco Hutter, Animesh Garg",
+            "venue": "IEEE RA-L and ICRA",
+            "year": 2023,
+            "thumbnail": "assets/orbit/thumbnail.gif",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2301.04195",
+                "website": "https://isaac-orbit.github.io/",
+                "code": "https://github.com/NVIDIA-Omniverse/orbit"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "SAILOR",
+            "title": "Learning and Retrieval from Prior Data for Skill-based Imitation Learning",
+            "title_url": "https://ut-austin-rpl.github.io/sailor/",
+            "authors": "Soroush Nasiriany, Tian Gao, **Ajay Mandlekar**, Yuke Zhu",
+            "venue": "CoRL",
+            "year": 2022,
+            "thumbnail": "assets/sailor/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2210.11435",
+                "website": "https://ut-austin-rpl.github.io/sailor/"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "MoCoDA",
+            "title": "MoCoDA: Model-based Counterfactual Data Augmentation",
+            "title_url": "https://sites.google.com/view/mocoda-neurips-22/",
+            "authors": "Silviu Pitis, Elliot Creager, **Ajay Mandlekar**, Animesh Garg",
+            "venue": "NeurIPS",
+            "year": 2022,
+            "thumbnail": "assets/mocoda/thumbnail.jpeg",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2210.11287",
+                "website": "https://sites.google.com/view/mocoda-neurips-22/",
+                "code": "https://github.com/spitis/mocoda"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "MineDojo",
+            "title": "MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge",
+            "title_url": "https://minedojo.org/",
+            "authors": "Linxi Fan, Guanzhi Wang*, Yunfan Jiang*, **Ajay Mandlekar**, Yuncong Yang, Haoyi Zhu, Andrew Tang, De-An Huang, Yuke Zhu, Anima Anandkumar",
+            "venue": "NeurIPS",
+            "year": 2022,
+            "thumbnail": "assets/minedojo/thumbnail.png",
+            "highlighted": false,
+            "awards": [
+                {
+                    "text": "Outstanding Paper Award"
+                }
+            ],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2206.08853",
+                "website": "https://minedojo.org/",
+                "code": "https://github.com/MineDojo/MineDojo",
+                "blog": "https://developer.nvidia.com/blog/building-generally-capable-ai-agents-with-minedojo/"
+            },
+            "section": "publication",
+            "venue_note": "Datasets and Benchmarks Track"
+        },
+        {
+            "id": "robomimic",
+            "title": "What Matters in Learning from Offline Human Demonstrations for Robot Manipulation",
+            "title_url": "https://arise-initiative.github.io/robomimic-web/",
+            "authors": "**Ajay Mandlekar**, Danfei Xu, Josiah Wong, Soroush Nasiriany, Chen Wang, Rohun Kulkarni, Li Fei-Fei, Silvio Savarese, Yuke Zhu, Roberto Martín-Martín",
+            "venue": "CoRL",
+            "year": 2021,
+            "thumbnail": "assets/robomimic/thumbnail.png",
+            "highlighted": true,
+            "awards": [
+                {
+                    "text": "Oral (6.5% acceptance)"
+                }
+            ],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2108.03298",
+                "website": "https://arise-initiative.github.io/robomimic-web/",
+                "video": "https://www.youtube.com/watch?v=qg_IVo4rB8k",
+                "code": "https://arise-initiative.github.io/robomimic-web/",
+                "blog": "https://ai.stanford.edu/blog/robomimic/"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "MOMART",
+            "title": "Error-Aware Imitation Learning from Teleoperation Data for Mobile Manipulation",
+            "title_url": "https://sites.google.com/view/il-for-mm/home",
+            "authors": "Josiah Wong, Albert Tung, Andrey Kurenkov, **Ajay Mandlekar**, Li Fei-Fei, Silvio Savarese, Roberto Martín-Martín",
+            "venue": "CoRL",
+            "year": 2021,
+            "thumbnail": "assets/momart/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2112.05251",
+                "website": "https://sites.google.com/view/il-for-mm/home",
+                "video": "https://youtu.be/Nlwj6FGypq8"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "S4RL",
+            "title": "S4RL: Surprisingly Simple Self-Supervision for Offline Reinforcement Learning",
+            "title_url": "https://arxiv.org/abs/2103.06326",
+            "authors": "Samarth Sinha, **Ajay Mandlekar**, Animesh Garg",
+            "venue": "CoRL",
+            "year": 2021,
+            "thumbnail": "assets/s4rl/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2103.06326"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "HAN",
+            "title": "Generalization through Hand-Eye Coordination: An Action Space for Learning Spatially-Invariant Visuomotor Control",
+            "title_url": "https://sites.google.com/stanford.edu/han",
+            "authors": "Chen Wang*, Rui Wang*, **Ajay Mandlekar**, Li Fei-Fei, Silvio Savarese, Danfei Xu",
+            "venue": "IROS",
+            "year": 2021,
+            "thumbnail": "assets/han/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2103.00375",
+                "website": "https://sites.google.com/stanford.edu/han"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "MART (Multi-Arm)",
+            "title": "Learning Multi-Arm Manipulation Through Collaborative Teleoperation",
+            "title_url": "https://roboturk.stanford.edu/multiarm",
+            "authors": "Albert Tung*, Josiah Wong*, **Ajay Mandlekar**, Roberto Martín-Martín, Yuke Zhu, Li Fei-Fei, Silvio Savarese",
+            "venue": "ICRA",
+            "year": 2021,
+            "thumbnail": "assets/mart/thumbnail.png",
+            "highlighted": true,
+            "awards": [
+                {
+                    "text": "Best Multi-Robotic Systems Paper Finalist"
+                }
+            ],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2012.06738",
+                "website": "https://roboturk.stanford.edu/multiarm",
+                "video": "https://www.youtube.com/watch?v=5odO4_bh00U"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "DAF",
+            "title": "Deep Affordance Foresight: Planning Through What Can Be Done in the Future",
+            "title_url": "https://sites.google.com/stanford.edu/daf",
+            "authors": "Danfei Xu, **Ajay Mandlekar**, Roberto Martín-Martín, Yuke Zhu, Silvio Savarese, Li Fei-Fei",
+            "venue": "ICRA",
+            "year": 2021,
+            "thumbnail": "assets/daf/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2011.08424",
+                "website": "https://sites.google.com/stanford.edu/daf",
+                "video": "https://www.youtube.com/watch?v=3VD-YoF8jHk"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "IWR",
+            "title": "Human-in-the-Loop Imitation Learning using Remote Teleoperation",
+            "title_url": "https://sites.google.com/stanford.edu/iwr",
+            "authors": "**Ajay Mandlekar**, Danfei Xu*, Roberto Martin-Martin*, Yuke Zhu, Li Fei-Fei, Silvio Savarese",
+            "venue": "Technical Report",
+            "year": 2020,
+            "thumbnail": "assets/iwr/thumbnail.png",
+            "highlighted": true,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2012.06733",
+                "website": "https://sites.google.com/stanford.edu/iwr",
+                "video": "https://www.youtube.com/watch?v=Wvh-uixQrGI"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "robosuite",
+            "title": "robosuite: A Modular Simulation Framework and Benchmark for Robot Learning",
+            "title_url": "https://robosuite.ai/",
+            "authors": "Yuke Zhu, Josiah Wong, **Ajay Mandlekar**, Roberto Martin-Martin",
+            "venue": "Technical Report",
+            "year": 2020,
+            "thumbnail": "assets/robosuite/thumbnail.png",
+            "highlighted": true,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2009.12293",
+                "website": "https://robosuite.ai/"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "GTI",
+            "title": "Learning to Generalize Across Long-Horizon Tasks from Human Demonstrations",
+            "title_url": "https://sites.google.com/view/gti2020/",
+            "authors": "**Ajay Mandlekar***, Danfei Xu*, Roberto Martín-Martín, Silvio Savarese, Li Fei-Fei",
+            "venue": "RSS",
+            "year": 2020,
+            "thumbnail": "assets/gti/thumbnail.png",
+            "highlighted": true,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2003.06085",
+                "website": "https://sites.google.com/view/gti2020/",
+                "video": "https://www.youtube.com/watch?v=hlvRmLlYHZ0"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "IRIS",
+            "title": "IRIS: Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data",
+            "title_url": "https://sites.google.com/stanford.edu/iris/",
+            "authors": "**Ajay Mandlekar**, Fabio Ramos, Byron Boots, Silvio Savarese, Li Fei-Fei, Animesh Garg, Dieter Fox",
+            "venue": "ICRA",
+            "year": 2020,
+            "thumbnail": "assets/iris/thumbnail.png",
+            "highlighted": true,
+            "awards": [],
+            "links": {
+                "arXiv": "http://arxiv.org/abs/1911.05321",
+                "website": "https://sites.google.com/stanford.edu/iris/",
+                "video": "https://www.youtube.com/watch?v=_FAuO2dgDFU"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "Teleop Maps",
+            "title": "Controlling Assistive Robots with Learned Latent Actions",
+            "title_url": "https://arxiv.org/abs/1909.09674",
+            "authors": "Dylan P. Losey, Krishnan Srinivasan, **Ajay Mandlekar**, Animesh Garg, Dorsa Sadigh",
+            "venue": "ICRA",
+            "year": 2020,
+            "thumbnail": "assets/teleop_maps/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/1909.09674",
+                "blog": "http://ai.stanford.edu/blog/assistive-latent-spaces/",
+                "video": "https://www.youtube.com/watch?v=wjnhrzugBj4"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "RoboTurk Real Dataset",
+            "title": "Scaling Robot Supervision to Hundreds of Hours with RoboTurk: Robotic Manipulation Dataset through Human Reasoning and Dexterity",
+            "title_url": "http://roboturk.stanford.edu/realrobotdataset",
+            "authors": "**Ajay Mandlekar**, Jonathan Booher, Max Spero, Albert Tung, Anchit Gupta, Yuke Zhu, Animesh Garg, Silvio Savarese, Li Fei-Fei",
+            "venue": "IROS",
+            "year": 2019,
+            "thumbnail": "assets/RoboTurk/mandlekar_iros19.png",
+            "highlighted": true,
+            "awards": [
+                {
+                    "text": "Best Cognitive Robotics Paper Finalist"
+                }
+            ],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/1911.04052",
+                "website": "http://roboturk.stanford.edu/realrobotdataset",
+                "blog": "http://ai.stanford.edu/blog/roboturk/",
+                "talk": "https://www.youtube.com/watch?v=ydiBHUqQFh0"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "AC-Teach",
+            "title": "AC-Teach: A Bayesian Actor-Critic Method for Policy Learning with an Ensemble of Suboptimal Teachers",
+            "title_url": "https://sites.google.com/view/acteach/",
+            "authors": "Andrey Kurenkov*, **Ajay Mandlekar***, Roberto Martín-Martín, Silvio Savarese, Animesh Garg",
+            "venue": "CoRL",
+            "year": 2019,
+            "thumbnail": "assets/AC-Teach/fig.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/1909.04121",
+                "website": "https://sites.google.com/view/acteach/",
+                "blog": "http://ai.stanford.edu/blog/acteach/"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "RoboTurk",
+            "title": "RoboTurk: A Crowdsourcing Platform for Robotic Skill Learning through Imitation",
+            "title_url": "http://roboturk.stanford.edu/",
+            "authors": "**Ajay Mandlekar**, Yuke Zhu, Animesh Garg, Jonathan Booher, Max Spero, Albert Tung, Julian Gao, John Emmons, Anchit Gupta, Emre Orbay, Silvio Savarese, Li Fei-Fei",
+            "venue": "CoRL",
+            "year": 2018,
+            "thumbnail": "assets/RoboTurk/demos.png",
+            "highlighted": true,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/1811.02790",
+                "website": "http://roboturk.stanford.edu/",
+                "talk": "https://www.youtube.com/watch?v=ohXTrj2m2bc"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "ARPL",
+            "title": "Adversarially Robust Policy Learning: Active Construction of Physically-Plausible Perturbations",
+            "title_url": "http://stanfordvl.github.io/ARPL/",
+            "authors": "**Ajay Mandlekar***, Yuke Zhu*, Animesh Garg*, Li Fei-Fei, Silvio Savarese",
+            "venue": "IROS",
+            "year": 2017,
+            "thumbnail": "assets/ARPL/robust.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "pdf": "http://stanfordvl.github.io/ARPL/arpl_mzg_iros17.pdf",
+                "website": "http://stanfordvl.github.io/ARPL/",
+                "video": "https://www.youtube.com/watch?v=yZ-gSsbbzh0"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "RSIRL",
+            "title": "Risk-sensitive Inverse Reinforcement Learning via Coherent Risk Models",
+            "title_url": "http://rss2017.lids.mit.edu/static/papers/62.pdf",
+            "authors": "Anirudha Majumdar, Sumeet Singh, **Ajay Mandlekar**, Marco Pavone",
+            "venue": "RSS",
+            "year": 2017,
+            "thumbnail": "assets/RSIRL/fig.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "pdf": "http://rss2017.lids.mit.edu/static/papers/62.pdf"
+            },
+            "section": "publication"
+        }
+    ]
+}
