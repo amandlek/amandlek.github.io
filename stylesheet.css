@@ -137,6 +137,10 @@ span.highlight {
   background-color: #ffffd0;
 }
 
+.spaced-bullets li + li {
+  margin-top: 8px;
+}
+
 .colored-box {
     color: black;
     padding: 15px 10px;

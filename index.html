@@ -34,7 +34,7 @@
                 <p>
                   I lead simulation-based research on the GEAR team, with a focus on making simulation a scalable method for training humanoid foundation models. Our research themes include:
                 </p>
-                <ul style="margin-top:0; margin-bottom:8px;">
+                <ul class="spaced-bullets" style="margin-top:0; margin-bottom:8px;">
                   <li>Synthetic data generation for robot learning</li>
                   <li>Real-to-sim and sim-to-real transfer</li>
                   <li>Extending simulation to new domains (e.g. deformable manipulation, loco-manipulation)</li>
@@ -62,10 +62,10 @@
             <tr>
               <td style="padding:16px;width:100%;vertical-align:middle">
 <h2>Recent News</h2>
-<ul>
-                  <li><strong>[February 2026]</strong> We released <a href="https://pointbridge3d.github.io/">PointBridge</a>, a new 3D representation for seamless sim-to-real transfer. Try the <a href="https://github.com/NVlabs/pointbridge">code</a> today!</li>
-                  <li><strong>[December 2025]</strong> <a href="https://ot-sim2real.github.io/">Generalizable Domain Adaptation for Sim-and-Real Policy Co-Training</a> presented at NeurIPS 2025.
-                  <li><strong>[July 2025]</strong> Check out <a href="https://robo-mimiclabs.github.io/">MimicLabs</a>, a careful study in collecting and using large-scale manipulation datasets, conducted through the power of simulation and synthetic data generation. We release the <a href="https://github.com/Gatech-RL2/mimiclabs">full framework</a>, consisting of data generation code, simulation environments, and datasets.</li>
+<ul class="spaced-bullets">
+                  <li><strong>[June 2026]</strong> Gave a talk on &ldquo;<a href="https://awesomedigitaltwin.github.io/2026_ICRA.html">Removing the Barriers to Simulation Adoption with Automated Environment Construction and Synthetic Data Generation</a>&rdquo; at the ICRA 2026 Generative Digital Twins workshop.</li>
+                  <li><strong>[June 2026]</strong> <a href="https://humanoidmimicgen.github.io/">HumanoidMimicGen</a> was a Best Paper Finalist at the <a href="https://sites.google.com/view/icra-2026-sdrl-workshop/home">ICRA 2026 Workshop on Synthetic Data for Robot Learning</a>, and <a href="https://reinforcegen.github.io/">ReinforceGen</a> was selected for an oral presentation at the <a href="https://rl4il-icra.github.io/#home">ICRA 2026 Workshop on Reinforcement Learning in the Era of Imitation Learning</a>.</li>
+                  <li><strong>[May 2026]</strong> Check out <a href="https://humanoidmimicgen.github.io/">HumanoidMimicGen</a> and <a href="https://softmimicgen.github.io/">SoftMimicGen</a>, new works on scalable synthetic data generation for humanoid loco-manipulation and deformable-object manipulation.</li>
 </ul>
               </td>
             </tr>
@@ -84,6 +84,80 @@
           </tbody></table>
           <table style="width:100%;border:0px;border-spacing:0px 10px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
           <!-- BEGIN_PAPERS -->
+
+          <!-- ===== Preprints ===== -->
+
+
+          <!-- humanoidmimicgen -->
+          <tr bgcolor="#ffffd0">
+            <td style="padding:16px;width:20%;vertical-align:middle">
+              <div class="one">
+                <img src='assets/humanoidmimicgen/thumbnail.png' width=100%>
+              </div>
+            </td>
+            <td style="padding:8px;width:80%;vertical-align:middle">
+              <a href="https://humanoidmimicgen.github.io/">
+                <span class="papertitle">HumanoidMimicGen: Data Generation for Loco-Manipulation via Whole-Body Planning and Adaptation</span>
+              </a>
+              <br>
+              Kevin Lin*, <strong>Ajay Mandlekar*</strong>, Caelan Reed Garrett*, Nikita Chernyadev, Yu Fang, Runyu Ding, Yuqi Xie, Justin Tran, Linxi Fan<sup>&dagger;</sup>, Yuke Zhu<sup>&dagger;</sup>
+              <br>
+              <em>Under Review</em>
+              <br>
+              <p style="color:red; margin:0;">Best Paper Finalist at <a href="https://sites.google.com/view/icra-2026-sdrl-workshop/home">ICRA 2026 Workshop on Synthetic Data for Robot Learning</a></p>
+              [<a href="https://arxiv.org/abs/2605.27724">arXiv</a>]
+              [<a href="https://humanoidmimicgen.github.io/">website</a>]
+              [<a href="https://openreview.net/forum?id=ekzk7TSLKr">OpenReview</a>]
+              <p></p>
+            </td>
+          </tr>
+
+          <!-- ===== Publications ===== -->
+
+
+          <!-- reinforcegen -->
+          <tr>
+            <td style="padding:16px;width:20%;vertical-align:middle">
+              <div class="one">
+                <img src='assets/reinforcegen/thumbnail.png' width=100%>
+              </div>
+            </td>
+            <td style="padding:8px;width:80%;vertical-align:middle">
+              <span class="papertitle">ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning</span>
+              <br>
+              Zihan Zhou, Animesh Garg, <strong>Ajay Mandlekar<sup>&dagger;</sup></strong>, Caelan Garrett<sup>&dagger;</sup>
+              <br>
+              <em>ICRA Workshop on Reinforcement Learning in the Era of Imitation Learning</em> 2026
+              <br>
+              <p style="color:red; margin:0;">Oral at <a href="https://rl4il-icra.github.io/#home">ICRA 2026 Workshop on Reinforcement Learning in the Era of Imitation Learning</a></p>
+              [<a href="https://arxiv.org/abs/2512.16861">arXiv</a>]
+              [<a href="https://reinforcegen.github.io/">website</a>]
+              [<a href="https://rl4il-icra.github.io/#home">workshop</a>]
+              <p></p>
+            </td>
+          </tr>
+
+          <!-- softmimicgen -->
+          <tr bgcolor="#ffffd0">
+            <td style="padding:16px;width:20%;vertical-align:middle">
+              <div class="one">
+                <img src='assets/softmimicgen/thumbnail.png' width=100%>
+              </div>
+            </td>
+            <td style="padding:8px;width:80%;vertical-align:middle">
+              <a href="https://softmimicgen.github.io/">
+                <span class="papertitle">SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation</span>
+              </a>
+              <br>
+              Masoud Moghani, Mahdi Azizian, Animesh Garg, Yuke Zhu, Sean Huver*, <strong>Ajay Mandlekar*</strong>
+              <br>
+              <em>ICRA</em> 2026
+              <br>
+              [<a href="https://arxiv.org/abs/2603.25725">arXiv</a>]
+              [<a href="https://softmimicgen.github.io/">website</a>]
+              <p></p>
+            </td>
+          </tr>
 
           <!-- ===== Preprints ===== -->
 
@@ -109,25 +183,8 @@
             </td>
           </tr>
 
-          <!-- reinforcegen -->
-          <tr>
-            <td style="padding:16px;width:20%;vertical-align:middle">
-              <div class="one">
-                <img src='assets/reinforcegen/thumbnail.png' width=100%>
-              </div>
-            </td>
-            <td style="padding:8px;width:80%;vertical-align:middle">
-              <span class="papertitle">ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning</span>
-              <br>
-              Zihan Zhou, Animesh Garg, <strong>Ajay Mandlekar<sup>&dagger;</sup></strong>, Caelan Garrett<sup>&dagger;</sup>
-              <br>
-              <em>Under Review</em>
-              <br>
-              [<a href="https://arxiv.org/abs/2512.16861">arXiv</a>]
-              [<a href="https://reinforcegen.github.io/">website</a>]
-              <p></p>
-            </td>
-          </tr>
+          <!-- ===== Publications ===== -->
+
 
           <!-- DexMachina -->
           <tr bgcolor="#ffffd0">
@@ -137,23 +194,20 @@
               </div>
             </td>
             <td style="padding:8px;width:80%;vertical-align:middle">
-              <a href="https://mandizhao.github.io/dexmachina/">
+              <a href="https://project-dexmachina.github.io/">
                 <span class="papertitle">DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation</span>
               </a>
               <br>
               Mandi Zhao, Yifan Hou, Dieter Fox, Yashraj Narang, <strong>Ajay Mandlekar<sup>&dagger;</sup></strong>, Shuran Song<sup>&dagger;</sup>
               <br>
-              <em>Under Review</em>
+              <em>ICML</em> 2026
               <br>
               [<a href="https://arxiv.org/abs/2505.24853">arXiv</a>]
-              [<a href="https://mandizhao.github.io/dexmachina/">website</a>]
+              [<a href="https://project-dexmachina.github.io/">website</a>]
               [<a href="https://github.com/MandiZhao/dexmachina">code</a>]
               <p></p>
             </td>
           </tr>
-
-          <!-- ===== Publications ===== -->
-
 
           <!-- grasp-mpc -->
           <tr>
@@ -1208,6 +1262,9 @@
                 </div>
               </td>
               <td style="padding:8px;width:80%;vertical-align:middle">
+                &ldquo;<a href="https://awesomedigitaltwin.github.io/2026_ICRA.html">Removing the Barriers to Simulation Adoption with Automated Environment Construction and Synthetic Data Generation</a>&rdquo;
+                &nbsp;&mdash;&nbsp; <a href="https://awesomedigitaltwin.github.io/2026_ICRA.html">ICRA 2026 Generative Digital Twins Workshop</a>, June 2026
+                <br>
                 &ldquo;<a href="https://youtu.be/L_45qnUVhEM?si=Sz93LPF-dRbGNwKL&t=3982">Scaling Synthetic Data Generation for Robotics with Point-Based Representations</a>&rdquo;
                 &nbsp;&mdash;&nbsp; <a href="https://corl25-genpriors.github.io/">CoRL 2025 GenPriors Workshop</a>, September 2025
                 <br>

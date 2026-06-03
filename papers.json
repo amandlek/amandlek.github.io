@@ -4,6 +4,64 @@
     },
     "papers": [
         {
+            "id": "humanoidmimicgen",
+            "title": "HumanoidMimicGen: Data Generation for Loco-Manipulation via Whole-Body Planning and Adaptation",
+            "title_url": "https://humanoidmimicgen.github.io/",
+            "authors": "Kevin Lin*, Ajay Mandlekar*, Caelan Reed Garrett*, Nikita Chernyadev, Yu Fang, Runyu Ding, Yuqi Xie, Justin Tran, Linxi Fan†, Yuke Zhu†",
+            "venue": "Under Review",
+            "year": null,
+            "thumbnail": "assets/humanoidmimicgen/thumbnail.png",
+            "highlighted": true,
+            "awards": [
+                {
+                    "text": "Best Paper Finalist at [ICRA 2026 Workshop on Synthetic Data for Robot Learning](https://sites.google.com/view/icra-2026-sdrl-workshop/home)"
+                }
+            ],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2605.27724",
+                "website": "https://humanoidmimicgen.github.io/",
+                "OpenReview": "https://openreview.net/forum?id=ekzk7TSLKr"
+            },
+            "section": "preprint"
+        },
+        {
+            "id": "reinforcegen",
+            "title": "ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning",
+            "title_url": "",
+            "authors": "Zihan Zhou, Animesh Garg, Ajay Mandlekar†, Caelan Garrett†",
+            "venue": "ICRA Workshop on Reinforcement Learning in the Era of Imitation Learning",
+            "year": 2026,
+            "thumbnail": "assets/reinforcegen/thumbnail.png",
+            "highlighted": false,
+            "awards": [
+                {
+                    "text": "Oral at [ICRA 2026 Workshop on Reinforcement Learning in the Era of Imitation Learning](https://rl4il-icra.github.io/#home)"
+                }
+            ],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2512.16861",
+                "website": "https://reinforcegen.github.io/",
+                "workshop": "https://rl4il-icra.github.io/#home"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "softmimicgen",
+            "title": "SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation",
+            "title_url": "https://softmimicgen.github.io/",
+            "authors": "Masoud Moghani, Mahdi Azizian, Animesh Garg, Yuke Zhu, Sean Huver*, Ajay Mandlekar*",
+            "venue": "ICRA",
+            "year": 2026,
+            "thumbnail": "assets/softmimicgen/thumbnail.png",
+            "highlighted": true,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2603.25725",
+                "website": "https://softmimicgen.github.io/"
+            },
+            "section": "publication"
+        },
+        {
             "id": "point-bridge",
             "title": "Point Bridge: 3D Representations for Cross Domain Policy Learning",
             "title_url": "",
@@ -21,37 +79,21 @@
             "section": "preprint"
         },
         {
-            "id": "reinforcegen",
-            "title": "ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning",
-            "title_url": "",
-            "authors": "Zihan Zhou, Animesh Garg, Ajay Mandlekar†, Caelan Garrett†",
-            "venue": "Under Review",
-            "year": null,
-            "thumbnail": "assets/reinforcegen/thumbnail.png",
-            "highlighted": false,
-            "awards": [],
-            "links": {
-                "arXiv": "https://arxiv.org/abs/2512.16861",
-                "website": "https://reinforcegen.github.io/"
-            },
-            "section": "preprint"
-        },
-        {
             "id": "DexMachina",
             "title": "DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation",
-            "title_url": "https://mandizhao.github.io/dexmachina/",
-            "authors": "Mandi Zhao, Yifan Hou, Dieter Fox, Yashraj Narang, **Ajay Mandlekar†**, Shuran Song†",
-            "venue": "Under Review",
-            "year": null,
+            "title_url": "https://project-dexmachina.github.io/",
+            "authors": "Mandi Zhao, Yifan Hou, Dieter Fox, Yashraj Narang, Ajay Mandlekar†, Shuran Song†",
+            "venue": "ICML",
+            "year": 2026,
             "thumbnail": "assets/dexmachina/thumbnail.png",
             "highlighted": true,
             "awards": [],
             "links": {
                 "arXiv": "https://arxiv.org/abs/2505.24853",
-                "website": "https://mandizhao.github.io/dexmachina/",
+                "website": "https://project-dexmachina.github.io/",
                 "code": "https://github.com/MandiZhao/dexmachina"
             },
-            "section": "preprint"
+            "section": "publication"
         },
         {
             "id": "grasp-mpc",
