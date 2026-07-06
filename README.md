@@ -15,6 +15,7 @@ The publications section of the website is generated from `papers.json` using Py
 | `add_paper.py` | CLI tool for adding new papers (supports arXiv auto-fetch). |
 | `sync_scholar.py` | Compares Google Scholar profile against `papers.json` to find missing papers. |
 | `gen_resume.py` | Generates a formatted list of highlighted publications for your resume (RTF/plain text). |
+| `gen_resume_pdf.py` | Generates the complete resume PDF and can refresh the website CV asset. |
 | `assets/` | Images, thumbnails, PDFs, and other static files. |
 | `deprecated/` | Old jemdoc-based website files (kept for reference). |
 
@@ -110,6 +111,15 @@ python gen_resume.py --all        # Generate both .rtf and .txt
 ```
 
 Only papers with `"highlighted": true` in `papers.json` are included. To change which papers appear in the resume, toggle the `highlighted` field and re-run the script.
+
+**Generate the complete PDF and refresh the website CV:**
+```bash
+python -m pip install reportlab  # one-time setup
+python gen_resume_pdf.py --website
+```
+
+This writes an inspectable PDF to `output/pdf/Resume.pdf` and copies the same
+file to `assets/resume/Resume.pdf`, which is the CV linked from the website.
 
 ### Editing Non-Paper Sections
 

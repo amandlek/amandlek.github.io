@@ -4,6 +4,38 @@
     },
     "papers": [
         {
+            "id": "simfoundry",
+            "title": "SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation",
+            "title_url": "https://research.nvidia.com/labs/gear/simfoundry/",
+            "authors": "Nadun Ranawaka*, Josiah Wong*, Wei-Lin Pai, Wei-Teng Chu, Tianyuan Dai, Masoud Moghani, Hang Yin, Yunfan Jiang, Wesley Durbano*, Brandon Huynh*, Yu Fang, Linxi Fan, Danfei Xu, Ruohan Zhang, Li Fei-Fei, Bowen Wen, Ajay Mandlekar†, Yuke Zhu†",
+            "venue": "Under Review",
+            "year": null,
+            "thumbnail": "assets/simfoundry/thumbnail.png",
+            "highlighted": true,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2606.28276",
+                "website": "https://research.nvidia.com/labs/gear/simfoundry/"
+            },
+            "section": "preprint"
+        },
+        {
+            "id": "aspire",
+            "title": "ASPIRE: Agentic /Skills Discovery for Robotics",
+            "title_url": "https://research.nvidia.com/labs/gear/aspire/",
+            "authors": "Runyu Lu*, Yubo Wu*, Ethan Kou*, Letian Fu, Wenli Xiao, Ajay Mandlekar, Yinzhen Xu, Guanya Shi, Ken Goldberg, Ang Chen, Mosharaf Chowdhury, Yuke Zhu, Linxi \"Jim\" Fan, Guanzhi Wang",
+            "venue": "Under Review",
+            "year": null,
+            "thumbnail": "assets/aspire/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2607.00272",
+                "website": "https://research.nvidia.com/labs/gear/aspire/"
+            },
+            "section": "preprint"
+        },
+        {
             "id": "humanoidmimicgen",
             "title": "HumanoidMimicGen: Data Generation for Loco-Manipulation via Whole-Body Planning and Adaptation",
             "title_url": "https://humanoidmimicgen.github.io/",
@@ -21,6 +53,22 @@
                 "arXiv": "https://arxiv.org/abs/2605.27724",
                 "website": "https://humanoidmimicgen.github.io/",
                 "OpenReview": "https://openreview.net/forum?id=ekzk7TSLKr"
+            },
+            "section": "preprint"
+        },
+        {
+            "id": "human2any",
+            "title": "Human2Any: Human-to-Robot Transfer via Constraint-Aware Compositional Planning",
+            "title_url": "https://human2any.github.io/",
+            "authors": "Shuo Cheng, Chuye Zhang, Alfred Cueva, Caelan Garrett, Ajay Mandlekar, Danfei Xu",
+            "venue": "Under Review",
+            "year": null,
+            "thumbnail": "assets/human2any/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2606.28813",
+                "website": "https://human2any.github.io/"
             },
             "section": "preprint"
         },
@@ -58,6 +106,24 @@
             "links": {
                 "arXiv": "https://arxiv.org/abs/2603.25725",
                 "website": "https://softmimicgen.github.io/"
+            },
+            "section": "publication"
+        },
+        {
+            "id": "cobalt",
+            "title": "COBALT: Crowdsourcing Robot Learning via Cloud-Based Teleoperation with Smartphones",
+            "title_url": "https://cobalt-teleop.github.io/",
+            "authors": "Ayush Agarwal*, Ansh Gandhi*, Jeremy A. Collins, Omar Rayyan, Aryan Sarswat, Ranjani Koushik, Masoud Moghani, Ajay Mandlekar, Animesh Garg",
+            "venue": "ICRA",
+            "year": 2026,
+            "thumbnail": "assets/cobalt/thumbnail.png",
+            "highlighted": false,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2605.19138",
+                "website": "https://cobalt-teleop.github.io/",
+                "video": "https://www.youtube.com/watch?v=7oLiqef0Oss",
+                "code": "https://github.com/pairlab/COBALT"
             },
             "section": "publication"
         },
