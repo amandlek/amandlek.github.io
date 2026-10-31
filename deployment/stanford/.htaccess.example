@@ -1,0 +1,5 @@
+# Optional Apache permanent redirect for the old homepage only.
+# Merge into the old site's .htaccess only if Stanford permits mod_alias
+# directives there. Retain any existing access rules and other configuration.
+# Existing PDFs, images, and other deep links remain served from Stanford.
+RedirectMatch 301 "^/~amandlek(/index\.html|/)?$" "https://amandlek.github.io/"

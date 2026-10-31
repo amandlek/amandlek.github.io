@@ -192,13 +192,25 @@ and [renaming a repository](https://docs.github.com/en/repositories/creating-and
 
 ### Stanford hosting and optional redirect
 
-After the GitHub Pages site is live and verified, the Stanford homepage can
-optionally be replaced with a redirect to `https://amandlek.github.io/`.
-This requires access to the Stanford web directory below. Existing deep links
-to Stanford-hosted PDFs and other assets will still need those files, so keep
-them available unless you also arrange redirects for their individual URLs.
+The ready-to-upload redirect is in [`deployment/stanford/`](deployment/stanford/).
+Its [deployment instructions](deployment/stanford/README.md) back up the old
+homepage and replace only `index.html`, retaining Stanford-hosted PDFs and
+other assets. Stanford authentication and deployment must be performed manually.
 
-The following commands describe the existing Stanford deployment process.
+The new homepage declares `https://amandlek.github.io/` as its canonical URL.
+`robots.txt` advertises the homepage sitemap at
+`https://amandlek.github.io/sitemap.xml`. To help people find the new address,
+update Google Scholar, GitHub, LinkedIn/X, your CV, email signature, and lab or
+institutional profiles. Add the new URL-prefix property to Google Search Console,
+submit the sitemap, and request indexing of the homepage. Google's Change of
+Address tool does not support an old site at a path such as `/~amandlek/`.
+
+See Google's guidance on
+[redirects](https://developers.google.com/search/docs/crawling-indexing/301-redirects)
+and [Change of Address eligibility](https://support.google.com/webmasters/answer/9370220).
+
+The following commands describe the previous Stanford deployment process;
+use the redirect instructions above for the migration.
 
 Note: to update the website at `https://ai.stanford.edu/~amandlek/` (especially post-graduation), run the following in the home directory to manually transfer all files
 

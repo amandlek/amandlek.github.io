@@ -4,18 +4,18 @@
     },
     "papers": [
         {
-            "id": "simfoundry",
-            "title": "SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation",
-            "title_url": "https://research.nvidia.com/labs/gear/simfoundry/",
-            "authors": "Nadun Ranawaka*, Josiah Wong*, Wei-Lin Pai, Wei-Teng Chu, Tianyuan Dai, Masoud Moghani, Hang Yin, Yunfan Jiang, Wesley Durbano*, Brandon Huynh*, Yu Fang, Linxi Fan, Danfei Xu, Ruohan Zhang, Li Fei-Fei, Bowen Wen, Ajay Mandlekar†, Yuke Zhu†",
+            "id": "schedulegen",
+            "title": "ScheduleGen: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning",
+            "title_url": "https://njawale42.github.io/ScheduleGen/",
+            "authors": "Neel Jawale, Stephan Pleines, Soha Pouya, Yuke Zhu, Ajay Mandlekar†, Caelan Garrett†",
             "venue": "Under Review",
             "year": null,
-            "thumbnail": "assets/simfoundry/thumbnail.png",
+            "thumbnail": "assets/schedulegen/thumbnail.jpg",
             "highlighted": true,
             "awards": [],
             "links": {
-                "arXiv": "https://arxiv.org/abs/2606.28276",
-                "website": "https://research.nvidia.com/labs/gear/simfoundry/"
+                "arXiv": "https://arxiv.org/abs/2610.39429",
+                "website": "https://njawale42.github.io/ScheduleGen/"
             },
             "section": "preprint"
         },
@@ -36,12 +36,28 @@
             "section": "preprint"
         },
         {
+            "id": "simfoundry",
+            "title": "SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation",
+            "title_url": "https://research.nvidia.com/labs/gear/simfoundry/",
+            "authors": "Nadun Ranawaka*, Josiah Wong*, Wei-Lin Pai, Wei-Teng Chu, Tianyuan Dai, Masoud Moghani, Hang Yin, Yunfan Jiang, Wesley Durbano*, Brandon Huynh*, Yu Fang, Linxi Fan, Danfei Xu, Ruohan Zhang, Li Fei-Fei, Bowen Wen, Ajay Mandlekar†, Yuke Zhu†",
+            "venue": "CoRL",
+            "year": 2026,
+            "thumbnail": "assets/simfoundry/thumbnail.png",
+            "highlighted": true,
+            "awards": [],
+            "links": {
+                "arXiv": "https://arxiv.org/abs/2606.28276",
+                "website": "https://research.nvidia.com/labs/gear/simfoundry/"
+            },
+            "section": "publication"
+        },
+        {
             "id": "humanoidmimicgen",
             "title": "HumanoidMimicGen: Data Generation for Loco-Manipulation via Whole-Body Planning and Adaptation",
             "title_url": "https://humanoidmimicgen.github.io/",
             "authors": "Kevin Lin*, Ajay Mandlekar*, Caelan Reed Garrett*, Nikita Chernyadev, Yu Fang, Runyu Ding, Yuqi Xie, Justin Tran, Linxi Fan†, Yuke Zhu†",
-            "venue": "Under Review",
-            "year": null,
+            "venue": "CoRL",
+            "year": 2026,
             "thumbnail": "assets/humanoidmimicgen/thumbnail.png",
             "highlighted": true,
             "awards": [
@@ -54,15 +70,15 @@
                 "website": "https://humanoidmimicgen.github.io/",
                 "OpenReview": "https://openreview.net/forum?id=ekzk7TSLKr"
             },
-            "section": "preprint"
+            "section": "publication"
         },
         {
             "id": "human2any",
             "title": "Human2Any: Human-to-Robot Transfer via Constraint-Aware Compositional Planning",
             "title_url": "https://human2any.github.io/",
             "authors": "Shuo Cheng, Chuye Zhang, Alfred Cueva, Caelan Garrett, Ajay Mandlekar, Danfei Xu",
-            "venue": "Under Review",
-            "year": null,
+            "venue": "CoRL",
+            "year": 2026,
             "thumbnail": "assets/human2any/thumbnail.png",
             "highlighted": false,
             "awards": [],
@@ -70,7 +86,7 @@
                 "arXiv": "https://arxiv.org/abs/2606.28813",
                 "website": "https://human2any.github.io/"
             },
-            "section": "preprint"
+            "section": "publication"
         },
         {
             "id": "reinforcegen",
@@ -132,8 +148,8 @@
             "title": "Point Bridge: 3D Representations for Cross Domain Policy Learning",
             "title_url": "",
             "authors": "Siddhant Haldar, Lars Johannsmeier, Lerrel Pinto, Abhishek Gupta, Dieter Fox, Yashraj Narang, Ajay Mandlekar",
-            "venue": "Under Review",
-            "year": null,
+            "venue": "Technical Report",
+            "year": 2026,
             "thumbnail": "assets/point-bridge/thumbnail.png",
             "highlighted": true,
             "awards": [],
@@ -142,7 +158,7 @@
                 "website": "https://pointbridge3d.github.io/",
                 "code": "https://github.com/NVlabs/pointbridge"
             },
-            "section": "preprint"
+            "section": "publication"
         },
         {
             "id": "DexMachina",
