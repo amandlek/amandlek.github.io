@@ -129,6 +129,77 @@ Bio, Recent News, PhD Thesis, and Miscellaneous sections are edited directly in 
 
 ## Deploying the website
 
+### GitHub Pages setup
+
+The site can be served directly as static files; no server or GitHub Actions
+build workflow is required. The root `.nojekyll` file disables Jekyll processing.
+Run `python build.py` locally whenever `papers.json` changes, and commit the
+generated `index.html` along with the paper data.
+
+To publish at **https://amandlek.github.io/**, the repository must be named
+**`amandlek.github.io`** and owned by **`amandlek`**. The simplest migration is
+to rename the existing repository, preserving its Git history:
+
+1. Sign in to GitHub as an account with admin access to
+   [amandlek/personal_website](https://github.com/amandlek/personal_website).
+   In **Settings > General > Repository name**, rename it to
+   `amandlek.github.io`. First check whether that repository already exists;
+   an account can have only one user Pages site.
+2. If local Git commands report that the Xcode license has not been accepted,
+   run `sudo xcodebuild -license` in Terminal, review the license, and accept
+   it to restore Git access.
+3. In this local checkout, review `git status` and `git diff`, then run:
+
+   ```bash
+   python build.py --check
+   git remote set-url origin git@github.com:amandlek/amandlek.github.io.git
+   git add .nojekyll README.md
+   git commit -m "Prepare website for GitHub Pages"
+   git push origin master
+   ```
+
+   Also review and commit any other intended website updates before publishing;
+   only committed and pushed files will appear on the live site. The push uses
+   the existing GitHub SSH authentication for this checkout.
+4. In the renamed repository's **Settings > Pages**, select:
+   - **Source:** Deploy from a branch
+   - **Branch:** `master`
+   - **Folder:** `/(root)`
+
+   Click **Save**. GitHub Free supports Pages from public repositories; private
+   repositories require a plan that supports private-repository Pages.
+5. Check the deployment in the repository's **Actions** tab. Once it succeeds,
+   open https://amandlek.github.io/ and verify the profile photo, publication
+   thumbnails, and [CV](https://amandlek.github.io/assets/resume/Resume.pdf).
+   Publishing can take up to ten minutes. Enable **Enforce HTTPS** in Pages
+   settings if it is not already enabled. No custom domain or DNS setup is
+   needed for the `github.io` address.
+
+After setup, normal updates are: edit the site, run `python build.py` when paper
+data changes, commit the intended files, and push to `master`. GitHub Pages
+publishes the pushed files automatically.
+
+If you want to keep the repository name `personal_website`, enable Pages from
+`master` and `/(root)` in that repository instead. Its default address will be
+**https://amandlek.github.io/personal_website/**. To keep that repository name
+while using the root `https://amandlek.github.io/` address, create a separate
+`amandlek.github.io` repository and keep its published files synchronized.
+
+GitHub documentation:
+[Pages quickstart](https://docs.github.com/en/pages/quickstart),
+[publishing sources](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site),
+and [renaming a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/renaming-a-repository).
+
+### Stanford hosting and optional redirect
+
+After the GitHub Pages site is live and verified, the Stanford homepage can
+optionally be replaced with a redirect to `https://amandlek.github.io/`.
+This requires access to the Stanford web directory below. Existing deep links
+to Stanford-hosted PDFs and other assets will still need those files, so keep
+them available unless you also arrange redirects for their individual URLs.
+
+The following commands describe the existing Stanford deployment process.
+
 Note: to update the website at `https://ai.stanford.edu/~amandlek/` (especially post-graduation), run the following in the home directory to manually transfer all files
 
 ```
