@@ -120,6 +120,11 @@ python gen_resume_pdf.py --website
 
 This writes an inspectable PDF to `output/pdf/Resume.pdf` and copies the same
 file to `assets/resume/Resume.pdf`, which is the CV linked from the website.
+Publication titles, authors, venues, years, and links are refreshed automatically
+from the entries marked `highlighted` in `papers.json`. The website URL, bio,
+talks, NVIDIA impact, service, and education are maintained in `gen_resume_pdf.py`;
+editing `index.html` alone does not update those CV sections. Commit the generator
+and `assets/resume/Resume.pdf` and push to `master` to publish CV changes.
 
 ### Editing Non-Paper Sections
 
@@ -189,6 +194,68 @@ GitHub documentation:
 [Pages quickstart](https://docs.github.com/en/pages/quickstart),
 [publishing sources](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site),
 and [renaming a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/renaming-a-repository).
+
+### Google Search Console (optional)
+
+Search Console is not required for Google to discover or list this website. It is
+a free tool for seeing indexing status and requesting a crawl. It does not host
+the site, redirect Stanford traffic, or guarantee a search ranking. For this small
+personal site, verifying the new homepage and requesting indexing once is enough;
+sitemap submission is an optional extra.
+[Google's explanation](https://support.google.com/webmasters/answer/9128668).
+
+To set it up:
+
+1. Open [Google Search Console](https://search.google.com/search-console/) and
+   sign in with the Google account you want to use to manage the site.
+2. If you already have properties, open the property dropdown at the upper left
+   and choose **Add property**. Otherwise use the initial setup screen.
+3. Choose **URL prefix**, enter **`https://amandlek.github.io/`** exactly, and click
+   **Continue**. This method works with GitHub Pages without DNS access.
+4. Under **HTML file**, download Google's verification file. Keep its original
+   filename and content. Place it in the repository root, next to `index.html`,
+   not inside `assets/`.
+5. Publish that file. Replace `googleYOURCODE.html` below with the filename Google
+   actually gave you:
+
+   ```bash
+   cd /Users/amandlekar/Desktop/installed_libraries/amandlek.github.io
+   git add -- googleYOURCODE.html
+   git commit -m "Verify Google Search Console ownership"
+   git push origin master
+   ```
+
+6. Wait for the GitHub Pages deployment, then open the exact verification URL
+   Google shows, such as `https://amandlek.github.io/googleYOURCODE.html`, in an
+   incognito window. It must display the verification text without a login or a
+   404. Return to Search Console and click **Verify**, then **Go to property**.
+   Keep the verification file in the repository after verification.
+7. Paste **`https://amandlek.github.io/`** into the inspection bar at the top of
+   Search Console and press Enter. If the result says **URL is on Google**, the
+   homepage is already indexed. Otherwise click **Test live URL**; if the live
+   test succeeds and the page is indexable, click **Request indexing** once.
+8. Optionally, open **Sitemaps** in the left sidebar. Under **Add a new sitemap**,
+   submit **`https://amandlek.github.io/sitemap.xml`**. If the input already shows
+   `https://amandlek.github.io/` as a fixed prefix, enter just `sitemap.xml`.
+   A **Success** status means Google could read the sitemap.
+
+Check again after several days. Crawling can take days to weeks; an indexing
+request does not guarantee inclusion or a particular ranking, and repeatedly
+requesting the same URL will not accelerate crawling. The sitemap is already
+public and referenced in `robots.txt`, so Google can discover it without manual
+submission.
+
+For the old Stanford site, keep the redirect deployment separate. Google's
+**Change of Address** tool cannot migrate a property at a path such as
+`https://ai.stanford.edu/~amandlek/`; it supports domain-level properties. You do
+not need to verify the Stanford site to set up Search Console for the new one.
+
+Google's instructions:
+[properties](https://support.google.com/webmasters/answer/34592),
+[HTML-file verification](https://support.google.com/webmasters/answer/9008080),
+[requesting a crawl](https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl),
+[sitemaps](https://support.google.com/webmasters/answer/7451001), and
+[Change of Address eligibility](https://support.google.com/webmasters/answer/9370220).
 
 ### Stanford hosting and optional redirect
 

@@ -2,7 +2,7 @@
 %ìåãû ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/F1 2 0 R /F2+0 83 0 R /F3+0 87 0 R /F4+0 91 0 R
+/F1 2 0 R /F2+0 90 0 R /F3+0 94 0 R /F4+0 98 0 R
 >>
 endobj
 2 0 obj
@@ -20,162 +20,162 @@ endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (http://ai.stanford.edu/~amandlek/)
->> /Border [ 0 0 0 ] /Rect [ 261.8793 705.34 388.3759 716.74 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://amandlek.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 273.9375 705.34 376.3176 716.74 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2606.28276)
->> /Border [ 0 0 0 ] /Rect [ 69.84 473.79 97.79728 485.19 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2610.39429)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 495.19 97.79728 506.59 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://research.nvidia.com/labs/gear/simfoundry/)
->> /Border [ 0 0 0 ] /Rect [ 100.1723 473.79 135.519 485.19 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://njawale42.github.io/ScheduleGen/)
+>> /Border [ 0 0 0 ] /Rect [ 100.1723 495.19 135.519 506.59 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2605.27724)
->> /Border [ 0 0 0 ] /Rect [ 69.84 404.09 97.79728 415.49 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2606.28276)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 425.49 97.79728 436.89 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://humanoidmimicgen.github.io/)
->> /Border [ 0 0 0 ] /Rect [ 100.1723 404.09 135.519 415.49 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://research.nvidia.com/labs/gear/simfoundry/)
+>> /Border [ 0 0 0 ] /Rect [ 100.1723 425.49 135.519 436.89 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://openreview.net/forum?id=ekzk7TSLKr)
->> /Border [ 0 0 0 ] /Rect [ 137.894 404.09 193.8178 415.49 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2605.27724)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 355.79 97.79728 367.19 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2603.25725)
->> /Border [ 0 0 0 ] /Rect [ 69.84 355.79 97.79728 367.19 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://humanoidmimicgen.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 100.1723 355.79 135.519 367.19 ] /Subtype /Link /Type /Annot
 >>
 endobj
 11 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://softmimicgen.github.io/)
->> /Border [ 0 0 0 ] /Rect [ 100.1723 355.79 135.519 367.19 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://openreview.net/forum?id=ekzk7TSLKr)
+>> /Border [ 0 0 0 ] /Rect [ 137.894 355.79 193.8178 367.19 ] /Subtype /Link /Type /Annot
 >>
 endobj
 12 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2601.16212)
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2603.25725)
 >> /Border [ 0 0 0 ] /Rect [ 69.84 307.49 97.79728 318.89 ] /Subtype /Link /Type /Annot
 >>
 endobj
 13 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://pointbridge3d.github.io/)
+/S /URI /Type /Action /URI (https://softmimicgen.github.io/)
 >> /Border [ 0 0 0 ] /Rect [ 100.1723 307.49 135.519 318.89 ] /Subtype /Link /Type /Annot
 >>
 endobj
 14 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/NVlabs/pointbridge)
->> /Border [ 0 0 0 ] /Rect [ 137.894 307.49 162.1542 318.89 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2601.16212)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 259.19 97.79728 270.59 ] /Subtype /Link /Type /Annot
 >>
 endobj
 15 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2505.24853)
->> /Border [ 0 0 0 ] /Rect [ 69.84 259.19 97.79728 270.59 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://pointbridge3d.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 100.1723 259.19 135.519 270.59 ] /Subtype /Link /Type /Annot
 >>
 endobj
 16 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://project-dexmachina.github.io/)
->> /Border [ 0 0 0 ] /Rect [ 100.1723 259.19 135.519 270.59 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/NVlabs/pointbridge)
+>> /Border [ 0 0 0 ] /Rect [ 137.894 259.19 162.1542 270.59 ] /Subtype /Link /Type /Annot
 >>
 endobj
 17 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/MandiZhao/dexmachina)
->> /Border [ 0 0 0 ] /Rect [ 137.894 259.19 162.1542 270.59 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2505.24853)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 210.89 97.79728 222.29 ] /Subtype /Link /Type /Annot
 >>
 endobj
 18 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2509.18631)
->> /Border [ 0 0 0 ] /Rect [ 69.84 210.89 97.79728 222.29 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://project-dexmachina.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 100.1723 210.89 135.519 222.29 ] /Subtype /Link /Type /Annot
 >>
 endobj
 19 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://ot-sim2real.github.io/)
->> /Border [ 0 0 0 ] /Rect [ 100.1723 210.89 135.519 222.29 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/MandiZhao/dexmachina)
+>> /Border [ 0 0 0 ] /Rect [ 137.894 210.89 162.1542 222.29 ] /Subtype /Link /Type /Annot
 >>
 endobj
 20 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/GaTech-RL2/ot-sim2real)
->> /Border [ 0 0 0 ] /Rect [ 137.894 210.89 162.1542 222.29 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2509.18631)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 162.59 97.79728 173.99 ] /Subtype /Link /Type /Annot
 >>
 endobj
 21 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2506.13536)
->> /Border [ 0 0 0 ] /Rect [ 69.84 151.89 97.79728 163.29 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://ot-sim2real.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 100.1723 162.59 135.519 173.99 ] /Subtype /Link /Type /Annot
 >>
 endobj
 22 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://robo-mimiclabs.github.io/)
->> /Border [ 0 0 0 ] /Rect [ 100.1723 151.89 135.519 163.29 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/GaTech-RL2/ot-sim2real)
+>> /Border [ 0 0 0 ] /Rect [ 137.894 162.59 162.1542 173.99 ] /Subtype /Link /Type /Annot
 >>
 endobj
 23 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/Gatech-RL2/mimiclabs)
->> /Border [ 0 0 0 ] /Rect [ 137.894 151.89 162.1542 163.29 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2506.13536)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 103.59 97.79728 114.99 ] /Subtype /Link /Type /Annot
 >>
 endobj
 24 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2503.24361)
->> /Border [ 0 0 0 ] /Rect [ 69.84 92.89 97.79728 104.29 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://robo-mimiclabs.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 100.1723 103.59 135.519 114.99 ] /Subtype /Link /Type /Annot
 >>
 endobj
 25 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://co-training.github.io/)
->> /Border [ 0 0 0 ] /Rect [ 100.1723 92.89 135.519 104.29 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/Gatech-RL2/mimiclabs)
+>> /Border [ 0 0 0 ] /Rect [ 137.894 103.59 162.1542 114.99 ] /Subtype /Link /Type /Annot
 >>
 endobj
 26 0 obj
 <<
 /Annots [ 3 0 R 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 
   13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 
-  23 0 R 24 0 R 25 0 R ] /Contents 95 0 R /MediaBox [ 0 0 612 792 ] /Parent 94 0 R /Resources <<
+  23 0 R 24 0 R 25 0 R ] /Contents 102 0 R /MediaBox [ 0 0 612 792 ] /Parent 101 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -186,254 +186,268 @@ endobj
 27 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2410.24185)
->> /Border [ 0 0 0 ] /Rect [ 69.84 700.74 97.79728 712.14 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2503.24361)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 690.04 97.79728 701.44 ] /Subtype /Link /Type /Annot
 >>
 endobj
 28 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://dexmimicgen.github.io/)
->> /Border [ 0 0 0 ] /Rect [ 100.1723 700.74 135.519 712.14 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://co-training.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 100.1723 690.04 135.519 701.44 ] /Subtype /Link /Type /Annot
 >>
 endobj
 29 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/NVlabs/dexmimicgen/)
->> /Border [ 0 0 0 ] /Rect [ 137.894 700.74 162.1542 712.14 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2410.24185)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 641.74 97.79728 653.14 ] /Subtype /Link /Type /Annot
 >>
 endobj
 30 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2410.18907)
->> /Border [ 0 0 0 ] /Rect [ 69.84 652.44 97.79728 663.84 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://dexmimicgen.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 100.1723 641.74 135.519 653.14 ] /Subtype /Link /Type /Annot
 >>
 endobj
 31 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://skillgen.github.io/)
->> /Border [ 0 0 0 ] /Rect [ 100.1723 652.44 135.519 663.84 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/NVlabs/dexmimicgen/)
+>> /Border [ 0 0 0 ] /Rect [ 137.894 641.74 162.1542 653.14 ] /Subtype /Link /Type /Annot
 >>
 endobj
 32 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2406.02523)
->> /Border [ 0 0 0 ] /Rect [ 69.84 604.14 97.79728 615.54 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2410.18907)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 593.44 97.79728 604.84 ] /Subtype /Link /Type /Annot
 >>
 endobj
 33 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://robocasa.ai/)
->> /Border [ 0 0 0 ] /Rect [ 100.1723 604.14 135.519 615.54 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://skillgen.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 100.1723 593.44 135.519 604.84 ] /Subtype /Link /Type /Annot
 >>
 endobj
 34 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/robocasa/robocasa)
->> /Border [ 0 0 0 ] /Rect [ 137.894 604.14 162.1542 615.54 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2406.02523)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 545.14 97.79728 556.54 ] /Subtype /Link /Type /Annot
 >>
 endobj
 35 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2310.17596)
->> /Border [ 0 0 0 ] /Rect [ 69.84 545.14 97.79728 556.54 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://robocasa.ai/)
+>> /Border [ 0 0 0 ] /Rect [ 100.1723 545.14 135.519 556.54 ] /Subtype /Link /Type /Annot
 >>
 endobj
 36 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://mimicgen.github.io/)
->> /Border [ 0 0 0 ] /Rect [ 100.1723 545.14 135.519 556.54 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/robocasa/robocasa)
+>> /Border [ 0 0 0 ] /Rect [ 137.894 545.14 162.1542 556.54 ] /Subtype /Link /Type /Annot
 >>
 endobj
 37 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/NVlabs/mimicgen)
->> /Border [ 0 0 0 ] /Rect [ 137.894 545.14 162.1542 556.54 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2310.17596)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 486.14 97.79728 497.54 ] /Subtype /Link /Type /Annot
 >>
 endobj
 38 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2310.16014)
->> /Border [ 0 0 0 ] /Rect [ 69.84 486.14 97.79728 497.54 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://mimicgen.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 100.1723 486.14 135.519 497.54 ] /Subtype /Link /Type /Annot
 >>
 endobj
 39 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://hitltamp.github.io/)
->> /Border [ 0 0 0 ] /Rect [ 100.1723 486.14 135.519 497.54 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/NVlabs/mimicgen)
+>> /Border [ 0 0 0 ] /Rect [ 137.894 486.14 162.1542 497.54 ] /Subtype /Link /Type /Annot
 >>
 endobj
 40 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2305.16309)
->> /Border [ 0 0 0 ] /Rect [ 69.84 437.84 97.79728 449.24 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2310.16014)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 427.14 97.79728 438.54 ] /Subtype /Link /Type /Annot
 >>
 endobj
 41 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://mihdalal.github.io/optimus/)
->> /Border [ 0 0 0 ] /Rect [ 100.1723 437.84 135.519 449.24 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://hitltamp.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 100.1723 427.14 135.519 438.54 ] /Subtype /Link /Type /Annot
 >>
 endobj
 42 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/NVlabs/Optimus)
->> /Border [ 0 0 0 ] /Rect [ 137.894 437.84 162.1542 449.24 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2305.16309)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 378.84 97.79728 390.24 ] /Subtype /Link /Type /Annot
 >>
 endobj
 43 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2108.03298)
->> /Border [ 0 0 0 ] /Rect [ 69.84 368.14 97.79728 379.54 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://mihdalal.github.io/optimus/)
+>> /Border [ 0 0 0 ] /Rect [ 100.1723 378.84 135.519 390.24 ] /Subtype /Link /Type /Annot
 >>
 endobj
 44 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arise-initiative.github.io/robomimic-web/)
->> /Border [ 0 0 0 ] /Rect [ 100.1723 368.14 135.519 379.54 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/NVlabs/Optimus)
+>> /Border [ 0 0 0 ] /Rect [ 137.894 378.84 162.1542 390.24 ] /Subtype /Link /Type /Annot
 >>
 endobj
 45 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=qg_IVo4rB8k)
->> /Border [ 0 0 0 ] /Rect [ 137.894 368.14 165.3271 379.54 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2108.03298)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 309.14 97.79728 320.54 ] /Subtype /Link /Type /Annot
 >>
 endobj
 46 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://arise-initiative.github.io/robomimic-web/)
->> /Border [ 0 0 0 ] /Rect [ 167.7021 368.14 191.9623 379.54 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 100.1723 309.14 135.519 320.54 ] /Subtype /Link /Type /Annot
 >>
 endobj
 47 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://ai.stanford.edu/blog/robomimic/)
->> /Border [ 0 0 0 ] /Rect [ 194.3373 368.14 217.5539 379.54 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=qg_IVo4rB8k)
+>> /Border [ 0 0 0 ] /Rect [ 137.894 309.14 165.3271 320.54 ] /Subtype /Link /Type /Annot
 >>
 endobj
 48 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2012.06738)
->> /Border [ 0 0 0 ] /Rect [ 69.84 309.14 97.79728 320.54 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://arise-initiative.github.io/robomimic-web/)
+>> /Border [ 0 0 0 ] /Rect [ 167.7021 309.14 191.9623 320.54 ] /Subtype /Link /Type /Annot
 >>
 endobj
 49 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://roboturk.stanford.edu/multiarm)
->> /Border [ 0 0 0 ] /Rect [ 100.1723 309.14 135.519 320.54 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://ai.stanford.edu/blog/robomimic/)
+>> /Border [ 0 0 0 ] /Rect [ 194.3373 309.14 217.5539 320.54 ] /Subtype /Link /Type /Annot
 >>
 endobj
 50 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=5odO4_bh00U)
->> /Border [ 0 0 0 ] /Rect [ 137.894 309.14 165.3271 320.54 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2012.06738)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 250.14 97.79728 261.54 ] /Subtype /Link /Type /Annot
 >>
 endobj
 51 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2012.06733)
->> /Border [ 0 0 0 ] /Rect [ 69.84 260.84 97.79728 272.24 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://roboturk.stanford.edu/multiarm)
+>> /Border [ 0 0 0 ] /Rect [ 100.1723 250.14 135.519 261.54 ] /Subtype /Link /Type /Annot
 >>
 endobj
 52 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://sites.google.com/stanford.edu/iwr)
->> /Border [ 0 0 0 ] /Rect [ 100.1723 260.84 135.519 272.24 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=5odO4_bh00U)
+>> /Border [ 0 0 0 ] /Rect [ 137.894 250.14 165.3271 261.54 ] /Subtype /Link /Type /Annot
 >>
 endobj
 53 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=Wvh-uixQrGI)
->> /Border [ 0 0 0 ] /Rect [ 137.894 260.84 165.3271 272.24 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2012.06733)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 201.84 97.79728 213.24 ] /Subtype /Link /Type /Annot
 >>
 endobj
 54 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2009.12293)
->> /Border [ 0 0 0 ] /Rect [ 69.84 212.54 97.79728 223.94 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://sites.google.com/stanford.edu/iwr)
+>> /Border [ 0 0 0 ] /Rect [ 100.1723 201.84 135.519 213.24 ] /Subtype /Link /Type /Annot
 >>
 endobj
 55 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://robosuite.ai/)
->> /Border [ 0 0 0 ] /Rect [ 100.1723 212.54 135.519 223.94 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=Wvh-uixQrGI)
+>> /Border [ 0 0 0 ] /Rect [ 137.894 201.84 165.3271 213.24 ] /Subtype /Link /Type /Annot
 >>
 endobj
 56 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://arxiv.org/abs/2003.06085)
->> /Border [ 0 0 0 ] /Rect [ 69.84 164.24 97.79728 175.64 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2009.12293)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 153.54 97.79728 164.94 ] /Subtype /Link /Type /Annot
 >>
 endobj
 57 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://sites.google.com/view/gti2020/)
->> /Border [ 0 0 0 ] /Rect [ 100.1723 164.24 135.519 175.64 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://robosuite.ai/)
+>> /Border [ 0 0 0 ] /Rect [ 100.1723 153.54 135.519 164.94 ] /Subtype /Link /Type /Annot
 >>
 endobj
 58 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=hlvRmLlYHZ0)
->> /Border [ 0 0 0 ] /Rect [ 137.894 164.24 165.3271 175.64 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2003.06085)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 105.24 97.79728 116.64 ] /Subtype /Link /Type /Annot
 >>
 endobj
 59 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (http://arxiv.org/abs/1911.05321)
->> /Border [ 0 0 0 ] /Rect [ 69.84 115.94 97.79728 127.34 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://sites.google.com/view/gti2020/)
+>> /Border [ 0 0 0 ] /Rect [ 100.1723 105.24 135.519 116.64 ] /Subtype /Link /Type /Annot
 >>
 endobj
 60 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://sites.google.com/stanford.edu/iris/)
->> /Border [ 0 0 0 ] /Rect [ 100.1723 115.94 135.519 127.34 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=hlvRmLlYHZ0)
+>> /Border [ 0 0 0 ] /Rect [ 137.894 105.24 165.3271 116.64 ] /Subtype /Link /Type /Annot
 >>
 endobj
 61 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=_FAuO2dgDFU)
->> /Border [ 0 0 0 ] /Rect [ 137.894 115.94 165.3271 127.34 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (http://arxiv.org/abs/1911.05321)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 56.94 97.79728 68.34 ] /Subtype /Link /Type /Annot
 >>
 endobj
 62 0 obj
 <<
+/A <<
+/S /URI /Type /Action /URI (https://sites.google.com/stanford.edu/iris/)
+>> /Border [ 0 0 0 ] /Rect [ 100.1723 56.94 135.519 68.34 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=_FAuO2dgDFU)
+>> /Border [ 0 0 0 ] /Rect [ 137.894 56.94 165.3271 68.34 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
 /Annots [ 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 
   37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 
   47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 
-  57 0 R 58 0 R 59 0 R 60 0 R 61 0 R ] /Contents 96 0 R /MediaBox [ 0 0 612 792 ] /Parent 94 0 R /Resources <<
+  57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R ] /Contents 103 0 R /MediaBox [ 0 0 612 792 ] /Parent 101 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -441,122 +455,158 @@ endobj
 >> /Type /Page
 >>
 endobj
-63 0 obj
+65 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://arxiv.org/abs/1911.04052)
 >> /Border [ 0 0 0 ] /Rect [ 69.84 668.64 97.79728 680.04 ] /Subtype /Link /Type /Annot
 >>
 endobj
-64 0 obj
+66 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://roboturk.stanford.edu/realrobotdataset)
 >> /Border [ 0 0 0 ] /Rect [ 100.1723 668.64 135.519 680.04 ] /Subtype /Link /Type /Annot
 >>
 endobj
-65 0 obj
+67 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://ai.stanford.edu/blog/roboturk/)
 >> /Border [ 0 0 0 ] /Rect [ 137.894 668.64 161.1105 680.04 ] /Subtype /Link /Type /Annot
 >>
 endobj
-66 0 obj
+68 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.youtube.com/watch?v=ydiBHUqQFh0)
 >> /Border [ 0 0 0 ] /Rect [ 163.4855 668.64 184.058 680.04 ] /Subtype /Link /Type /Annot
 >>
 endobj
-67 0 obj
+69 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://arxiv.org/abs/1811.02790)
 >> /Border [ 0 0 0 ] /Rect [ 69.84 609.64 97.79728 621.04 ] /Subtype /Link /Type /Annot
 >>
 endobj
-68 0 obj
+70 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://roboturk.stanford.edu/)
 >> /Border [ 0 0 0 ] /Rect [ 100.1723 609.64 135.519 621.04 ] /Subtype /Link /Type /Annot
 >>
 endobj
-69 0 obj
+71 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.youtube.com/watch?v=ohXTrj2m2bc)
 >> /Border [ 0 0 0 ] /Rect [ 137.894 609.64 158.4665 621.04 ] /Subtype /Link /Type /Annot
 >>
 endobj
-70 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://youtu.be/cPFO9-W3J18)
->> /Border [ 0 0 0 ] /Rect [ 69.84 538.29 526.4955 550.59 ] /Subtype /Link /Type /Annot
->>
-endobj
-71 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://youtu.be/cPFO9-W3J18)
->> /Border [ 0 0 0 ] /Rect [ 69.84 526.04 122.2261 538.34 ] /Subtype /Link /Type /Annot
->>
-endobj
 72 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://awesomedigitaltwin.github.io/2026_ICRA.html)
->> /Border [ 0 0 0 ] /Rect [ 130.7644 526.04 330.3191 538.34 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/isaac-sim/AutoData)
+>> /Border [ 0 0 0 ] /Rect [ 151.2644 557.54 191.1133 569.84 ] /Subtype /Link /Type /Annot
 >>
 endobj
 73 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://youtu.be/L_45qnUVhEM?si=Sz93LPF-dRbGNwKL&t=3982)
->> /Border [ 0 0 0 ] /Rect [ 69.84 511.79 419.4411 524.09 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.youtube.com/live/jw_o0xr8MWU?si=SyO3D2LM3jO5K4hR&t=7831)
+>> /Border [ 0 0 0 ] /Rect [ 333.8776 531.04 381.409 543.34 ] /Subtype /Link /Type /Annot
 >>
 endobj
 74 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://corl25-genpriors.github.io/)
->> /Border [ 0 0 0 ] /Rect [ 427.9794 511.79 520.2294 524.09 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.youtube.com/live/wSp6AiNIrsY?si=eWldYyKFZDLMFk9G&t=6561)
+>> /Border [ 0 0 0 ] /Rect [ 401.3334 531.04 427.514 543.34 ] /Subtype /Link /Type /Annot
 >>
 endobj
 75 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://corl25-genpriors.github.io/)
->> /Border [ 0 0 0 ] /Rect [ 69.84 499.54 112.5417 511.84 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.youtube.com/live/_waPvOwL9Z8?si=5iH_Eq1je86BoBuY&t=7051)
+>> /Border [ 0 0 0 ] /Rect [ 121.09 516.79 182.575 529.09 ] /Subtype /Link /Type /Annot
 >>
 endobj
 76 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://cornell.box.com/s/s8k3ocn6fko97h1xv6xr22186gvjuk9j)
->> /Border [ 0 0 0 ] /Rect [ 69.84 485.29 463.0136 497.59 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.youtube.com/live/_waPvOwL9Z8?si=V1UpE4Kn4lFU2uqY&t=7334)
+>> /Border [ 0 0 0 ] /Rect [ 202.4994 516.79 238.945 529.09 ] /Subtype /Link /Type /Annot
 >>
 endobj
 77 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.cs.cornell.edu/events/robotics-seminar)
->> /Border [ 0 0 0 ] /Rect [ 471.5519 485.29 541.305 497.59 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://youtu.be/cPFO9-W3J18)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 450.29 526.4955 462.59 ] /Subtype /Link /Type /Annot
 >>
 endobj
 78 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.cs.cornell.edu/events/robotics-seminar)
->> /Border [ 0 0 0 ] /Rect [ 69.84 473.04 103.9983 485.34 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://youtu.be/cPFO9-W3J18)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 438.04 122.2261 450.34 ] /Subtype /Link /Type /Annot
 >>
 endobj
 79 0 obj
 <<
-/Annots [ 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 
-  73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R ] /Contents 97 0 R /MediaBox [ 0 0 612 792 ] /Parent 94 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://awesomedigitaltwin.github.io/2026_ICRA.html)
+>> /Border [ 0 0 0 ] /Rect [ 130.7644 438.04 330.3191 450.34 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://youtu.be/L_45qnUVhEM?si=Sz93LPF-dRbGNwKL&t=3982)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 423.79 419.4411 436.09 ] /Subtype /Link /Type /Annot
+>>
+endobj
+81 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://corl25-genpriors.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 427.9794 423.79 520.2294 436.09 ] /Subtype /Link /Type /Annot
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://corl25-genpriors.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 411.54 112.5417 423.84 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cornell.box.com/s/s8k3ocn6fko97h1xv6xr22186gvjuk9j)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 397.29 463.0136 409.59 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.cornell.edu/events/robotics-seminar)
+>> /Border [ 0 0 0 ] /Rect [ 471.5519 397.29 541.305 409.59 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.cornell.edu/events/robotics-seminar)
+>> /Border [ 0 0 0 ] /Rect [ 69.84 385.04 103.9983 397.34 ] /Subtype /Link /Type /Annot
+>>
+endobj
+86 0 obj
+<<
+/Annots [ 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 
+  75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 
+  85 0 R ] /Contents 104 0 R /MediaBox [ 0 0 612 792 ] /Parent 101 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -564,7 +614,7 @@ endobj
 >> /Type /Page
 >>
 endobj
-80 0 obj
+87 0 obj
 <<
 /Filter [ /FlateDecode ] /Length 685
 >>
@@ -580,7 +630,7 @@ xúÖ’›jQÜ·sØb[J1€ıóÇ˘i ICÕ›IÖ8 h(π˚Æœ/$õ¥∫ﬁaf„„—_\_^˜ÎC7æ∂Ày=tèÎ~5‘˝ˆe
 ø“Ø+˝
 ø“Ø˝ø—o˝ø—o˝ø—o˝ø—o˝ø—o˝ø—o˝ø—o˝ø—o;˝ø”Ô;˝ø”Ô;˝ø”Ô;˝ø”Ô;˝ø”Ô;˝ø”Ô;˝ø”Ô;˝ø”Ô˝–˝–˝–˝–˝–˝–˝–˝–ˇ∂!ﬁ6vv·˚>ZæCÆ™„¬<.¨úu_ﬂwÍnª√)|˛ ¡°´tendstream
 endobj
-81 0 obj
+88 0 obj
 <<
 /Filter [ /FlateDecode ] /Length 34854 /Length1 50236
 >>
@@ -731,16 +781,16 @@ YÒ¸£Ï2Ë?+ŸÖ"‰˝¸ƒKÆò®©+œeW–∫XQ√≤s¡Ê°H{A'˜´≈z…I+%L¥fÍúVÜ$õö∞ª EËßu¥¥d≈ë≠
 Z≥÷®’kµZN´“2Z§Eåùúh$_§@véû2‡TƒVQ\`˝J›'&ü"Üâ÷∏ç]∆,ª∞eº:ΩlRsÊÇÒöÙ≤qm◊•ka¸•nºl|j=ZvE`¸√√ìX˛%„Íp∑.CÀVµ∏Åxúπ}£Uk&Ò‚Ô∏ï|Y„í[æË%∞˝ñ/vw#ÁŒ&wìµ—R€ﬁ˙VØb∑µû’@ô˚^Ó¸ìo¸æeÆ¬◊=^Nê3æÓe„…ó≠yÜŸ lnk}ÜŸB@˜ög&fk€ƒojÌ≤zJÜô-@Ü:	 2Ê2‘H»¿˝≤d¯8∑jlîâV‚CÑÕJJtâL¥x!˚ºò-fø@âæ!'òÇ|@Ç@¶ﬁäR4¡îz+%s≤C±ƒ‘#$á c@p(VNΩœ?ÎùêΩø'{èxOb|÷ø2&Á6Åb4Öì öÙˇèøæñˇÅƒ¢ù€÷¥ıÖ€z√m}`z«ø∞sì{|œÅ¿°m;âG`úçı^±~ÅÎ˙∆wÜ˚Z«∑Ö[á≠˘Ô5ƒ{Q∏ıZ”∂jÕ°5R_kaë¥®-ºÆµ{b≈5√Á§u«|Z57|Fd7ê»jHZ+Ü?√{òxØ iì¥ÜIZ+§4≠e¥‡e]kiQQ£¶pÇ1Ëa¥ÙzÉ›-Na®ëù˙†˚zÔ¬è#C∫{‹n7Å!^ôÊL3ÒÇ!MºÃ‡Ã+^ÓÎÎÉﬁ#¯q≈K gK∏ç∫€Z·;¸FGw¿Íx˚vπÆ›≤«h∫ç˙¡(`£ÙîÄ≥ù∫*˛£h«Ÿ_:-”¢ÌÈ≈kuv∂πZ…ÒDÓNwoGÈ¥ú`:ç M(5ÙùT–7pŒä_u˛WÁùÏïß¡ß˛H˜”`éÉÑÔgßßè7≤Sù”ù«ÅˆÕÈ7èø…Ne¶3«3lµíÉÌÙ√åê√≥;“€wlß:Ô¥¥¥‹i™Ô<
 )ı\5lß£¥b‡'ª”†ià(=<}Ÿ.{Ó†Ad◊Ìg˚0xêËGw§?˝S\Åˇø°‰€endstream
 endobj
-82 0 obj
+89 0 obj
 <<
-/Ascent 677.2461 /CapHeight 662.1094 /Descent -215.8203 /Flags 262148 /FontBBox [ -558.1055 -306.6406 2000 1025.879 ] /FontFile2 81 0 R 
+/Ascent 677.2461 /CapHeight 662.1094 /Descent -215.8203 /Flags 262148 /FontBBox [ -558.1055 -306.6406 2000 1025.879 ] /FontFile2 88 0 R 
   /FontName /AAAAAA+TimesNewRomanPS-BoldMT /ItalicAngle 0 /MissingWidth 777.832 /StemV 165 /Type /FontDescriptor
 >>
 endobj
-83 0 obj
+90 0 obj
 <<
-/BaseFont /AAAAAA+TimesNewRomanPS-BoldMT /FirstChar 0 /FontDescriptor 82 0 R /LastChar 127 /Name /F2+0 /Subtype /TrueType 
-  /ToUnicode 80 0 R /Type /Font /Widths [ 777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 
+/BaseFont /AAAAAA+TimesNewRomanPS-BoldMT /FirstChar 0 /FontDescriptor 89 0 R /LastChar 127 /Name /F2+0 /Subtype /TrueType 
+  /ToUnicode 87 0 R /Type /Font /Widths [ 777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 
   777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 
   777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 
   777.832 777.832 250 333.0078 555.1758 500 500 1000 833.0078 277.832 
@@ -755,7 +805,7 @@ endobj
   500 500 443.8477 394.043 220.2148 394.043 520.0195 777.832 ]
 >>
 endobj
-84 0 obj
+91 0 obj
 <<
 /Filter [ /FlateDecode ] /Length 689
 >>
@@ -771,7 +821,7 @@ uî—Pr˜]üü4õB;†ÎgDX”è∑7∑√Ó‹Møèáı≤ûªÌnÿåıtx◊µ{®èªaR˙n≥[üØgó˜ı~uúLÛ·ÂÛÈ\˜∑√ˆ0ôœ
 ø“Ø+˝
 ø—o˝ø—o˝ø—o˝ø—o˝ø—o˝ø—o˝ø—o˝ø—o˝ø”Ô;˝ø”Ô;˝ø”Ô;˝ø”Ô;˝ø”Ô;˝ø”Ô;˝ø”Ô;˝ø”Ô;˝–˝–˝–˝–˝–˝–˝–˝–˝◊q›ÿX~V—˙isK]6‰eÒ`ÂÏÜ˙gâG<Ö◊o=z¶óendstream
 endobj
-85 0 obj
+92 0 obj
 <<
 /Filter [ /FlateDecode ] /Length 41890 /Length1 59536
 >>
@@ -956,16 +1006,16 @@ dı €ú*∑aímo∏_b˝(µáıèO/vÌπ⁄ »‰4[•fn⁄‡xFó«g+V[ºŸ¨è| ë<‡2¿<Ä†a}©≤Z€I∂Ü
 zì_›:`MÓ⁄(ÀcÅ∑∏BN≤õz7‚r‘LæÂ˙íáOÛ˜›@›«’~áoåÙ5utéıyÇæîﬂ„or¯}]„áFñ5_ÎÅ©XÀFn‡lÑ;[∆cjæÅ∫ô´ÒXÕ<V3èu»sHƒj^ªî6∑ué»RæO–q…òâ˝°∑®¥kiÅ%≤DÏãK≠˜ù‘|m+ªíYé•IÄ´™Ω’^Æ¬ﬁ…UŸõUïıû≈•E'Ès™ qéc)©$÷¶êoÍ_,ãsH$*Å„	´ê≈±”ñ∂7'óﬂ⁄›ôt'›MIOØØK¸ØeB˝,ÎÙXNπﬂpKa˜à{è{ø˚ò[õHtAú{ ˛Ü]Í±áÌ#ˆ=ˆ˝ˆcvWlË<ÓqÔ∑ˇ÷ŒòM4éOìOƒLÄ‚o∆1˛!(·*ïÀ:Ωv“á≥]ä3Ûj2‡ Ã¥¥‰üÅˇ>‡˜ πx/‡[Äq.a’¨∫…ÚÒà]ï¸†ceÆÒ∫z◊¬	PøB€ª⁄¥F°nØÀ
 öjúõÈ5„ƒõíì¿Ø~¯5‡è -s1ópûPfmWåƒ*)“Á?¡ãs´åãôP^Óx¨≤íƒîËQlÒ»ºkÁ=°±A)∞A@`$§1ﬁ-¡È‰á+p(˛_˘©Äendstream
 endobj
-86 0 obj
+93 0 obj
 <<
-/Ascent 693.3594 /CapHeight 662.1094 /Descent -215.8203 /Flags 4 /FontBBox [ -568.3594 -306.6406 2000 1006.836 ] /FontFile2 85 0 R 
+/Ascent 693.3594 /CapHeight 662.1094 /Descent -215.8203 /Flags 4 /FontBBox [ -568.3594 -306.6406 2000 1006.836 ] /FontFile2 92 0 R 
   /FontName /AAAAAA+TimesNewRomanPSMT /ItalicAngle 0 /MissingWidth 777.832 /StemV 87 /Type /FontDescriptor
 >>
 endobj
-87 0 obj
+94 0 obj
 <<
-/BaseFont /AAAAAA+TimesNewRomanPSMT /FirstChar 0 /FontDescriptor 86 0 R /LastChar 127 /Name /F3+0 /Subtype /TrueType 
-  /ToUnicode 84 0 R /Type /Font /Widths [ 777.832 500 277.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 
+/BaseFont /AAAAAA+TimesNewRomanPSMT /FirstChar 0 /FontDescriptor 93 0 R /LastChar 127 /Name /F3+0 /Subtype /TrueType 
+  /ToUnicode 91 0 R /Type /Font /Widths [ 777.832 500 277.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 
   777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 
   777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 
   777.832 777.832 250 333.0078 408.2031 500 500 833.0078 777.832 180.1758 
@@ -980,14 +1030,14 @@ endobj
   500 500 443.8477 479.9805 200.1953 479.9805 541.0156 777.832 ]
 >>
 endobj
-88 0 obj
+95 0 obj
 <<
 /Filter [ /FlateDecode ] /Length 696
 >>
 stream
 xúç’›jQÜ·sØb[J—=Î/“§íÜò0„6‚(£°‰Óª??I6=itΩ23˙k|5øû˜õc3æv›"õı¶_˘∞{∫‹<ÂÁM?Jm≥⁄t«Ûß”{∑]ÓG„rÛ‚ÌpÃ€yøﬁç¶”f¸PNé√[ÛÈÚt|y‹lÛ·.ˇ~ÿmó˝˝‚Î¸∏|Ÿt∑èüG„ü√*õ˛˘Æ]ºÓ˜/yõ˚c3ÕfÕ*ØÀœﬂ.˜wÀmn∆ˇ¯ÇèÀﬂˆπiOüˇO∑[Â√~ŸÂaŸ?Á—t2ô5”∏ôçrø˙Î\j/xœ”∫˚µŒ◊N 1+ùJ∑ìtÖnŸ◊h©Æ—™≠jØ:™æ®˙[’óUØ˙™ÍÎ™T}Û—©ÚßTu[uÂOï?U˛T˘SÂOï?U˛T˘SÂOï?U˛T˘SÂoÈoOM•È/£4˝eî¶øå“ÙóQö˛2J”_Fi˙À(M•È/£4˝eî¶ø≈3–“ﬂ‚hÈ/£4˝eå¶Bø¿/Ù¸Bø¿/Ù¸Bø¿/Ù¸Bø¿/Ù¸Bø¿/Ù¸Bø¿/Ù¸Bø¿/Ù¸Bø¿/Ù¸Jø¬ØÙ+¸Jø¬ØÙ+¸Jø¬ØÙ+¸Jø¬ØÙ+¸Jø¬ØÙ+¸Jø¬ØÙ+¸Jø¬ØÙ+¸Jø¬ØÙ+¸Fø¡oÙ¸Fø¡oÙ¸Fø¡oÙ¸Fø¡oÙ¸Fø¡oÙ¸Fø¡oÙ¸Fø¡oÙ¸Fø¡oÙ¸Nø√ÔÙ;¸Nø√ÔÙ;¸Nø√ÔÙ;¸Nø√ÔÙ;¸Nø√ÔÙ;¸Nø√ÔÙ;¸Nø√ÔÙ;¸Nø√ÔÙ;¸A¿Ù¸A¿Ù¸A¿Ù¸A¿Ù¸A¿Ù¸A¿Ù¸A¿Ù¸A¿Ùü7ƒy`W`#æo§Óu ≤:≠Õ”‚¡ ŸÙ˘}≥Ów{‹Ö◊CãÆ endstream
 endobj
-89 0 obj
+96 0 obj
 <<
 /Filter [ /FlateDecode ] /Length 33258 /Length1 49332
 >>
@@ -1130,16 +1180,16 @@ mVºûIÇ◊£EÎÄ*B¸V%Yx(ò2¢ Cn—…ÿ.a“GáÑ?ÁäZ<$¸)Rdé	øå1‹Ωq	Ák‡N2?Ø9/¸¨füΩ
 Ûπ2ÚÃ7ÉµöÅéŸŸ.¶´gÚ±∫TWQ3:ÔX}™ÎònŒ“≈«1æ´w;∑u].˚®'\ƒ˙πKé©¬ìÒ1[Íö?Ÿ»«ò€äÕ_\ƒ£$≈Õ˛c∂)ã°√“Õw˙âﬂ{ÛùΩΩ»uE´ß’÷bmò⁄˛óï u¬eOÍ“?O˘±∫z;\ﬁ{,KÄ—ÚﬁÆc”zƒeãœ0◊2Ww¥üaÆ!^Ô‚3x*sm«<éß∂˜é£AÖ∫–†R_#£ÌAÇµ{EªLF 5†EâG–ûAE3™¡;~DËh?.á€äéPú#‹V'JqﬁüÄ£‚—˚Á}OÁ¶(ë†‘D ÒPéGB4zÓ≈Ë∞}≠}-çﬁr1:'Gñ£CtÍˇßøæ…üá——ﬂ3wÕY|\ã&˜NY&˚.~k≠÷Sìˆ˙œ‚2ˆá»êÍ=¶O>fOF≠≠j'zπ⁄xLapΩ)ËπŒñC@rÇnÑ`ìU’V’F¢†:ì(3[î(œuMAx»3J¡Vx‘„Í®ó;éU¨/‹ﬁã<˝ÌØx€·oÁŒù€∑ÔÿI˛ A¨ßÎÿ$≤K9Î8Ê]ŸﬁõÍÙ∑Ô¯oæ_±(€Ji4«$H¥}{ä¶K•v  ‰M¿O˛Ìê√(*Jm'Ã—víK
 IâuØ@ÌuO•rûX*wfÙCˆ˙„∂AÓ≈€…˚Az»MŒc;Õw;∞Ùˇ∏êÃOendstream
 endobj
-90 0 obj
+97 0 obj
 <<
-/Ascent 694.3359 /CapHeight 662.1094 /Descent -215.8203 /Flags 68 /FontBBox [ -497.5586 -306.6406 1352.539 1023.438 ] /FontFile2 89 0 R 
+/Ascent 694.3359 /CapHeight 662.1094 /Descent -215.8203 /Flags 68 /FontBBox [ -497.5586 -306.6406 1352.539 1023.438 ] /FontFile2 96 0 R 
   /FontName /AAAAAA+TimesNewRomanPS-ItalicMT /ItalicAngle -16.33299 /MissingWidth 777.832 /StemV 87 /Type /FontDescriptor
 >>
 endobj
-91 0 obj
+98 0 obj
 <<
-/BaseFont /AAAAAA+TimesNewRomanPS-ItalicMT /FirstChar 0 /FontDescriptor 90 0 R /LastChar 127 /Name /F4+0 /Subtype /TrueType 
-  /ToUnicode 88 0 R /Type /Font /Widths [ 777.832 556.1523 556.1523 777.832 777.832 777.832 777.832 777.832 777.832 777.832 
+/BaseFont /AAAAAA+TimesNewRomanPS-ItalicMT /FirstChar 0 /FontDescriptor 97 0 R /LastChar 127 /Name /F4+0 /Subtype /TrueType 
+  /ToUnicode 95 0 R /Type /Font /Widths [ 777.832 556.1523 556.1523 777.832 777.832 777.832 777.832 777.832 777.832 777.832 
   777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 
   777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 777.832 
   777.832 777.832 250 333.0078 419.9219 500 500 833.0078 777.832 213.8672 
@@ -1154,153 +1204,160 @@ endobj
   443.8477 443.8477 389.1602 399.9023 274.9023 399.9023 541.0156 777.832 ]
 >>
 endobj
-92 0 obj
+99 0 obj
 <<
-/PageMode /UseNone /Pages 94 0 R /Type /Catalog
+/PageMode /UseNone /Pages 101 0 R /Type /Catalog
 >>
 endobj
-93 0 obj
+100 0 obj
 <<
-/Author (Ajay Mandlekar) /CreationDate (D:20260706144240-07'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260706144240-07'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author (Ajay Mandlekar) /CreationDate (D:20261101104810-08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261101104810-08'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (Research resume) /Title (Ajay Mandlekar - Resume) /Trapped /False
 >>
 endobj
-94 0 obj
+101 0 obj
 <<
-/Count 3 /Kids [ 26 0 R 62 0 R 79 0 R ] /Type /Pages
+/Count 3 /Kids [ 26 0 R 64 0 R 86 0 R ] /Type /Pages
 >>
 endobj
-95 0 obj
+102 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2860
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2804
 >>
 stream
-Gb!;e?!H=0'#+*Ae>9JV@_MqN*P]WtFZb<tf3.jB+Ur-[\sZ<F1)KiB:N[<P-jU;(ofVj4$L+G!Wk.Jt[ji/\ps7Cgn"p*^D:gkW^p9Zi"3WQ,BV3+<HgA_<<UTJ\UZ"OI#DVX*:N4;&/$cpD5IN%e(:7#ER[2nj]dA2H7k!'i(G>JdG+^+!n(j-=S.cqioT%!gd(Y5-Dc!)+*M39Qr:`Sab;Y#NLBU1,4Mu$Gr`Fhb)P0!/U2-`$;a'MJX4p,n@EGZQA*;KIYQ=CM2G#8Gs-jO%`/)eUku@PjUR,\5qNV:%B^^:;cu?*'Bn&Q5)9_7_qT!kFf\P4(bfFhAHU:1+NJa9V-?ecMD4+=5W@`:-bG$l,b0j%[!Va,%V$rdCaVNJM;K/,>iRmo[JT0Q[Ic+48('gA3r+9/-_eJ,Mfmn.O$[h>lY<sdpN8@V?cMq@1J\Gn;c0*"#2/H(GS729&(Z9$%jW1#cmI;d\q?(JP$7#cV@8;,3B[MbOfo70A1<O[(jZmjrpi^t.\d*S[^c:C0Kp/:F(*o\c^aY(7:)Kl@Ua*C.NC-'M3_F'EQ`Ngm39#?kVNUI5o].hc9r6B`=Pc(9_&9fd@qGj&gU:hlFka:jRnl;D+j3]0B*9ANL.jj'L.%c1J,o_lPh#:g3+Krrne/ugJReK"k8`[LGW1#nE\WuSG?R=)";sjjK]GhrHA<mpjhuXX`_e`BBasK5*i#?SU0D/C3@/ml,uYDcR%_Dg-_ZXM4;JNHQB4a]0CGA%)r@[^HC,&^LN.mE,+.(jn7X@''bO.q"25OkWYFP#%0Mc)1rJAL#U7jc;2H*KT-W81r\CN?<o@;I5rR_96dE8n64*95Vc$0kc0=4+Nai5e>O*I^8a<jbUKRG>n?;\g*g]@T!V@P54F1Q:!<8e,Ba2*J:@E`B"pmb\<iXRsU2#b[d@:]$C\gd;BGJlL2Q2"\3[CFMlEa9%j2^?tj]EWs?V%gM4?B/QKVYfCZBXH\)3^%;oH[A_g81e>g%7:^Rh'9kL6%ZT)5]m+$rJrc&Y^1H/.=quCGqJ&91W(^@6@j3SZ*-<[PLP7IZ2K3[X(B*5_<-fo4a)fF2F7mMD_lr>Z<EdXe@B&ju@#9Wl=[k'a4@aPe>(*ggA0BkGlP38r"r\<adUN]5TAHFKF!$\Q@i9--GASMh)3_<O?L60*V2\"D?8Uj%k\i,UrAO("\'!he5-[(0.bZ_q-hFW]*ikSH[/COJq*a,+RGP4/,MnTUh@[K=S\1l"+qIr)d&1^5.`1(p68`%\(PN66&/+@(dh%r2!-89a>Z8K/Q)u-jYSq[<>;#;+0XFIZ,^UK?j\p>r,0Sl[nkMf,*6!Y93n75aKb/*#>i4.(-=Oq\$(B0D0B@ipk%:Xp[3ig1'm9%nqDSTp<9G"m&Oe]N#4o'#)EJSk6=U28hZ>kU5.m;B1&"!K'cUNgQ`19=;Jg9ktcgmjRI$X=<J'fLCI+4Td^Nq7+Ma5BoRBnqL9kZg=Uj8c6F^.SlGV,33B0e*&G/s('$^9.s#$"fh%OherHo6J^P"o^WqIQn;G3)M\2C5khgjlK;9*\qjt1(mnEZ+5tqAWbpq*'lV/!>f@n\omIDq,qCLn(aL=]aO`a@a'XFC(:)7&+PuQ((gLY(`i6Nnc!\fg>2uC\6IBKado]:=Lm0aB2jSa*mZ:0dSl3[#,bi0oltI1?YAgH)_KGANTncJJpEIf.F`"*38]+J\,l"^,Kd!o)Af,!&'o!P7h[Wm%%,8_/d)!JJkqsA44FEc1PB0;"W514K,Un)3dt?3m?jkt(H'NSV/-_!=LD;,daf$u!,s!6RLrCk::"K[-%0E0VpiSjtp]ad8V:07HOLS]#d4i6-iJ""m:SDgt$!;qW/>oJ]Z#J-&c!R$9lA&Ad!FIptaJ!#X>?<g3#aU&(e'!.D1ESESEtUtOp3s<>9OYaYB.;)7"\nr0'%\8%7+!2p?p5@W53"=]fEaF9**m]IkC6%^iHXK_io.E03t[NH_6CK+QRqFN?#U8cQj7AZ_"4jm<&o%C7@(b5[TohFQuB-.=`$)6@Dn)Q,\0c*$'Jd'P!h]IOX)^"Sd:tY/>\<*7hj-j!gdS_^s)&]/;ra5S.nMHOQeQi/(bXKQq&E[-+S^;,'?b3=UI9$Xjs@8iI>)O*OAV>e&Npj>nO26#1G2;+&CMTVY*^EL-tfV::`.mK3^Gh\/pcp"RdR*oL0ssL74J>q[CSmJI@6J[O"A)]qfW"%;ShDs$G]&==CCX`E9leWYb[dMUr:.%1-Ya(O.E_/*@X_E),J?'oMomm5R=7Vfp^!F8_j4iKD@W>f0^1<:4iLrjGBUVI^)2WJOYY7&IZ^R&%!oNj2Z(WQB-_?k,T<rFd+`b\kI-";ieq0l\@9e+O+N[PRUZko1u!`fe'24sQf"F)0!l?8mS]hKZ02GWgo6\8Bc]g3*X_^QS(&[#h2PTuqY!ePVX?5"#-j3H+bK\Kp@?VH;cn>Nboa9N3g5@jT8sVc@kFlCFTBDLG\iN>^9;>=S4#VRq:C/[YXm=m!J8EqPEr:/$BROpB-$:$WkLHR-VP!+`P66tl!o!:3:Q)+ZU\FCWG-(PHuIB#0b8nQ/%c=HR"i<Fbl%."2f(!Z@2:ZsV)Ch[2d6;goAq@/8);TQ#3reli:j/C4;[7KgmDQ6V"A^Cqg8<VW!1Y,4.f2GaJog1>p,X3,?3;m4mKokS`1$EX+K>d3#8_$/@W8s82e;,l<cP.aUR0?3J*2Q%GR?;fXVl>9eC-7iS8YtmXF'jeRJ-Jd2pr/,NBp:8OW^/otqHOOE,9t-)F(NTu(l![ZS\K9HL!`GgB,)J?[^3,K8]h&&t'7.iD2o<[;\/'(!3q%lfbLL>a.enXurrQJ0r<*~>endstream
+Gb!;e?!H=0'#+*Ae>9JV@_MqN*>EX<eaWXOY-[Ob6Q4B_d`lkHPkjuVh1Pb<?Of9bH$j6!kY?8#Fk']7'c*23BBfGC$,BCC%SeU[D!:N-EX`gGQZ1C+qn?\X42&G.\IdDE@Cu:?Y*aN(%efC#X-@6_-NU8c)/e92j6'0nP3r;-K!/_j9(IGk)]?O.iF,D%M#7CHDp\:hWf,3^q>\@IT6.;b,:IY9EcfP^gm[P)6s->FW<9'0(:r#G\,C>is!/a=51F<eS2s;$J6ptXa].C%ndu6I0mY%3BtnWZ.d]sFo\^AL"18He?_[KNmA;G0>Nd/?fe>QO31/E.$s4;,?%[udR2$)ZXL,hsXB;ocQWR@'eDLq*08a.OSaCFq-3:UD)ifnr@q[MY_@O:WbjnT:Q,d^ADE)dj>mN;h)t.Rk^Po*21&=uj\G3uL"+AcVlK\Q.2/H(GR:5s#(Z9"gL%j!^p;I!>IY1go"%e#.4!X\fZtN'glp]:h1!2;<AjA,]rq!dJhLNU+0Fh5RiU!AfJs^Wh3![jU#idapA.1DZd59@MPF2&!aa,4e'0a3C.N'<n?d=8O<*J\LZ+M`##_-fJm_EKR_u7;d>(5![D>X;GODr-9']0ouS&HU!TM7mDU8!13!iM8_nK2!k@k)bXj1N/^r;&IpGrj@_hm-K\j7Q0*.1%//8KO(S$"!!3V50XX:WtgKUElhS,6g"$\M&8SWg4=hTNj5cJVts<N-&P:$-aY+iarLb7/,]d"i'$@\ut4"g4rOc8L'VVT(?nF.hNqa;ZjbpEi'Q4#RWq^VDQ9Pq%uHLmo,&ZNUJ.L(d=?g+O+mZ8Kf*qZlrpB5bS;bPZ+QX<u,mt%EG`*\ug+;Pf2*G<7*7F4nu$@Wilf*n,W<L;'%p-IYb1@Dj!F6JC@"2_dSK9Um3EP$E;aSI'fQ!iL7Io"Bku9N"&FPU(4HlM<b#JQ-%YA']iF>nN]XX*BZB[(kcFm^1@Vo-8MG;/*KR%U:!K)jg3Y7-uLc@d25&M_IT#O\M6M.?pf`bA?dg"?*@R=M(EMDndjdN-L]6-Ge]kK$BGiof!3cOitu7Lo(u3=P[+j78l;[up%kst@;$*maYkM,ZVW%Cmh*P3=X\Q`M7C<bi@`W<8UYLN+r]Su4eqodRP[=JZ:S$4=W*kd@Ye\.%';&RC\0oNYOXY_eV6cU]Y*.FiZ:$aNeIo%B:EN@:N`0XMTuhBXso@hJio3`<Y0H=0HqKS@LOiG\^;0)JK'`48HnPQ#7=h5]E1M&[?l\R6<G5kUrD</_VTXg[.FiL[c=p2$60_:i<s9d8t'<q8mLC8j;$O?TUrpgAHr.M6Ro>rc'QQf7j15UC>3&,14YX6oJ_n^Z-bdiYGSQ4jlaalqgTF(oZp"?9J#PR8VnD9bFF(B<+<tKWYfc(#Zh(kKLcQ2NB@j\;=N!$@7nf-PtI_hJWMW>ZUR0"1*U_@[qtU<,+Q.7L2>W6?]mi'bW3$9a$b4rl\"i=bqX\k;FVk?'a5$4,3p!naX,sG%:PG2*K"_q<dEJ/=E\aZY,5C7,,rXNo_eb5!'br[\F5GtQ2/(R].S("TWGRmVph#nTpa(V(As`r4Har3Gc@>,0opLDG*g+GdMA5fIq%\k"g-j6jCWn8jfMc9SGO3>H`"^jeI[e+US%<NQn'3IWc0mcfq!]>Fo2l#IKeqq7I(SJp%k0'Z$jOdLaZo*"d1H?1[FKt(d8c&p^.=5Do*D,RsbKUQ\m"obqhjY+`8M:e*<&$Z*c"th#nlg1<d1X4/Z+`!I#<&EA)jShm**!Q!-94kpoVf/P[d?7#PM#fnrI>+nM-c+DjJ"V36m284Ra:e&i8,TrDc#?2bjaLEXRHaO:Q'f9$E%1cCUQJrb=.!--M=isc",nUhH>N1+YiXp9\u"uY#Kf>.#n[25E^7+2S1h%5Fs.H;[+"pa>3XbKj^$`eYG,;E/gDnG?dFXF-\CPf48[O'pnk8Wj$iSV5+?\Xe@M!?=gF?HnF_^0*$\ZF2'$UuQ@faK5I59XTbS7XV*2qFR\.Mf3_ot/JS7u&bRDqKl_4Kr^DN*TeEQnRa1So^q_&qp`45M-LDJ=s_]6ISKadU9f:C/^i4d>73#J$03dCE-s:FomXY7lQuKeikAFE(kU)l`f^+40aeb_0C\CRtUrj#Yl&6i)%\WGZG5_<"9pAOf$LDAkR7SMf$uKX6lAK.`7'#$U[UL%""$p,SDUQOXYH@p`3-Db,G/o@dT37"t^IT3SfLf&Uf29*'"RNHq#mqqr.qRLnp.Yhr'qo?'/K[!c+kHbah3/*SQF]Sjq`t#aoNCn$Z;Ia'$9jNBIkkbR3*G=&'`Of6O9N6^']>O^<\Li=Jb*Xp<8K;DNo6A-Bl5mYE#tcZ,YX-H/mDkt<L^mF]UFrYI$ia,5EW.gGqm;sj?mOhYM@mmoOp;3%P@HfN1V$g)0XFpTP2<^a+!@\,Kd4^2"^O-`hCDjW&<b,TeW_S((i:&%l8IV?`$<0LI?3aleTWFG3o>O$F"U=($>C?O8g9.TA;C@3jmG^6QNEhQ[G=.$6uZL>lp0VNZUoG.$:'0W#C@Kc?)-LGRpQ4p`%<uO%E8H)5u?di8Ohm?D/H^g&dSaEE!LWarN?\29<mfiq:]QMNW7RVB!)-3J2[9R;?V1)iS*,\$BW^EPmKhH-GcF)=YW25gIXigR.c*.*lX;d96[)j!CUnW!mkT_inA,nC@I4hnrEr\$BdL7B>"1ki"hfHY]$FAYkfD&RD0J&9iri/P<>:=q5T`Q[,C:[c4le`%;(/oYu(1:;5:7uQTI+d3\&PVs!(_Q&@&eJI>?hokG,Q~>endstream
 endobj
-96 0 obj
+103 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2172
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2404
 >>
 stream
-Gb!;f>Bed\&:Vs/R$Tr`m0;0dj1^YOCss`c(>)?nbs!OF`!WqAAXSe^qAgHoODloW!nkHt"Dj&fZG)5d2F,<LOhV,U^i9V91^u-4kk)Zp2&eU>n?-j%j1m(gF?H[CK4e>U@q-07Jo-H%N1j\/GT9,tK:"-AT"i2Q**sMSpBisj.dHu9din5Y15>b>%_h)d@<BamJIYK?cO1Mpi")9hKgmD79I0#B.?Oc&2_'Vo4FnOiE6MdSA0_4m,H9U($5XsrK.Iq51LpX6@OB.Qc7'>395a=]3j2P4?gor%F44)1O*a&^q``K7bAWj#S::ALdU\TY#=aSD>0oj!F1hfk^<R8TPJ`GK*Po5O#D94=DB.jb*ASTAQ>@O4p$WY$phP$UQ^%0JRrCr^,KQ@gBps*H2/^N,h4edTqa;u2iC_^]l7B.e58c:L7=S>Gp+>T/lrUW)X<hr/0K#Vm6WFtj2bn!5XTk0(ku:qY2`,m3\Z40r:Y+u&HtC3FM]oZe16g\:D%FD=dHd#g>('kq]>[p2ZZggfoCM>3*32/i\JP6ZpK83TAKVo_,aAQ54JJQo]cIOu9dJfe9<nSgm+?=inPP68X%(%6kHXI/giGeq6nh+T"I4";W,E!i.pV>+hpDSk"DQq];<2h4nt/p7k#s'>56YjN]QLBmAli9YYt@j]*c+L?Z9?H<"=))A+LZ&&[J2UD+Xq[Ek="+P>!!i=Kf4kX`L6JYh2mLk(FN%7V#<-jd25mr9-pMB19KiSl-A=G[1UmMb!(LJ-V9^kaW;Hgj#U_&`&PB@h5m4TL2')=5UchN*?OZI.cE/qX<6F\,*^.+j*#--qs]07+^5aG.r!IqnM$Jr6(S.4<kH$X(3FnGPP!jfa74T&>(@Hf?8'[4CW&n\cA^LpO&AR0*$GY[j;P:fj's8i=fU?9B5!,D8lZUZ*7(+p&PF:SiFJNGg\-;1j%*f2R>d(a2#8c^&OGWC1_f!dZP>Li9@#UajVi1$\6d9ZS&gjpFWJLSR6[gbVIqu`RCZJ//c>6_SEO`pq%FAs&.)nPd,B1:FOOCDL.a/qBugNZ8_VJiR7D(A0oq_$Sp2NYJ/V'q18M=!c3Lnmk!nupkA9],c!em8MGMf0+?N'k\bKVIghtg:Ss#m>=h_IQ*SPgf-d];MDp-KkVQ$jV"70VM9+]=T^BXLmRDo)K0p=-7MBKComN+[./2(KVHu2[:'7:0M,!$OWp5[6+raola@kJA1*Rpo"YoH\>-2+e-Y79?6\)JSFP5HL0PDDW=>Tmu&k)BM74hSi-;!;+dWa`HB:]2u2?.Ao5)Xt4QIlHl+lDmtm?CY]_QDNi(:hQ4#,'T$Xb7I85Jk3Q'.BnXE6;R(f54s469B]W)SVu^aMbb.]X%#D,(ZE`fr9&(U;j)l.;as)!E91`qXF3l2jed+.gYuY-^rJ"kWtA4s(RgT=n./a/BZN.7Ak3&!l-XpW%k#(.7tqAm0h!7hFPTW*jaS"4AGQ(&i)E^X[64ILN:PLBqX<<l"9BN6<B%F6<L&AEJ"^J!aL[V>"92qF>t=giMBjb)=t%X]A*upW92`:@,0=R/&O5&hl@]G=Rh3hBKM-Ei#\$>u6R0_Y`CdkEhmTd)H#?"WFjS7=YkKun'g&QD08d&g;l5oB9:2aE2H[sge8rBS;b9-LrZ"CV4?[a[@R3jQ8dg"'A4aL3YKBQ5?To8X9Aa's+/WtiR$IL6ik)/L[ErF)osho@S%Gi`Q&]<`@[Mm,)rl2OHdpg.!n/qaidqXL_Lr*V#[2>cOd(tEoVu]<`X?qa/"t:2gk?O$[%0?_I"?[4B%TaV@)(W*<,FA'+k78PVKZ:(fA+D'$,W(f[u%k,Ys;o)p,mq0>JqnqpOQW-^4nfSgld\c<lm$WK7[O6^;7:riXr2tjt2t\L@5lKIr>f3n*GI"rYL8X+F'?l3R48NHS3r(AQHiuY%i7ZKM<\dm`pIT^5KeQ,=jU3oC9D98m\O;c#ZKpGRB+]rRi[M(p:Q`(O13,@Q8i,>go3QG.dn4c7?6'Zh@V1CkINI9Ho7s"LTDGlG9()-He1OB8K%+"hC?=$00&IP_>:J4Q2,24F1+4ROoZDHb`YAAC]iTc#[(&-Fq-ah]adNO5P8Y*dTg.>c(.[U$A^1VJ3!o[Pqud<"7;,BkEQ_==%8^GBM#VJTro.imFPT#B9/SRqn"\~>endstream
+Gb"/)>Bed\&:Vs/R$Tr`m0;0DD#-VaZ:UPX6J,!cl%<G5XC,73Q:^>EhiTW'.0`-^O?I4e-P0WA*m+8mq.:lSFSm!/[iYVjG2QBD!5jIb%h)[KTlUEV3dX*bN;QGkeN=dUbL.@LS)>#t@h`M`%@]gs,C3t?<$q8(,Apohb&H/Qd(*.W-YK>Oi;J?=qbJ4NRZj/e2-1[L^L0ou`8+UdOq<XuXWn+0=a]fZRXiuo+b_iIfmlDM$i#K'N5r=nP0bhgq)+M_LN=*75oLAmQSMW'09nJgn2&Nh_pjXuIOZ]SXeECt3*,\@<Qck3]6PDN5pC]"\"!(i_6O;Mcq3d4mXs8$As`2fbJ2dnJ?K!57k))^,edF9fGV452"iAG8`NWMKHi=g[b2$@Ga\d)Sg7"&g!SLh^SF(2HtH@V#;(&i!%quEk>'Ili+kB!U\gD<'A/@M7c8?6!:O'_8YWdCiXtG'+aW?n.<3ASmK'tq1&T#.mPPa30XLANAX:$R>;B*_W#O/K&W?O.V<c,6j3Q_W9_E$3`kJ6sMZ$;:['a<8l\9$7ZbHjJA`M:S\,]GdSVkJ;)q^f'A7OrS(t6.n+T"XHB/][ZO3iQ"TK""%h>_XgY7i8IpF<p?7l)s99!5_uNX5-Ar]Fg*oDbO>EaC5@6mRrM0u99;kGZIH/RuO_(6LRFT#<OM.O[L=4r>Ir:*YE[G'$31:eY%M.WnD_/GHRg0]GRtCI/DE)gY#0/66`F#X;+@kE<-b,#tG7s+s1h+ic(Ll=5Y3oVgSNMHOc%+L(5hbG#r(hQ>o^X0+>BnW-i!\S:@2XO"bfP_!Mdj$`&-o,AFXl1LFiBIk<B?]Y`TAB1!gOH1Tu=u@LY;oZC!F3bGl+[I3,&6-f[TtV[<0Cbi*IYT*N(!cn#1Q%\4/cN(kcuclBm)OYDLpt\Ef^+LY3":5+<o.O-G<A[%c[h5=\iI^;%3q-s*0Goe7dVdFB^NYaR(?Z01C;@>#B,>rN4M!"3[Er;)32_@$<\RnktG"*q79eM'.Y;>7`caf9M2).#aIc)%5R&$lr#=l,8%"!i"6PnA+4KM,bTR1bEIIYMOpYRdt7+/l32gA+_`I3?ouPiUh:Kg**_$rH&+0o3L[C9R&QH/UNS:[M54"'&-X>"Xi^VN+8:=5:"8o/MN[aCW2bN4iK\E$63s\RR5^`s(P-(59;`U^)&[F-p0#U,K$Y`6+NQ-\.l-$!Re%Sc.tfECpBnoD-X9dhc`nF,_$$3.2dP/=c.$%F[d_o!0l3rdj:=f*5U7$b5_n5/d7n4U)_S\b-NP;g3U,)o_`VCT``sRi?%#4*P#4K(`AJO[g)9(+/A,R]oUKQ1ne&iL`YjY0<_e`nVt!`6YmtY1XEfjugnQFDDO6*dD)\m*D9LZfZk$lFUs&hNfhQ#[F7&E^2Ig>R5>Ggr#dc/(9m;@8?f[P6+23K7,P^DG7!-_.m2_CA.fH8-iY!Ei_75^PQ6RlZK"\;P.tb=t<LfsRP$\?#&s@4')<-BZhMb=b_[3o0J\I[%b4Z#4W?7qAMt);,!rT0T^(pEIDI`Jl_6XN<Q>::4*7S,6.nA[/;0Nm#adj*%D`RoB*t+biGQ]+7]o^4?<*a-&FKEG_=Eq/g@ic-C0>+Ed\u.k5VP]:T8Dm+dQK5bpFUZ7t9PkiH0t^/s^)@T[I\B25%KEXY$\sZc@"q(rKH:hC;tmj?7tqAmd7#4^FPVmk`IClTA/Q>;;cU*R1A.OVb#eJ-M>mUppZXrC]"upT.S'-N1DRepetma/pb05E3oi5b,b`t66aPIMFqgAQ;E.H>a_FN^4^;pj":1fm!6%il.6:N50r30i+m">=PHX2Zl'WIscco:[%Q`hYet/bK@`t%tGub]"b&g7iJ>oPTK57VY4d5Q..dAbS``!0=nar>f#8u-RP$HkQ=I^]&<Lu5IoB2hOmb?$7rika%PF9`Dhg$6GN>b0ea;q.cm5eRI.+T`"Bh5QbSi<lC]b)kNXL5R26iA->4t;.B*H398j9<6^RC`2f(&h+p1E,[dM/RY3*D(X0I$g_^93#@ak?X&#@X:>?,tLGm\/=DaLG\^WLu?[o^0e02B"1SR_5nWpmq;(k\\@kVq@ITR3``]tL=m=V%*)\'JT$Ic,K'6G9jK's/2*Xq4&`*QAg^%C?PJsCi(3u_3.GZj>d.R-XH(n;<I4Ou73f]lb@&!K,4O%aU`#0fHeph!?E2#iW#+7Y(^T6hZ^%K:S`R8p1CPD;T'pH`^#h2p2H+Lg0\\e)G`@St&2KlW4gci\d,7j1Y9tjBnl3J?/.luQ(/Tg?nZE*35mh-DnQ6,>4tJ80erR*_i/1r`)eCktP_-)-Y&W=-8]6ep3#nnL%u6[uA0E3tQ'Fcp#uoIKAsJoM?GSA^A78JG_=+5<p%-(Y1YKVEBb0q:"Z+ZG&c~>endstream
 endobj
-97 0 obj
+104 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1924
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2237
 >>
 stream
-Gb!#\=a/RZ'RoMS\5.1o)<,sPlPfl1oHXluREj7Q6*V0+@S9[d8Me,1Y.Odl?.3ZE_Z;D]=*OO*h(&k,r)hXU*s8#ai5MZ!Q48a6Y[#)"`?e1ocTXItMNQ`/0lWh)g\TpMp^bZT.P[6#$t0b2;TqglX_!mQ7kWca`p3;j_rA?F>JApYJ`F4+gttdB)Vn)IC%Sg/,L7_Lj%Gbt>G8i*f2QWi_?:)ii&p+PUd5(A%aIKm'=_[)bf285\U'[i@Qn$/cIQ\tPb'iXMBl/P$Dg:[+\IRtLH-Z;i4)a`mc%;-,!:A^rMZZ*lCiT`G5RAm-S@/+_gUgE*V2m].c7lu[;5+L]dF=oh&rFB,-t9VS2rM047Gj]U-_iX7#6rI%Slm,*]ci6?khEpWF1kZ,sH94A.$W1[3?Xd4'b_Y-VX2[(=OO^1Eph'a.a"Vi/nJ21nbr"A<eZ?.6GOfM\CD(<3C1,;m6]mO*.#\(\;DQCss<2XYVX?ZWP6bo^'<H"iE7q"4tA)hs:gWT=OM!9b`Q*Ou('8ZqQqlAd$orVi5*u-E9eBhU$6,F!+h:2[,.+Sca,/I7rX.D"B8`D@7bhT(BK_Dsuq-_A$i/GT2KNq^=n-e[nj$SUq2`rp)V"<D+"%lbA0#8f;asYm(%2`_tRs$'KkCBk)mb^Cr@,r2J>a>HoT.91l#"Hc6('0iJrW[/%MBW\jajYhfN:K/qji)DN4T7YI?IEgXkOi(6KM("*JQR)Y<+[Cddr[DW%M&qXt#5lD<^(lS3d-A4\>3]Q0_7,C4s1>PDnFo-f+l`KcO$+YJe@gq1%&"aY(iCnp!2Q`;j"9V/i+!ShGEJcUI!)pTW9,^`8"oigS9S9o^]QAq2.MYRCL7Ps/c>N97:*]$S)ScE&PI1+^C\J6Y=N;k.-LXc3H'B'*j@ZK/`,P&8^+i>4'8Okl`?o4-$7A567^;U$HGj<5=_*HmZ-I6mMI_r$&JK$RP])p'>e;"d_%S+n59$N$%I\kC852sm7bM76E[nQBUc#FO1G@):)PuEf8PWTNk9C+ph1JTXmW]DR7.Q7DER/k2IgW_Y6Eu!(hO6kmc/uHfboI:p*;O<c<gJpG?A>S+G;kAQPai'"eaWssMZHk7CX%>kh^"A'&W;8!DuaW-P>'%)&4_^GnE=''(qDf!fbTFYoCE"H.Yl?@'QG1HZ%t4c'P76<Yi)Z*@%!W4-0/B2N/!?m2N[GYB&=p\P#EnBp13H5GVmE$:d,3+K_e\*gpUng#":@`rp+_<U&%5b/b9.Tm3T2&ruP(\\5'4KVdEf8'bVE)s!d#O@.&:FGn^)'RVi*%COa$k1(n&MBfJ`9R(-9(>1J[6Bj"SJ[om/Ml;@Dk/K"^2_L7k`gWqi)#Xc>E7g.@@F6]N2[bBk#k.H<ej4EAia<q#*&kdP!/E"tm<LgerA(#cN.FIQp1@npCqjm#\D+Aa<nj@GG:,e-ge#hV4i&dUT#lMZ-?/K#74%RPo]U38k=#asmAqhrlVUHtFNp##2p0gn]*)bu1NF@%h5Z=AW=V.GPYleGL'0FD'Bor1<Cj<TGVF`*+7PcIeG.sLoYL\Crna6.NPU]HA)I8B+Huh$Q(r=mI1l"_ES$d/FH(f0cZb-WZEN$PQXWO=O7u:-kc=omg$$N#2&^c]GRV]$5lu)4,MV1g\I+k)nBM8hNE-8i;)4#re&Rq8>_A$X4T<QO<KHgs.pk*),/?oGurYQU(*a2LiHr_i3Sp8^?Cm1Vbgp`\apD],o^VIK4__X-M`9UAGBX='@]_DYR%CQJ3bsjA&267R'XF]++R\'&[[[^m:e40jpH"&&S*!IdOMTL2gDk=Gk4=62bI[J0Z_9VDlp"^X+/Q-NW$^/@5`R8>;p67QR*8/^QW(?5OZ.3p1%5=sg[Nb2F!D24>/N#d\+ei#Lobk>M>i>#5Ofn3?5M]l9EW~>endstream
+Gb!#]>C2i1&q/*0W2CYK=!iIE/T7pG/'_eJ)PP:>mN`<[BT%nD>MCuT4MQ?FRu8R#Jt,N?q=Ieoe<d16<JON2J;kYkHj9tnfb.Us38h<N]E?3\4BPq+FSXpG0:ZK^DdX#;(q?aJ(F8b`c>fjq*6/u61<EV&bpol&__rUIJs-_j@.4epTCfGNe_N*%r8T!X^MF`i4gU/c%J37?IR%A^=0N7F6@kbGW8+\C#nBSCRuE,cL+.p?GU"u3_ECh[)8",RqK4u["`R0qgLN$9HK$q^,c(iI,Xo/!E0Z)q=AY.fNa!BBQiD^P_F$;\T,!Vb4d9$qO'hEu!0QYNhB>9KmZehnfY"e7C]#3&+qND_0W&V0c*"6&\hsROn5aM&+uK6lLks1`:AYG`![Kf\Nc1mrYfukL:O!F*"g`$?8-f-XXXX0,b4KhBcnp=lOZ:KrnWjLNad,JddLKNe$Ao56:@YLkK`27:.mRbT[cQYVY4MU4ET;[e4/964L:1Y0qcLbM47IQ(\b9FpFn,LImL=rth"co+$796$R:9B(VG.D=JoJR1j-YM!C,;nTZF]]hORKlP!nK'OJ\'5-60,f6p7p=/Z':nBcf^ntEDLLOVJ,kBgK:Q27k#(S5IUF@/Z>?)[pI[,C2'Dqr``L!>bd<)*XdE*'.N@e'ZhKEZn]Ui^Cr@'r2SDb?aD_H.nZV?pPK2.';c1*Zsh=(W\j`Q[GFli7ruK#/7pkX7YI?IEL8)0i+Yam<M^KW0hipI)gP'tC5DtO,Qu_u$MA0?@3QIgRLk3jqr!F*Zgs-V.GJX>WSV#bh0SAuZm#0^J;e/g"$BqF"diDLg9nY7m+qQ^o?/lFjAO4u5j.uu"BErIpZFKfg%0N4.-mET[s*4R5D`2sfl>9Q6.K@^gcS3jJC9pt'O_cUf/o6r1\`(@j%Kc]!M0MaNY7UcL'*SDa:]p9%-[jq&_5);i\Xb7:8K*@$cZDf@WEDdfLYOh"tG$1f.:@HN:K_D<2_"@MkFX8@3@\=>#M,N<+Cu(+FaThm_eEU'C+7kJedMCgH_>jE.JlQj9(oLUm-PR2;FB0,.<A<r)5ET`o/N2.HS=?#>t!t7r0P-OU$HbLclcm,]$EKcd'ThIGdH>ZkZZ??a"-m1p4OT-LX\Z*<T6.BMZ\*;rmZsiV2B,%4bh&6d\97G76KW?#/M\qMjQ8Z-l#c8VS/M!N(65<]$LtLSOR/BefuP=Du](;I`gV)Ij@(,YKEN[*AX=YeE05"!NtS/[+%!&%:kmjUfX(Ci``HiJ^=L./$*^/GUhG4.pRA2Whf^9:?A)U7InH/X(d%fJ+.(<>+OrO#*;+Z!^"l7PIeXR.$*%\GOt1SD:"Iq0G&(N"+Z0\Lu%pF1+DH(;o^7nJ$EgEh,[/o-C0?`8T4iD$q<*[,0+E[^+687i<Aqh,U[JT0!jJX4&k@Aja5;DtGW>k6a-G4(;'c0-#LCbU!q..Ys;.+S^&RBS++Mb\W,(GM)fg$KsN(T0"Kb49cH2CJlRP3BRTU[N&_3aJWUk]qZDR*@ioWRC/",h\-XE.J>B@C[-0>1r1M=*e`RD#$!LmenE])1hqL*&!!@[7U@\<"ac+AiU"m#qQ-hYXKU)kmj<r-)M%icj`Otiqa[@5p$1)upU:'594]Zm)UiYqDR:\>O2n9_[d&2i:Y[j(>l1!ZkZ<$b%_%)r.*2)KB+be-6b^E9/?2']lD%n!q<%=<F5D)T.He_P$*c#`j@$Oi!GsR1*HqHIkrtDtBR#q%(fn$$W=JfNf2?!;BQL!K3S=(MA3m\`U9^oV0PSl7/Lp7:EFY$4(*+[b9O?#hkr"Ki]V"6'bNX*UbL=F)RsuhS]>r"LOYuD5]?hgM2(-95o7iu-__a:`:U-VLj2TRHAXZ;5h(P#V1YS!aMYdDmV94RbNK>BLGqV@NNYcY'DU"BBLKla-@Y\hX8K4=G_u#-0B"a7rOG\6'r8sR^DYOea.CE`VU2^B4b;5;o\202IF/oCAXZe!tJZ.<I`[N6.nXAGFT)"7_XFh(5j/AY_MHs4P5>1=;2\kQrmI9Q!T?c?rFbR>DF0@Z?GSB]amTj&2V)]mUA."7G`2m@gYOH?&kg4-0ILVn1ZoBl,2q1OYHEJc2`g-Bc_*8EWKF]G=L8,CP8]VDqgK^>3=OA86_q3hD\T2b8L\D[cn+TJ<_&5Z^1M;'S]Fc.*d2-Ieqb+%E4X>;JTS7j%o,c);^`0`1jV\@:\%8\Kp*mub*fck[$8;A[.Z=l-~>endstream
 endobj
 xref
-0 98
+0 105
 0000000000 65535 f 
 0000000061 00000 n 
 0000000131 00000 n 
 0000000238 00000 n 
 0000000413 00000 n 
-0000000594 00000 n 
-0000000771 00000 n 
-0000000967 00000 n 
-0000001144 00000 n 
-0000001326 00000 n 
-0000001515 00000 n 
-0000001693 00000 n 
-0000001872 00000 n 
-0000002050 00000 n 
-0000002230 00000 n 
-0000002415 00000 n 
-0000002593 00000 n 
-0000002778 00000 n 
-0000002965 00000 n 
-0000003143 00000 n 
-0000003321 00000 n 
-0000003510 00000 n 
-0000003688 00000 n 
-0000003869 00000 n 
-0000004056 00000 n 
-0000004233 00000 n 
-0000004410 00000 n 
-0000004778 00000 n 
-0000004956 00000 n 
-0000005134 00000 n 
+0000000588 00000 n 
+0000000765 00000 n 
+0000000952 00000 n 
+0000001129 00000 n 
+0000001325 00000 n 
+0000001502 00000 n 
+0000001685 00000 n 
+0000001875 00000 n 
+0000002053 00000 n 
+0000002232 00000 n 
+0000002410 00000 n 
+0000002590 00000 n 
+0000002775 00000 n 
+0000002953 00000 n 
+0000003138 00000 n 
+0000003325 00000 n 
+0000003503 00000 n 
+0000003681 00000 n 
+0000003870 00000 n 
+0000004048 00000 n 
+0000004229 00000 n 
+0000004416 00000 n 
+0000004786 00000 n 
+0000004964 00000 n 
+0000005142 00000 n 
 0000005320 00000 n 
 0000005498 00000 n 
-0000005673 00000 n 
-0000005851 00000 n 
-0000006019 00000 n 
-0000006203 00000 n 
-0000006381 00000 n 
-0000006556 00000 n 
-0000006738 00000 n 
-0000006916 00000 n 
-0000007091 00000 n 
-0000007269 00000 n 
-0000007452 00000 n 
+0000005684 00000 n 
+0000005862 00000 n 
+0000006037 00000 n 
+0000006215 00000 n 
+0000006383 00000 n 
+0000006567 00000 n 
+0000006745 00000 n 
+0000006920 00000 n 
+0000007102 00000 n 
+0000007280 00000 n 
+0000007455 00000 n 
 0000007633 00000 n 
-0000007811 00000 n 
-0000008008 00000 n 
-0000008199 00000 n 
-0000008397 00000 n 
-0000008585 00000 n 
-0000008763 00000 n 
+0000007816 00000 n 
+0000007997 00000 n 
+0000008175 00000 n 
+0000008372 00000 n 
+0000008563 00000 n 
+0000008761 00000 n 
 0000008949 00000 n 
-0000009140 00000 n 
-0000009318 00000 n 
-0000009507 00000 n 
-0000009698 00000 n 
-0000009876 00000 n 
-0000010045 00000 n 
-0000010223 00000 n 
+0000009127 00000 n 
+0000009313 00000 n 
+0000009504 00000 n 
+0000009682 00000 n 
+0000009871 00000 n 
+0000010062 00000 n 
+0000010240 00000 n 
 0000010409 00000 n 
-0000010600 00000 n 
-0000010777 00000 n 
-0000010968 00000 n 
-0000011159 00000 n 
-0000011621 00000 n 
-0000011799 00000 n 
-0000011992 00000 n 
-0000012177 00000 n 
-0000012368 00000 n 
-0000012546 00000 n 
-0000012723 00000 n 
-0000012914 00000 n 
-0000013088 00000 n 
-0000013262 00000 n 
-0000013462 00000 n 
-0000013663 00000 n 
-0000013847 00000 n 
-0000014028 00000 n 
-0000014232 00000 n 
-0000014430 00000 n 
-0000014626 00000 n 
-0000014949 00000 n 
-0000015710 00000 n 
-0000050657 00000 n 
-0000050929 00000 n 
-0000052118 00000 n 
-0000052883 00000 n 
-0000094866 00000 n 
-0000095127 00000 n 
-0000096289 00000 n 
-0000097061 00000 n 
-0000130412 00000 n 
-0000130693 00000 n 
-0000131880 00000 n 
-0000131950 00000 n 
-0000132242 00000 n 
-0000132317 00000 n 
-0000135269 00000 n 
-0000137533 00000 n 
+0000010587 00000 n 
+0000010773 00000 n 
+0000010964 00000 n 
+0000011139 00000 n 
+0000011328 00000 n 
+0000011517 00000 n 
+0000011995 00000 n 
+0000012173 00000 n 
+0000012366 00000 n 
+0000012551 00000 n 
+0000012742 00000 n 
+0000012920 00000 n 
+0000013097 00000 n 
+0000013288 00000 n 
+0000013474 00000 n 
+0000013689 00000 n 
+0000013904 00000 n 
+0000014117 00000 n 
+0000014332 00000 n 
+0000014506 00000 n 
+0000014680 00000 n 
+0000014880 00000 n 
+0000015081 00000 n 
+0000015265 00000 n 
+0000015446 00000 n 
+0000015650 00000 n 
+0000015848 00000 n 
+0000016044 00000 n 
+0000016407 00000 n 
+0000017168 00000 n 
+0000052115 00000 n 
+0000052387 00000 n 
+0000053576 00000 n 
+0000054341 00000 n 
+0000096324 00000 n 
+0000096585 00000 n 
+0000097747 00000 n 
+0000098519 00000 n 
+0000131870 00000 n 
+0000132151 00000 n 
+0000133338 00000 n 
+0000133409 00000 n 
+0000133702 00000 n 
+0000133778 00000 n 
+0000136675 00000 n 
+0000139172 00000 n 
 trailer
 <<
 /ID 
-[<c3bce4b70454281a742468041c3f21ad><c3bce4b70454281a742468041c3f21ad>]
+[<4f337bfd3f1a5ad4af5c526b75d577a1><4f337bfd3f1a5ad4af5c526b75d577a1>]
 % ReportLab generated PDF document -- digest (opensource)
 
-/Info 93 0 R
-/Root 92 0 R
-/Size 98
+/Info 100 0 R
+/Root 99 0 R
+/Size 105
 >>
 startxref
-139549
+141502
 %%EOF

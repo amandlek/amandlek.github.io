@@ -46,6 +46,7 @@ except ImportError:
 
 DEFAULT_OUTPUT = "output/pdf/Resume.pdf"
 WEBSITE_OUTPUT = "assets/resume/Resume.pdf"
+WEBSITE_URL = "https://amandlek.github.io/"
 FONT_DIR = "/System/Library/Fonts/Supplemental"
 
 SELECTED_TALKS = [
@@ -285,7 +286,7 @@ def build_resume(output_path):
             styles["ResumeContact"],
         ),
         Paragraph(
-            '<b>Website:</b> <a href="http://ai.stanford.edu/~amandlek/" color="#000000">http://ai.stanford.edu/~amandlek/</a>',
+            f'<b>Website:</b> <a href="{esc(WEBSITE_URL)}" color="#000000">{esc(WEBSITE_URL)}</a>',
             styles["ResumeContact"],
         ),
         Spacer(1, 4),
@@ -314,6 +315,31 @@ def build_resume(output_path):
 
     story.extend(
         [
+            Paragraph("NVIDIA Research Impact", styles["ResumeSection"]),
+            Paragraph(
+                '<b>NVIDIA Product:</b> <a href="https://github.com/isaac-sim/AutoData" '
+                'color="#0000cc">AutoData</a> features our research on synthetic data generation. '
+                'Available projects: MimicGen, DexMimicGen, and SkillGen.',
+                styles["ResumeBullet"],
+                bulletText="•",
+            ),
+            Paragraph(
+                "<b>GTC 2026:</b> G1 Factory Benchmark was highlighted in Jensen's "
+                '<a href="https://www.youtube.com/live/jw_o0xr8MWU?si=SyO3D2LM3jO5K4hR&amp;t=7831" '
+                'color="#0000cc">Santa Clara</a> and '
+                '<a href="https://www.youtube.com/live/wSp6AiNIrsY?si=eWldYyKFZDLMFk9G&amp;t=6561" '
+                'color="#0000cc">Taipei</a> keynotes.',
+                styles["ResumeBullet"],
+                bulletText="•",
+            ),
+            Paragraph(
+                '<b>GTC 2025:</b> <a href="https://www.youtube.com/live/_waPvOwL9Z8?si=5iH_Eq1je86BoBuY&amp;t=7051" '
+                'color="#0000cc">DexMimicGen</a> and '
+                '<a href="https://www.youtube.com/live/_waPvOwL9Z8?si=V1UpE4Kn4lFU2uqY&amp;t=7334" '
+                "color=\"#0000cc\">SkillGen</a> were featured in Jensen's GTC keynote.",
+                styles["ResumeBullet"],
+                bulletText="•",
+            ),
             Paragraph("Research Community Engagement", styles["ResumeSection"]),
             Paragraph("<b>Selected Talks</b>", styles["ResumeBody"]),
         ]
@@ -333,7 +359,7 @@ def build_resume(output_path):
             ),
             Spacer(1, 3),
             Paragraph("<b>Academic Service</b>", styles["ResumeBody"]),
-            Paragraph("Area Chair for CoRL 2025, CoRL 2026", styles["ResumeBullet"], bulletText="•"),
+            Paragraph("Area Chair for CoRL 2025, CoRL 2026, and RSS 2027", styles["ResumeBullet"], bulletText="•"),
             Paragraph(
                 "Reviewer for CoRL, RSS, ICRA, IROS, ICLR, NeurIPS, ICML, CVPR, IEEE T-RO",
                 styles["ResumeBullet"],
