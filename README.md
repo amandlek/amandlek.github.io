@@ -215,11 +215,10 @@ To set it up:
 4. Under **HTML file**, download Google's verification file. Keep its original
    filename and content. Place it in the repository root, next to `index.html`,
    not inside `assets/`.
-5. Publish that file. Replace `googleYOURCODE.html` below with the filename Google
-   actually gave you:
+5. From the repository root, publish that file. Replace `googleYOURCODE.html`
+   below with the filename Google actually gave you:
 
    ```bash
-   cd /Users/amandlekar/Desktop/installed_libraries/amandlek.github.io
    git add -- googleYOURCODE.html
    git commit -m "Verify Google Search Console ownership"
    git push origin master
@@ -263,6 +262,9 @@ The ready-to-upload redirect is in [`deployment/stanford/`](deployment/stanford/
 Its [deployment instructions](deployment/stanford/README.md) back up the old
 homepage and replace only `index.html`, retaining Stanford-hosted PDFs and
 other assets. Stanford authentication and deployment must be performed manually.
+The shared guide uses placeholders. Machine-specific paths, account details,
+and historical hosting notes are kept in `.local/deployment-notes.md`, which
+Git ignores. Maintain those details locally when setting up a new checkout.
 
 The new homepage declares `https://amandlek.github.io/` as its canonical URL.
 `robots.txt` advertises the homepage sitemap at
@@ -275,30 +277,3 @@ Address tool does not support an old site at a path such as `/~amandlek/`.
 See Google's guidance on
 [redirects](https://developers.google.com/search/docs/crawling-indexing/301-redirects)
 and [Change of Address eligibility](https://support.google.com/webmasters/answer/9370220).
-
-The following commands describe the previous Stanford deployment process;
-use the redirect instructions above for the migration.
-
-Note: to update the website at `https://ai.stanford.edu/~amandlek/` (especially post-graduation), run the following in the home directory to manually transfer all files
-
-```
-scp -r * xenon.stanford.edu:/afs/cs.stanford.edu/u/amandlek/www/
-```
-
-Note: can also try rsync to avoid transferring everything, e.g.:
-
-```
-rsync -azvP --exclude='.git' * xenon.stanford.edu:/afs/cs.stanford.edu/u/amandlek/www/
-```
-
-Note: for password, check LastPass (xenon).
-
-(See [this link](https://cs.stanford.edu/computing-guide/web-pages) for more information)
-
-NOTE: the below is out of date - I've replaced the below website with a redirect to the above link, using an index.html file with the tag `<meta http-equiv="refresh" content="0;URL=https://ai.stanford.edu/~amandlek/">`
-
-Note: to update the website at `web.stanford.edu/~amandlek`, run the following in the home directory to manually transfer all files
-
-```
-scp -r * rice:/home/amandlek/afs-home/WWW
-```

@@ -11,22 +11,23 @@ The new website is **https://amandlek.github.io/**. This directory contains:
 ## Install manually
 
 Run the following from the root of the local `amandlek.github.io` checkout.
-Authenticate to Stanford in your own Terminal when prompted. The SSH server is
-`xenon.stanford.edu`; the web directory is
-`/afs/cs.stanford.edu/u/amandlek/www/`.
+Authenticate to Stanford in your own Terminal when prompted. Replace
+`YOUR_USERNAME`, `YOUR_HOST`, and `/path/to/web/root` with the values for your
+hosting account. Keep those values and any account-specific instructions in
+the ignored `.local/deployment-notes.md` file rather than in this shared guide.
 
 First upload the redirect under a staging filename:
 
 ```bash
 scp deployment/stanford/index.html \
-  amandlek@xenon.stanford.edu:/afs/cs.stanford.edu/u/amandlek/www/index.html.github-redirect
+  YOUR_USERNAME@YOUR_HOST:/path/to/web/root/index.html.github-redirect
 ```
 
 Then back up the old homepage and install the redirect:
 
 ```bash
-ssh amandlek@xenon.stanford.edu 'set -e
-cd /afs/cs.stanford.edu/u/amandlek/www
+ssh YOUR_USERNAME@YOUR_HOST 'set -e
+cd /path/to/web/root
 cp -p index.html "index.html.before-github-redirect.$(date -u +%Y%m%dT%H%M%SZ)"
 chmod 644 index.html.github-redirect
 mv index.html.github-redirect index.html'
